@@ -32,6 +32,7 @@ def AKTComparison (proteinKinase, PHDomain, PKCTerm):
     commonValues = proteinKinase[proteinKinase['tar'].isin(PHDomain['tar'])]
     commonValues = commonValues[commonValues['tar'].isin(PKCTerm['tar'])]
     commonValues = commonValues.sort_values(by='full_score', ascending=False)
+
     return(commonValues)
 
 
@@ -55,17 +56,24 @@ def main():
 
     for refCsv in referenceDir.rglob('*.csv'):
         names = refCsv.parts
+        # Quick loop to grab the names of the folders for easier file management later
+        # Searches the clades list to see if anything matches
         for item in names:
             for element in clades:
                 if element == item:
                     cladeName = element
-                else:
                     continue
+                else:
+                    cladeName = "NA"
+                    continue
+
         protKinase = pd.read_csv(refCsv)
+
         if len(protKinase) != 0 :
             proteinKinaseAcc = protKinase.iloc[0, 10]
         else:
             continue
+
         for comp1Csv in comparisonDir1.rglob('*.csv'):
             PHDomain = pd.read_csv(comp1Csv)
             if len(PHDomain) != 0:
@@ -78,7 +86,6 @@ def main():
                 pass
             for comp2Csv in comparisonDir2.rglob('*.csv'):
                 PKCTerm = pd.read_csv(comp2Csv)
-
                 if len(PKCTerm) != 0:
                     PKCTermAcc = PKCTerm.iloc[0, 10]
                 else:
