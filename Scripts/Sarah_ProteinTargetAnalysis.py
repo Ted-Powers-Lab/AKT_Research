@@ -96,14 +96,14 @@ def main():
     clades = ['Alveolata', 'Chlorophyta', 'Discoba',
               'Metamonada', 'Rhizaria', 'Rhodophyta',
               'Stramenophiles', 'Streptophyta']
-    
+
     dirParts = csv_directory.parts
     for element in dirParts:
         if element in clades:
             merged_csv.to_csv(f'{element}_Combined.csv', index = False)
 
-    else:
-        continue
+        else:
+            continue
 
 
 
