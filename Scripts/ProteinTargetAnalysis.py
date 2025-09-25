@@ -26,6 +26,24 @@ Seventh,
 
 
 '''
+#combining csv files in "Comparison"
+def combine_csv(input_csv):
+
+    dataframe = []
+
+    for file in pathlib.Path(input_csv).rglob('*.csv'):
+        df = pd.read_csv(file)
+        dataframe.append(df)
+
+
+    merged_csv = pd.concat(dataframe, axis = 0)
+
+    return merged_csv
+
+
+
+
+
 
 
 
@@ -49,5 +67,18 @@ def runInterproScan (fastaFile, outputDirectory):
 
 
 
+
+
+
+def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("-i")
+    arg = parser.parse_args()
+
+
+    csv_directory = pathlib.Path(arg.i)
+
+    merged_csv = combine_csv(csv_directory)
+    merged_csv.to_csv('merged_csv.csv', index = False)
 
 
