@@ -30,10 +30,20 @@ Seventh,
 def combine_csv(input_csv):
 
     dataframe = []
+    clades = ['Alveolata', 'Chlorophyta', 'Discoba',
+              'Metamonada', 'Rhizaria', 'Rhodophyta',
+              'Stramenophiles', 'Streptophyta']
+
+
 
     for file in pathlib.Path(input_csv).rglob('*.csv'):
+
+        names = file.parts
+
+
         df = pd.read_csv(file)
         dataframe.append(df)
+
 
 
     merged_csv = pd.concat(dataframe, axis = 0)
@@ -68,25 +78,11 @@ def runInterproScan (fastaFile, outputDirectory):
 
 
 
-def main():
-    parser = argparse.ArgumentParser()
-    parser.add_argument('-fa', help='fasta file')
-    parser.add_argument('-out', help='output file for the comparison csv')
-    # parser.add_argument( '-r', help='Choose whether to overwrite prexisiting files in output directory')
-    arg = parser.parse_args()
-
-    fasta = pathlib.Path(arg.fa)
-    outputfolder = pathlib.Path(arg.out)
-    print("About to run the function")
-    runInterproScan(fasta,outputfolder)
 
 
 
 
 
-
-
-<<<<<<< HEAD
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("-i")
@@ -96,13 +92,23 @@ def main():
     csv_directory = pathlib.Path(arg.i)
 
     merged_csv = combine_csv(csv_directory)
-    merged_csv.to_csv('merged_csv.csv', index = False)
+
+    clades = ['Alveolata', 'Chlorophyta', 'Discoba',
+              'Metamonada', 'Rhizaria', 'Rhodophyta',
+              'Stramenophiles', 'Streptophyta']
+    
+    dirParts = csv_directory.parts
+    for element in dirParts:
+        if element in clades:
+            merged_csv.to_csv(f'{element}_Combined.csv', index = False)
+
+    else:
+        continue
 
 
-=======
+
 
 
 
 if __name__ == "__main__":
         main()
->>>>>>> 8676a2a0f30d5f78413bf58e69caddef50e5cff7
