@@ -1,0 +1,295 @@
+CAH0522651.1	6b8177d2b1dabe30d953eeb5098df547	954	Pfam	PF00169	PH domain	119	212	4.4E-4	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+CAH0522651.1	6b8177d2b1dabe30d953eeb5098df547	954	Pfam	PF00069	Protein kinase domain	401	660	8.8E-62	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+CAI5717438.1	37986fa84dd9130678a9d5248fc6faf2	946	Pfam	PF00169	PH domain	115	208	2.8E-4	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+CAI5717438.1	37986fa84dd9130678a9d5248fc6faf2	946	Pfam	PF00069	Protein kinase domain	397	656	6.4E-62	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+CAI5722148.1	5eb1b70443ef6bbd43e0b7fcbd4a0a34	518	Pfam	PF00069	Protein kinase domain	147	410	2.6E-51	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+CAI5726857.1	d7408c761ad3e8205434123f6869cc53	949	Pfam	PF00069	Protein kinase domain	397	656	1.5E-61	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+CAI5726857.1	d7408c761ad3e8205434123f6869cc53	949	Pfam	PF00169	PH domain	115	208	6.5E-4	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+CAI5732637.1	389da5f2f757c6aa88938c7654cd7880	464	Pfam	PF00069	Protein kinase domain	93	350	2.8E-53	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+CAI5738282.1	07fe5ca0ec7a7f37427aa123322e6c73	949	Pfam	PF00169	PH domain	115	208	6.5E-4	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+CAI5738282.1	07fe5ca0ec7a7f37427aa123322e6c73	949	Pfam	PF00069	Protein kinase domain	397	656	1.5E-61	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+CAI5742609.1	997aa2c8f85d79ed8c800bc9a567a7e2	952	Pfam	PF00069	Protein kinase domain	395	654	4.8E-61	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+CAI5742609.1	997aa2c8f85d79ed8c800bc9a567a7e2	952	Pfam	PF00169	PH domain	113	206	4.8E-5	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+CAM9358776.1	3739adee41df38d183cb5f586b0e4695	520	Pfam	PF00069	Protein kinase domain	217	451	1.9E-45	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+CAM9437044.1	0762bc4d49e01e4e2b2c06b02d56d0c1	531	Pfam	PF00069	Protein kinase domain	213	433	1.2E-44	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+CAM9437044.1	0762bc4d49e01e4e2b2c06b02d56d0c1	531	Pfam	PF00169	PH domain	95	164	0.057	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+CCI41224.1	ce12ba6feb30c5569d06d86f6cd438c2	979	Pfam	PF00433	Protein kinase C terminal domain	697	761	6.3	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
+CCI41224.1	ce12ba6feb30c5569d06d86f6cd438c2	979	Pfam	PF00069	Protein kinase domain	419	676	6.6E-57	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+CCI41224.1	ce12ba6feb30c5569d06d86f6cd438c2	979	Pfam	PF00169	PH domain	139	232	0.0016	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+CCI41225.1	af67492ab3cb6257517acd7a9799507d	981	Pfam	PF00433	Protein kinase C terminal domain	699	763	6.3	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
+CCI41225.1	af67492ab3cb6257517acd7a9799507d	981	Pfam	PF00069	Protein kinase domain	419	678	2.2E-61	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+CCI41225.1	af67492ab3cb6257517acd7a9799507d	981	Pfam	PF00169	PH domain	139	232	0.0016	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+CCI42455.1	26b64e376601f8df0cf4e554b60cf363	864	Pfam	PF00169	PH domain	90	182	0.024	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+CCI42455.1	26b64e376601f8df0cf4e554b60cf363	864	Pfam	PF00069	Protein kinase domain	371	627	6.0E-57	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+CCI42456.1	e47b586bb5b17440663e57be0387e9f7	867	Pfam	PF00169	PH domain	90	182	0.024	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+CCI42456.1	e47b586bb5b17440663e57be0387e9f7	867	Pfam	PF00069	Protein kinase domain	371	630	9.8E-61	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+CCI42457.1	2fdc712b5ac127e1f3305384080c92e9	906	Pfam	PF00069	Protein kinase domain	410	669	1.1E-60	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+CCI42457.1	2fdc712b5ac127e1f3305384080c92e9	906	Pfam	PF00169	PH domain	129	221	0.025	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+CCI42458.1	0fbb419361a7cc95e96d57647bf2ac04	903	Pfam	PF00069	Protein kinase domain	410	666	6.5E-57	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+CCI42458.1	0fbb419361a7cc95e96d57647bf2ac04	903	Pfam	PF00169	PH domain	129	221	0.025	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+CCI42804.1	0e2221ffae9f028a08497ba9c74445b8	509	Pfam	PF00069	Protein kinase domain	145	406	8.3E-52	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+CCI45999.1	7276354e52d3f8e251a0d7c60129fbd5	925	Pfam	PF00069	Protein kinase domain	534	793	1.4E-60	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+CCI45999.1	7276354e52d3f8e251a0d7c60129fbd5	925	Pfam	PF12796	Ankyrin repeats (3 copies)	338	431	1.2E-12	T	29-09-2025	IPR002110	Ankyrin repeat	-	-
+CCI45999.1	7276354e52d3f8e251a0d7c60129fbd5	925	Pfam	PF00169	PH domain	87	190	2.7E-7	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+CCI46000.1	63be27cbf4de64b45e5f41511a0b6fe6	922	Pfam	PF00169	PH domain	84	187	2.6E-7	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+CCI46000.1	63be27cbf4de64b45e5f41511a0b6fe6	922	Pfam	PF00069	Protein kinase domain	531	790	1.4E-60	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+CCI46000.1	63be27cbf4de64b45e5f41511a0b6fe6	922	Pfam	PF12796	Ankyrin repeats (3 copies)	335	428	1.2E-12	T	29-09-2025	IPR002110	Ankyrin repeat	-	-
+CEG48725.1	29a60a779d7fbf3aea1e7f27b19b1f5c	930	Pfam	PF00169	PH domain	110	205	5.8E-5	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+CEG48725.1	29a60a779d7fbf3aea1e7f27b19b1f5c	930	Pfam	PF00069	Protein kinase domain	392	651	3.0E-62	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+CEG50311.1	c13c0ed0e12d4231667dfa3ffd1a333a	522	Pfam	PF00069	Protein kinase domain	141	398	7.7E-53	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+DAZ94286.1	f7a4ea9f5b43da1b32e2fe0a73b7f6c5	719	Pfam	PF00069	Protein kinase domain	381	638	1.4E-63	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+DAZ97831.1	ba440b2874791e8e017c8f6e367e0e02	494	Pfam	PF00069	Protein kinase domain	135	393	6.8E-56	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+DBA00358.1	16c80d98309804b7c07e41bf0b7d0f1f	893	Pfam	PF00169	PH domain	137	231	7.3E-6	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+DBA00358.1	16c80d98309804b7c07e41bf0b7d0f1f	893	Pfam	PF00069	Protein kinase domain	419	678	6.3E-61	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+ETK75102.1	692e09ede86f69cee9a424c5fd2f3e3b	534	Pfam	PF00069	Protein kinase domain	141	398	2.9E-53	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+ETK83972.1	439afe5bf75b274ae87970d5580e207d	927	Pfam	PF00069	Protein kinase domain	390	649	7.3E-61	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+ETK83972.1	439afe5bf75b274ae87970d5580e207d	927	Pfam	PF00169	PH domain	108	201	5.4E-5	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+ETK83973.1	439afe5bf75b274ae87970d5580e207d	927	Pfam	PF00169	PH domain	108	201	5.4E-5	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+ETK83973.1	439afe5bf75b274ae87970d5580e207d	927	Pfam	PF00069	Protein kinase domain	390	649	7.3E-61	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+ETL28522.1	692e09ede86f69cee9a424c5fd2f3e3b	534	Pfam	PF00069	Protein kinase domain	141	398	2.9E-53	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+ETL37384.1	439afe5bf75b274ae87970d5580e207d	927	Pfam	PF00169	PH domain	108	201	5.4E-5	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+ETL37384.1	439afe5bf75b274ae87970d5580e207d	927	Pfam	PF00069	Protein kinase domain	390	649	7.3E-61	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+ETL37385.1	439afe5bf75b274ae87970d5580e207d	927	Pfam	PF00169	PH domain	108	201	5.4E-5	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+ETL37385.1	439afe5bf75b274ae87970d5580e207d	927	Pfam	PF00069	Protein kinase domain	390	649	7.3E-61	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+ETL37386.1	439afe5bf75b274ae87970d5580e207d	927	Pfam	PF00169	PH domain	108	201	5.4E-5	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+ETL37386.1	439afe5bf75b274ae87970d5580e207d	927	Pfam	PF00069	Protein kinase domain	390	649	7.3E-61	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+ETL81778.1	692e09ede86f69cee9a424c5fd2f3e3b	534	Pfam	PF00069	Protein kinase domain	141	398	2.9E-53	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+ETL90542.1	439afe5bf75b274ae87970d5580e207d	927	Pfam	PF00169	PH domain	108	201	5.4E-5	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+ETL90542.1	439afe5bf75b274ae87970d5580e207d	927	Pfam	PF00069	Protein kinase domain	390	649	7.3E-61	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+ETL90543.1	439afe5bf75b274ae87970d5580e207d	927	Pfam	PF00169	PH domain	108	201	5.4E-5	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+ETL90543.1	439afe5bf75b274ae87970d5580e207d	927	Pfam	PF00069	Protein kinase domain	390	649	7.3E-61	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+ETL90544.1	439afe5bf75b274ae87970d5580e207d	927	Pfam	PF00069	Protein kinase domain	390	649	7.3E-61	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+ETL90544.1	439afe5bf75b274ae87970d5580e207d	927	Pfam	PF00169	PH domain	108	201	5.4E-5	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+ETM34981.1	4575f31d4530c13f384b67ea46338e00	534	Pfam	PF00069	Protein kinase domain	141	398	4.2E-53	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+ETM43846.1	439afe5bf75b274ae87970d5580e207d	927	Pfam	PF00169	PH domain	108	201	5.4E-5	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+ETM43846.1	439afe5bf75b274ae87970d5580e207d	927	Pfam	PF00069	Protein kinase domain	390	649	7.3E-61	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+ETM43847.1	439afe5bf75b274ae87970d5580e207d	927	Pfam	PF00169	PH domain	108	201	5.4E-5	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+ETM43847.1	439afe5bf75b274ae87970d5580e207d	927	Pfam	PF00069	Protein kinase domain	390	649	7.3E-61	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+ETM43848.1	439afe5bf75b274ae87970d5580e207d	927	Pfam	PF00169	PH domain	108	201	5.4E-5	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+ETM43848.1	439afe5bf75b274ae87970d5580e207d	927	Pfam	PF00069	Protein kinase domain	390	649	7.3E-61	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+ETV71182.1	b68c719cdd80ea8195246b4a17a1998b	836	Pfam	PF00069	Protein kinase domain	341	601	8.1E-62	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+ETV71182.1	b68c719cdd80ea8195246b4a17a1998b	836	Pfam	PF00169	PH domain	61	154	1.0E-6	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+ETV72864.1	fc9747fa15b253ac0611e38cd94aa00f	501	Pfam	PF00069	Protein kinase domain	145	402	3.0E-57	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+ETV88627.1	4ae0d8330dc4ab37735541002b5a553f	892	Pfam	PF12796	Ankyrin repeats (3 copies)	324	417	6.1E-11	T	29-09-2025	IPR002110	Ankyrin repeat	-	-
+ETV88627.1	4ae0d8330dc4ab37735541002b5a553f	892	Pfam	PF00023	Ankyrin repeat	419	450	2.8	T	29-09-2025	IPR002110	Ankyrin repeat	-	-
+ETV88627.1	4ae0d8330dc4ab37735541002b5a553f	892	Pfam	PF00169	PH domain	58	163	3.8E-9	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+ETV88627.1	4ae0d8330dc4ab37735541002b5a553f	892	Pfam	PF00069	Protein kinase domain	516	775	3.6E-62	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+ETV98311.1	196df56ef1e448ae1cf4bff33004f71c	502	Pfam	PF00069	Protein kinase domain	146	403	3.6E-57	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+ETW01800.1	1964def32d3f98f30c22ef681db11219	837	Pfam	PF00069	Protein kinase domain	339	599	3.0E-62	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+ETW01800.1	1964def32d3f98f30c22ef681db11219	837	Pfam	PF00169	PH domain	59	152	7.4E-7	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+ETW09150.1	213754c4fa0c8aca6b05415bf6f9bbaf	893	Pfam	PF00023	Ankyrin repeat	415	446	12.0	T	29-09-2025	IPR002110	Ankyrin repeat	-	-
+ETW09150.1	213754c4fa0c8aca6b05415bf6f9bbaf	893	Pfam	PF00069	Protein kinase domain	517	776	4.0E-62	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+ETW09150.1	213754c4fa0c8aca6b05415bf6f9bbaf	893	Pfam	PF00169	PH domain	57	162	2.9E-9	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+ETW09150.1	213754c4fa0c8aca6b05415bf6f9bbaf	893	Pfam	PF12796	Ankyrin repeats (3 copies)	320	413	2.6E-11	T	29-09-2025	IPR002110	Ankyrin repeat	-	-
+GLD99509.1	c5318ef351e81102e00a79f883065b94	533	Pfam	PF00069	Protein kinase domain	146	404	2.2E-55	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+GLD99509.1	c5318ef351e81102e00a79f883065b94	533	Pfam	PF00433	Protein kinase C terminal domain	428	465	3.3	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
+GMF34822.1	c745d78aac764c0d0626c31c933c7baf	537	Pfam	PF00069	Protein kinase domain	141	398	1.4E-52	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+GMF51659.1	c81d5f708f1041a7f5ecc09989b1af58	537	Pfam	PF00069	Protein kinase domain	141	398	5.4E-53	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAE8880270.1	86e33bd10f383cc60fca910cc8d0de47	814	Pfam	PF00069	Protein kinase domain	401	491	4.0E-12	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAE8880270.1	86e33bd10f383cc60fca910cc8d0de47	814	Pfam	PF00169	PH domain	119	212	4.2E-5	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+KAE8882373.1	10257e17693cc7996a14cdc4e3e52eed	458	Pfam	PF00069	Protein kinase domain	141	244	9.7E-9	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAE9003921.1	4589aeb3672cb96542a86a429e1f62ef	339	Pfam	PF00069	Protein kinase domain	141	221	1.2E-4	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAE9012884.1	bef661ff31c32494680d9387a343d337	943	Pfam	PF00069	Protein kinase domain	401	660	2.0E-61	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAE9012884.1	bef661ff31c32494680d9387a343d337	943	Pfam	PF00169	PH domain	119	212	5.2E-5	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+KAE9022931.1	43edcc86fac0086aa41b974f212854ef	537	Pfam	PF00069	Protein kinase domain	141	398	2.5E-53	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAE9026577.1	526ba4a0d2027dfcb7575bd70c6da0cd	711	Pfam	PF00169	PH domain	119	212	3.5E-5	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+KAE9029255.1	43edcc86fac0086aa41b974f212854ef	537	Pfam	PF00069	Protein kinase domain	141	398	2.5E-53	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAE9045854.1	bef661ff31c32494680d9387a343d337	943	Pfam	PF00069	Protein kinase domain	401	660	2.0E-61	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAE9045854.1	bef661ff31c32494680d9387a343d337	943	Pfam	PF00169	PH domain	119	212	5.2E-5	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+KAE9104006.1	43edcc86fac0086aa41b974f212854ef	537	Pfam	PF00069	Protein kinase domain	141	398	2.5E-53	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAE9133721.1	a1b6de5096dc4d621e0f8e3c9ef8d150	943	Pfam	PF00169	PH domain	119	212	5.2E-5	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+KAE9133721.1	a1b6de5096dc4d621e0f8e3c9ef8d150	943	Pfam	PF00069	Protein kinase domain	401	660	4.3E-61	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAE9134389.1	526ba4a0d2027dfcb7575bd70c6da0cd	711	Pfam	PF00169	PH domain	119	212	3.5E-5	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+KAE9139182.1	10257e17693cc7996a14cdc4e3e52eed	458	Pfam	PF00069	Protein kinase domain	141	244	9.7E-9	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAE9153390.1	a1b6de5096dc4d621e0f8e3c9ef8d150	943	Pfam	PF00169	PH domain	119	212	5.2E-5	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+KAE9153390.1	a1b6de5096dc4d621e0f8e3c9ef8d150	943	Pfam	PF00069	Protein kinase domain	401	660	4.3E-61	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAE9155190.1	43edcc86fac0086aa41b974f212854ef	537	Pfam	PF00069	Protein kinase domain	141	398	2.5E-53	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAE9231572.1	ce77fb3a59b8ec051432899a1333f4ff	749	Pfam	PF00169	PH domain	119	212	3.8E-5	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+KAE9251292.1	526ba4a0d2027dfcb7575bd70c6da0cd	711	Pfam	PF00169	PH domain	119	212	3.5E-5	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+KAE9257042.1	43edcc86fac0086aa41b974f212854ef	537	Pfam	PF00069	Protein kinase domain	141	398	2.5E-53	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAE9325894.1	c6062e41d188d133a78aeb09355f8291	785	Pfam	PF00169	PH domain	119	212	4.0E-5	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+KAE9336956.1	43edcc86fac0086aa41b974f212854ef	537	Pfam	PF00069	Protein kinase domain	141	398	2.5E-53	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAE9360073.1	bef661ff31c32494680d9387a343d337	943	Pfam	PF00069	Protein kinase domain	401	660	2.0E-61	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAE9360073.1	bef661ff31c32494680d9387a343d337	943	Pfam	PF00169	PH domain	119	212	5.2E-5	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+KAF0685620.1	83ad0e00bc0f91b303f34983cad413a5	484	Pfam	PF00069	Protein kinase domain	137	393	2.4E-56	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAF0685620.1	83ad0e00bc0f91b303f34983cad413a5	484	Pfam	PF00169	PH domain	33	127	0.048	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+KAF0694411.1	9e5db3d3566dfd2dd464ee13f51b5eb3	832	Pfam	PF00069	Protein kinase domain	345	604	4.0E-61	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAF0694411.1	9e5db3d3566dfd2dd464ee13f51b5eb3	832	Pfam	PF00169	PH domain	65	158	6.5E-8	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+KAF0736857.1	dcc65e5aac3a778cf8a129c87ab5a22a	831	Pfam	PF00169	PH domain	60	153	5.0E-8	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+KAF0736857.1	dcc65e5aac3a778cf8a129c87ab5a22a	831	Pfam	PF00069	Protein kinase domain	340	600	1.1E-61	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAF0744071.1	74903fe5f24fdf21d3dfcbb2b9a72350	484	Pfam	PF00169	PH domain	33	121	0.0018	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+KAF0744071.1	74903fe5f24fdf21d3dfcbb2b9a72350	484	Pfam	PF00069	Protein kinase domain	135	391	1.3E-55	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAF0757462.1	e2bc50498226bf63f6dc120bf902f2d9	473	Pfam	PF00069	Protein kinase domain	117	374	4.3E-58	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAF1315694.1	47407fedeec4a6ab2874c419722d589b	938	Pfam	PF00169	PH domain	143	236	2.3E-5	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+KAF1315694.1	47407fedeec4a6ab2874c419722d589b	938	Pfam	PF00069	Protein kinase domain	431	690	8.5E-61	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAF1328742.1	2d012465278de00d375c7a0b0ec246ef	597	Pfam	PF00069	Protein kinase domain	242	500	1.0E-55	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAF1776879.1	d93dd8714210b024c1d1b81a09379df1	910	Pfam	PF13519	von Willebrand factor type A domain	17	111	7.7E-18	T	29-09-2025	IPR002035	von Willebrand factor, type A	-	-
+KAF1776879.1	d93dd8714210b024c1d1b81a09379df1	910	Pfam	PF00069	Protein kinase domain	508	765	5.9E-53	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAF1791467.1	5b92944f30d98f0eaf84e534f40384a9	854	Pfam	PF00169	PH domain	113	206	7.2E-5	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+KAF1791467.1	5b92944f30d98f0eaf84e534f40384a9	854	Pfam	PF00069	Protein kinase domain	387	646	7.1E-61	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAG1691259.1	f4fd3c1c162d4ed11411db64b140cdb7	536	Pfam	PF00069	Protein kinase domain	141	398	7.4E-53	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAG2507456.1	8690832c04c0e3b31d5ef1870f58e862	543	Pfam	PF00069	Protein kinase domain	152	409	3.1E-53	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAG2510422.1	8690832c04c0e3b31d5ef1870f58e862	543	Pfam	PF00069	Protein kinase domain	152	409	3.1E-53	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAG2770969.1	78a41794f21092502fb6c199b6b54ee2	543	Pfam	PF00069	Protein kinase domain	141	398	2.0E-53	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAG2795365.1	b905ee6e3c17241068741c9abe95615a	935	Pfam	PF00169	PH domain	113	206	8.2E-5	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+KAG2795365.1	b905ee6e3c17241068741c9abe95615a	935	Pfam	PF00069	Protein kinase domain	395	654	8.4E-61	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAG2795706.1	b905ee6e3c17241068741c9abe95615a	935	Pfam	PF00169	PH domain	113	206	8.2E-5	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+KAG2795706.1	b905ee6e3c17241068741c9abe95615a	935	Pfam	PF00069	Protein kinase domain	395	654	8.4E-61	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAG2809096.1	78a41794f21092502fb6c199b6b54ee2	543	Pfam	PF00069	Protein kinase domain	141	398	2.0E-53	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAG2810690.1	78a41794f21092502fb6c199b6b54ee2	543	Pfam	PF00069	Protein kinase domain	141	398	2.0E-53	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAG2900797.1	7b0aa4049295544447a74f5c64b773e6	372	Pfam	PF00069	Protein kinase domain	141	236	2.1E-7	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAG2970944.1	78a41794f21092502fb6c199b6b54ee2	543	Pfam	PF00069	Protein kinase domain	141	398	2.0E-53	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAG2997678.1	e3a2132d50bca751a8049370caf09990	357	Pfam	PF00069	Protein kinase domain	141	224	1.6E-4	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAG3065459.1	55ce2ce845963eecb1e200bb818df8b7	729	Pfam	PF00169	PH domain	113	206	5.8E-5	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+KAG3079020.1	bfedeacf2fbf691fd65e8f11fc6aed47	357	Pfam	PF00069	Protein kinase domain	141	225	9.8E-5	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAG3126852.1	34460af9f6ab8f64a28e1db6948e72b5	729	Pfam	PF00169	PH domain	113	206	5.8E-5	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+KAG3127053.1	55ce2ce845963eecb1e200bb818df8b7	729	Pfam	PF00169	PH domain	113	206	5.8E-5	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+KAG3133444.1	5f9cc68d231500158744eb13aa4052ca	372	Pfam	PF00069	Protein kinase domain	141	220	1.3E-4	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAG3144505.1	e3a2132d50bca751a8049370caf09990	357	Pfam	PF00069	Protein kinase domain	141	224	1.6E-4	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAG3168437.1	e3a2132d50bca751a8049370caf09990	357	Pfam	PF00069	Protein kinase domain	141	224	1.6E-4	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAG3205709.1	34460af9f6ab8f64a28e1db6948e72b5	729	Pfam	PF00169	PH domain	113	206	5.8E-5	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+KAG4039576.1	72fd2c400c304f7b82c013140b09751e	726	Pfam	PF00169	PH domain	113	206	5.7E-5	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+KAG4047283.1	78a41794f21092502fb6c199b6b54ee2	543	Pfam	PF00069	Protein kinase domain	141	398	2.0E-53	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAG4224904.1	b905ee6e3c17241068741c9abe95615a	935	Pfam	PF00169	PH domain	113	206	8.2E-5	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+KAG4224904.1	b905ee6e3c17241068741c9abe95615a	935	Pfam	PF00069	Protein kinase domain	395	654	8.4E-61	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAG4230918.1	78a41794f21092502fb6c199b6b54ee2	543	Pfam	PF00069	Protein kinase domain	141	398	2.0E-53	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAG6615895.1	da257622e97f4f5afa190e29069113d3	533	Pfam	PF00069	Protein kinase domain	141	398	9.3E-53	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAG6623344.1	5b9495019a48fe92e1ec1d9184e98cbe	753	Pfam	PF00169	PH domain	124	217	6.1E-5	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+KAG6623344.1	5b9495019a48fe92e1ec1d9184e98cbe	753	Pfam	PF00069	Protein kinase domain	406	579	1.3E-40	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAG6951254.1	78a41794f21092502fb6c199b6b54ee2	543	Pfam	PF00069	Protein kinase domain	141	398	2.0E-53	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAG6951545.1	ac7623adeaf8939887405b5dd2fdb00c	543	Pfam	PF00069	Protein kinase domain	141	398	2.0E-53	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAG9406716.1	b13c6ed4fa882252a00d6dfbd97bd82a	484	Pfam	PF00169	PH domain	33	121	9.0E-4	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+KAG9406716.1	b13c6ed4fa882252a00d6dfbd97bd82a	484	Pfam	PF00069	Protein kinase domain	135	391	1.9E-55	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAG9415324.1	ca8e12e46840d3347c11b3d8eb53c53b	831	Pfam	PF00069	Protein kinase domain	340	600	1.1E-61	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAG9415324.1	ca8e12e46840d3347c11b3d8eb53c53b	831	Pfam	PF00169	PH domain	60	153	5.0E-8	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+KAH7460271.1	cb4af8546be2d814920971f8a36219f8	541	Pfam	PF00069	Protein kinase domain	141	398	2.2E-52	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAH7481806.1	223fb794b2f87ab6b0b241ca28d95d19	936	Pfam	PF00169	PH domain	118	211	6.5E-5	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+KAH7481806.1	223fb794b2f87ab6b0b241ca28d95d19	936	Pfam	PF00069	Protein kinase domain	400	659	1.8E-60	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAH9051784.1	74903fe5f24fdf21d3dfcbb2b9a72350	484	Pfam	PF00169	PH domain	33	121	0.0018	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+KAH9051784.1	74903fe5f24fdf21d3dfcbb2b9a72350	484	Pfam	PF00069	Protein kinase domain	135	391	1.3E-55	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAH9087215.1	dcc65e5aac3a778cf8a129c87ab5a22a	831	Pfam	PF00069	Protein kinase domain	340	600	1.1E-61	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAH9087215.1	dcc65e5aac3a778cf8a129c87ab5a22a	831	Pfam	PF00169	PH domain	60	153	5.0E-8	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+KAH9104229.1	ab097b8f45f9c5828849628689d6370b	831	Pfam	PF00069	Protein kinase domain	340	600	1.1E-61	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAH9104229.1	ab097b8f45f9c5828849628689d6370b	831	Pfam	PF00169	PH domain	60	153	5.0E-8	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+KAH9106659.1	ab097b8f45f9c5828849628689d6370b	831	Pfam	PF00069	Protein kinase domain	340	600	1.1E-61	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAH9106659.1	ab097b8f45f9c5828849628689d6370b	831	Pfam	PF00169	PH domain	60	153	5.0E-8	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+KAH9126815.1	89e85dabed8f2b148cd1ff0dd2594d80	484	Pfam	PF00069	Protein kinase domain	135	391	1.1E-55	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAH9133399.1	dcc65e5aac3a778cf8a129c87ab5a22a	831	Pfam	PF00169	PH domain	60	153	5.0E-8	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+KAH9133399.1	dcc65e5aac3a778cf8a129c87ab5a22a	831	Pfam	PF00069	Protein kinase domain	340	600	1.1E-61	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAH9136619.1	89e85dabed8f2b148cd1ff0dd2594d80	484	Pfam	PF00069	Protein kinase domain	135	391	1.1E-55	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAH9140888.1	74903fe5f24fdf21d3dfcbb2b9a72350	484	Pfam	PF00069	Protein kinase domain	135	391	1.3E-55	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAH9140888.1	74903fe5f24fdf21d3dfcbb2b9a72350	484	Pfam	PF00169	PH domain	33	121	0.0018	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+KAH9189159.1	89e85dabed8f2b148cd1ff0dd2594d80	484	Pfam	PF00069	Protein kinase domain	135	391	1.1E-55	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAH9196011.1	ab097b8f45f9c5828849628689d6370b	831	Pfam	PF00069	Protein kinase domain	340	600	1.1E-61	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAH9196011.1	ab097b8f45f9c5828849628689d6370b	831	Pfam	PF00169	PH domain	60	153	5.0E-8	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+KAI9906447.1	36dc678d1e3b2012b53e2cbda19b88b5	944	Pfam	PF00069	Protein kinase domain	396	655	1.1E-61	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAI9906447.1	36dc678d1e3b2012b53e2cbda19b88b5	944	Pfam	PF00169	PH domain	114	207	3.9E-5	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+KAI9911328.1	4953c6cd3cadfd372c48c6e6c95ed30e	527	Pfam	PF00069	Protein kinase domain	142	398	1.3E-54	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAI9986143.1	d2fd243c1c94b9f3511c6a7170552a0e	540	Pfam	PF00069	Protein kinase domain	143	398	4.8E-53	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAI9996106.1	50282cc413d8ec4673d1f418325a172f	924	Pfam	PF00069	Protein kinase domain	390	649	3.1E-61	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAI9996106.1	50282cc413d8ec4673d1f418325a172f	924	Pfam	PF00169	PH domain	108	201	8.0E-5	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+KAJ0402007.1	b1f7ea9eb9c170651757203a6e9c9fbc	908	Pfam	PF00169	PH domain	108	211	5.9E-8	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+KAJ0402007.1	b1f7ea9eb9c170651757203a6e9c9fbc	908	Pfam	PF12796	Ankyrin repeats (3 copies)	335	428	2.9E-13	T	29-09-2025	IPR002110	Ankyrin repeat	-	-
+KAJ0402007.1	b1f7ea9eb9c170651757203a6e9c9fbc	908	Pfam	PF00069	Protein kinase domain	531	790	5.6E-61	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAJ0405897.1	925cb225808a3580bf09ea5eff1cdec7	908	Pfam	PF00169	PH domain	108	211	5.9E-8	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+KAJ0405897.1	925cb225808a3580bf09ea5eff1cdec7	908	Pfam	PF00069	Protein kinase domain	531	790	5.6E-61	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAJ0405897.1	925cb225808a3580bf09ea5eff1cdec7	908	Pfam	PF12796	Ankyrin repeats (3 copies)	335	428	2.9E-13	T	29-09-2025	IPR002110	Ankyrin repeat	-	-
+KAJ0406195.1	457adb6efa2724484d414bee0776a3b3	524	Pfam	PF00069	Protein kinase domain	146	404	1.9E-56	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAJ0406195.1	457adb6efa2724484d414bee0776a3b3	524	Pfam	PF00433	Protein kinase C terminal domain	427	465	0.56	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAJ0410773.1	706025421ce546271e8ce9d29bb0285d	524	Pfam	PF00069	Protein kinase domain	146	404	1.9E-56	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAJ0410773.1	706025421ce546271e8ce9d29bb0285d	524	Pfam	PF00433	Protein kinase C terminal domain	427	465	2.0	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAJ0410947.1	5e282263ee3cd0b182e4dcebc331770f	830	Pfam	PF00069	Protein kinase domain	448	704	5.9E-57	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAJ0410947.1	5e282263ee3cd0b182e4dcebc331770f	830	Pfam	PF00169	PH domain	162	256	2.1E-6	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+KAJ8559201.1	79bdff80bb52ba72f8a4b7bbcb77a8b8	564	Pfam	PF00069	Protein kinase domain	172	429	1.1E-52	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAK1947678.1	7d183fb8f78f169d5b806a44a81a028b	536	Pfam	PF00069	Protein kinase domain	141	398	1.5E-53	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAL0583002.1	c692594eeaa4cdaff3a0deeb1b5412a9	925	Pfam	PF00169	PH domain	87	190	2.7E-7	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+KAL0583002.1	c692594eeaa4cdaff3a0deeb1b5412a9	925	Pfam	PF12796	Ankyrin repeats (3 copies)	338	431	1.2E-12	T	29-09-2025	IPR002110	Ankyrin repeat	-	-
+KAL0583002.1	c692594eeaa4cdaff3a0deeb1b5412a9	925	Pfam	PF00069	Protein kinase domain	534	793	1.2E-60	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAL0592207.1	e1c7590aae76a3d38dc9e7c03eb88bec	509	Pfam	PF00069	Protein kinase domain	145	406	1.5E-51	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAL0592249.1	af67492ab3cb6257517acd7a9799507d	981	Pfam	PF00169	PH domain	139	232	0.0016	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+KAL0592249.1	af67492ab3cb6257517acd7a9799507d	981	Pfam	PF00433	Protein kinase C terminal domain	699	763	6.3	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAL0592249.1	af67492ab3cb6257517acd7a9799507d	981	Pfam	PF00069	Protein kinase domain	419	678	2.2E-61	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAL3657400.1	c0f40d2faad72f6a5a8489d009113905	537	Pfam	PF00069	Protein kinase domain	141	398	2.4E-53	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAL4085934.1	cb4af8546be2d814920971f8a36219f8	541	Pfam	PF00069	Protein kinase domain	141	398	2.2E-52	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAL4096372.1	1465f7cca76f28fdd0023016cafd7259	936	Pfam	PF00169	PH domain	118	211	6.5E-5	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+KAL4096372.1	1465f7cca76f28fdd0023016cafd7259	936	Pfam	PF00069	Protein kinase domain	400	659	1.8E-60	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAL4125717.1	223fb794b2f87ab6b0b241ca28d95d19	936	Pfam	PF00169	PH domain	118	211	6.5E-5	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+KAL4125717.1	223fb794b2f87ab6b0b241ca28d95d19	936	Pfam	PF00069	Protein kinase domain	400	659	1.8E-60	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAL4130567.1	cb4af8546be2d814920971f8a36219f8	541	Pfam	PF00069	Protein kinase domain	141	398	2.2E-52	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAL4146423.1	aa31123b424c06ec3aa576a96c15b3f3	541	Pfam	PF00069	Protein kinase domain	141	398	2.2E-52	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAL4152614.1	33f67f7a1a7547153bf7a2ef6bd1a592	936	Pfam	PF00069	Protein kinase domain	400	659	1.8E-60	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAL4152614.1	33f67f7a1a7547153bf7a2ef6bd1a592	936	Pfam	PF00169	PH domain	118	211	6.5E-5	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+KAL4170326.1	223fb794b2f87ab6b0b241ca28d95d19	936	Pfam	PF00169	PH domain	118	211	6.5E-5	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+KAL4170326.1	223fb794b2f87ab6b0b241ca28d95d19	936	Pfam	PF00069	Protein kinase domain	400	659	1.8E-60	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KAL4173318.1	cb4af8546be2d814920971f8a36219f8	541	Pfam	PF00069	Protein kinase domain	141	398	2.2E-52	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KUF83073.1	3bdba65815c0d5a3ed1683eedb447892	534	Pfam	PF00069	Protein kinase domain	141	398	2.3E-53	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+KUF92845.1	439afe5bf75b274ae87970d5580e207d	927	Pfam	PF00169	PH domain	108	201	5.4E-5	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+KUF92845.1	439afe5bf75b274ae87970d5580e207d	927	Pfam	PF00069	Protein kinase domain	390	649	7.3E-61	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+OQR86556.1	62f11c9d146e7a45a24c5a48a3480ce2	479	Pfam	PF00069	Protein kinase domain	135	391	1.5E-58	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+OQR86556.1	62f11c9d146e7a45a24c5a48a3480ce2	479	Pfam	PF00169	PH domain	33	121	0.031	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+OQS01664.1	68b757656a1fe1ed69fce530e3b7ec9d	877	Pfam	PF00069	Protein kinase domain	345	604	6.5E-63	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+OQS01664.1	68b757656a1fe1ed69fce530e3b7ec9d	877	Pfam	PF00169	PH domain	65	158	4.1E-8	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+OQS02185.1	2a4adb2ac14601d4edaa6d4eb65f55ab	488	Pfam	PF00169	PH domain	43	128	0.003	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+OQS02185.1	2a4adb2ac14601d4edaa6d4eb65f55ab	488	Pfam	PF00069	Protein kinase domain	143	398	1.7E-58	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+OWZ16675.1	b902618c60b55419a4c5062e97276f6e	539	Pfam	PF00069	Protein kinase domain	141	398	4.7E-53	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+OWZ21121.1	893ec5708d08957c58392bce14a4b059	922	Pfam	PF00069	Protein kinase domain	383	642	2.4E-60	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+OWZ21121.1	893ec5708d08957c58392bce14a4b059	922	Pfam	PF00169	PH domain	101	194	8.0E-5	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+RAW40710.1	78a41794f21092502fb6c199b6b54ee2	543	Pfam	PF00069	Protein kinase domain	141	398	2.0E-53	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+RAW43408.1	b905ee6e3c17241068741c9abe95615a	935	Pfam	PF00069	Protein kinase domain	395	654	8.4E-61	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+RAW43408.1	b905ee6e3c17241068741c9abe95615a	935	Pfam	PF00169	PH domain	113	206	8.2E-5	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+RHY06484.1	012e19019351eb5e01c178bc5993abaf	501	Pfam	PF00069	Protein kinase domain	145	402	7.0E-57	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+RHY12049.1	38b17dd144f3a1f4470fc464bcb25c58	890	Pfam	PF00069	Protein kinase domain	514	773	3.6E-62	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+RHY12049.1	38b17dd144f3a1f4470fc464bcb25c58	890	Pfam	PF00169	PH domain	58	163	3.8E-9	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+RHY12049.1	38b17dd144f3a1f4470fc464bcb25c58	890	Pfam	PF12796	Ankyrin repeats (3 copies)	322	415	6.1E-11	T	29-09-2025	IPR002110	Ankyrin repeat	-	-
+RHY12049.1	38b17dd144f3a1f4470fc464bcb25c58	890	Pfam	PF00023	Ankyrin repeat	417	448	2.8	T	29-09-2025	IPR002110	Ankyrin repeat	-	-
+RHY14914.1	0f62ee9353a5db300c1a5e231d50f802	502	Pfam	PF00069	Protein kinase domain	145	402	9.4E-52	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+RHY15099.1	38b17dd144f3a1f4470fc464bcb25c58	890	Pfam	PF00169	PH domain	58	163	3.8E-9	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+RHY15099.1	38b17dd144f3a1f4470fc464bcb25c58	890	Pfam	PF00069	Protein kinase domain	514	773	3.6E-62	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+RHY15099.1	38b17dd144f3a1f4470fc464bcb25c58	890	Pfam	PF00023	Ankyrin repeat	417	448	2.8	T	29-09-2025	IPR002110	Ankyrin repeat	-	-
+RHY15099.1	38b17dd144f3a1f4470fc464bcb25c58	890	Pfam	PF12796	Ankyrin repeats (3 copies)	322	415	6.1E-11	T	29-09-2025	IPR002110	Ankyrin repeat	-	-
+RHY23657.1	07869d6f8bf44a4966f00d4740ade845	855	Pfam	PF00169	PH domain	69	158	2.7E-6	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+RHY23657.1	07869d6f8bf44a4966f00d4740ade845	855	Pfam	PF00069	Protein kinase domain	485	617	1.4E-23	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+RHY23657.1	07869d6f8bf44a4966f00d4740ade845	855	Pfam	PF00069	Protein kinase domain	353	469	2.7E-14	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+RHY28739.1	41e78aee3a3604b26406e6a1c905ed25	502	Pfam	PF00069	Protein kinase domain	146	403	3.5E-57	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+RHY35159.1	c42216820a30aeb8c03be8e28cfcd51b	912	Pfam	PF00023	Ankyrin repeat	350	380	0.29	T	29-09-2025	IPR002110	Ankyrin repeat	-	-
+RHY35159.1	c42216820a30aeb8c03be8e28cfcd51b	912	Pfam	PF12796	Ankyrin repeats (3 copies)	387	457	1.7E-6	T	29-09-2025	IPR002110	Ankyrin repeat	-	-
+RHY35159.1	c42216820a30aeb8c03be8e28cfcd51b	912	Pfam	PF00169	PH domain	57	162	3.0E-9	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+RHY35159.1	c42216820a30aeb8c03be8e28cfcd51b	912	Pfam	PF00069	Protein kinase domain	518	795	8.9E-57	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+RHY46449.1	f20da9ce816ddff12d153fef549e9fc8	501	Pfam	PF00069	Protein kinase domain	145	402	7.0E-57	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+RHY57236.1	1afff2d2829f1c0774af2ad9a1610ce8	501	Pfam	PF00069	Protein kinase domain	145	402	6.3E-57	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+RHY61468.1	38b17dd144f3a1f4470fc464bcb25c58	890	Pfam	PF00069	Protein kinase domain	514	773	3.6E-62	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+RHY61468.1	38b17dd144f3a1f4470fc464bcb25c58	890	Pfam	PF00169	PH domain	58	163	3.8E-9	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+RHY61468.1	38b17dd144f3a1f4470fc464bcb25c58	890	Pfam	PF12796	Ankyrin repeats (3 copies)	322	415	6.1E-11	T	29-09-2025	IPR002110	Ankyrin repeat	-	-
+RHY61468.1	38b17dd144f3a1f4470fc464bcb25c58	890	Pfam	PF00023	Ankyrin repeat	417	448	2.8	T	29-09-2025	IPR002110	Ankyrin repeat	-	-
+RHY62637.1	38b17dd144f3a1f4470fc464bcb25c58	890	Pfam	PF00169	PH domain	58	163	3.8E-9	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+RHY62637.1	38b17dd144f3a1f4470fc464bcb25c58	890	Pfam	PF00069	Protein kinase domain	514	773	3.6E-62	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+RHY62637.1	38b17dd144f3a1f4470fc464bcb25c58	890	Pfam	PF00023	Ankyrin repeat	417	448	2.8	T	29-09-2025	IPR002110	Ankyrin repeat	-	-
+RHY62637.1	38b17dd144f3a1f4470fc464bcb25c58	890	Pfam	PF12796	Ankyrin repeats (3 copies)	322	415	6.1E-11	T	29-09-2025	IPR002110	Ankyrin repeat	-	-
+RHY69359.1	38b17dd144f3a1f4470fc464bcb25c58	890	Pfam	PF00069	Protein kinase domain	514	773	3.6E-62	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+RHY69359.1	38b17dd144f3a1f4470fc464bcb25c58	890	Pfam	PF00169	PH domain	58	163	3.8E-9	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+RHY69359.1	38b17dd144f3a1f4470fc464bcb25c58	890	Pfam	PF12796	Ankyrin repeats (3 copies)	322	415	6.1E-11	T	29-09-2025	IPR002110	Ankyrin repeat	-	-
+RHY69359.1	38b17dd144f3a1f4470fc464bcb25c58	890	Pfam	PF00023	Ankyrin repeat	417	448	2.8	T	29-09-2025	IPR002110	Ankyrin repeat	-	-
+RHY78652.1	f20da9ce816ddff12d153fef549e9fc8	501	Pfam	PF00069	Protein kinase domain	145	402	7.0E-57	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+RHY79315.1	f20da9ce816ddff12d153fef549e9fc8	501	Pfam	PF00069	Protein kinase domain	145	402	7.0E-57	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+RHY93989.1	9f9c6c175c130e8a3b8bbbdbb6a96122	501	Pfam	PF00069	Protein kinase domain	145	402	7.7E-54	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+RHZ09531.1	b2b90ed1d50ecb76508f5a972d9676b3	501	Pfam	PF00069	Protein kinase domain	145	402	1.9E-55	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+RLN20411.1	8690832c04c0e3b31d5ef1870f58e862	543	Pfam	PF00069	Protein kinase domain	152	409	3.1E-53	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+RLN26716.1	106ea9c2f42fd9748a59f8f55b44b282	544	Pfam	PF00069	Protein kinase domain	143	400	3.2E-53	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+RLN53509.1	5014eab79be0e0e4af041b77627b2c69	498	Pfam	PF00069	Protein kinase domain	141	398	2.5E-53	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+RLN70296.1	5014eab79be0e0e4af041b77627b2c69	498	Pfam	PF00069	Protein kinase domain	141	398	2.5E-53	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+RLN74134.1	8690832c04c0e3b31d5ef1870f58e862	543	Pfam	PF00069	Protein kinase domain	152	409	3.1E-53	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+RLN98543.1	4f72dc49d6f33f3cd8fbb4cbe6d1f6e9	545	Pfam	PF00069	Protein kinase domain	144	401	3.6E-53	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+RLO11326.1	8b9e372090d9f449eb7c8beeae07d8d6	501	Pfam	PF00069	Protein kinase domain	145	402	3.0E-57	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+RQM11690.1	a57ddb78e8b8c7b3a95869edd928ede8	464	Pfam	PF00069	Protein kinase domain	93	350	9.4E-52	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+TDH65317.1	53ae7f5f768589fd92af841ddae8f1ea	924	Pfam	PF00169	PH domain	106	201	3.4E-5	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+TDH65317.1	53ae7f5f768589fd92af841ddae8f1ea	924	Pfam	PF00069	Protein kinase domain	388	647	1.7E-62	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+TMW56325.1	abfc6f723f1927d1e250434a96b16302	945	Pfam	PF00069	Protein kinase domain	607	864	2.4E-63	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+TMW65054.1	c4f25c10e4afbbfd6c73a5c2c99d21c7	513	Pfam	PF00069	Protein kinase domain	147	405	4.1E-56	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+TYZ68158.1	bd820e81a3d8f8833de347618b2fe949	454	Pfam	PF00069	Protein kinase domain	139	234	4.9E-8	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+TYZ68158.1	bd820e81a3d8f8833de347618b2fe949	454	Pfam	PF00069	Protein kinase domain	242	350	2.0E-13	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+UIZ26225.1	d7408c761ad3e8205434123f6869cc53	949	Pfam	PF00069	Protein kinase domain	397	656	1.5E-61	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+UIZ26225.1	d7408c761ad3e8205434123f6869cc53	949	Pfam	PF00169	PH domain	115	208	6.5E-4	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+VFT91526.1	9e5db3d3566dfd2dd464ee13f51b5eb3	832	Pfam	PF00069	Protein kinase domain	345	604	4.0E-61	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+VFT91526.1	9e5db3d3566dfd2dd464ee13f51b5eb3	832	Pfam	PF00169	PH domain	65	158	6.5E-8	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+VFT99179.1	83ad0e00bc0f91b303f34983cad413a5	484	Pfam	PF00169	PH domain	33	127	0.048	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
+VFT99179.1	83ad0e00bc0f91b303f34983cad413a5	484	Pfam	PF00069	Protein kinase domain	137	393	2.4E-56	T	29-09-2025	IPR000719	Protein kinase domain	-	-
