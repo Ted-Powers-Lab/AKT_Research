@@ -1,0 +1,4 @@
+tar,tar_acc,query,hmm_acc,full_e,full_score,full_bias,dom_e,dom_score,dom_bias,acc,Organism Name,Organism Taxonomic ID
+QDZ23105.1,-,Pkinase,PF00069.31,1.5e-75,252.9,0.0,2.1999999999999998e-75,252.4,0.0,GCA_007859695.1,Chloropicon primus,1764295
+UPR02319.1,-,Pkinase,PF00069.31,1.5e-75,252.9,0.0,2.1999999999999998e-75,252.4,0.0,GCA_023205875.1,Chloropicon primus,1764295
+WZN65873.1,-,Pkinase,PF00069.31,4.9e-74,248.0,0.0,7.600000000000001e-74,247.4,0.0,GCA_038396805.1,Chloropicon roscoffensis,1461544
