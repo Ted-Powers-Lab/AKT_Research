@@ -27,7 +27,7 @@ def runInterproScan (fastaFile, outputDirectory):
     os.makedirs(outputDirectory, exist_ok=True)
 
     command = ["/quobyte/ikorfgrp/project/torture/Programs/InterProDB/interproscan-5.75-106.0/interproscan.sh",
-               f" -i {fastaFile}",
+               f
                " -f TSV",
                " -appl Pfam",
                f" -d {outputDirectory}"]

@@ -1,0 +1,85 @@
+tar,seq_length,Analysis,sig_acc,sig_desc,start,stop,e_value,All_Domains,acc,Organism Name,Organism Taxonomic ID
+KAF0972041.1,463,Pfam,PF00169,PH domain,11,101,4e-11,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_008403515.1,Naegleria fowleri,5763
+KAF0972041.1,463,Pfam,PF00433,Protein kinase C terminal domain,422,460,0.65,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_008403515.1,Naegleria fowleri,5763
+KAF0972041.1,463,Pfam,PF00069,Protein kinase domain,146,400,8.4e-69,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_008403515.1,Naegleria fowleri,5763
+KAG2383509.1,463,Pfam,PF00169,PH domain,11,101,1.5e-10,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_003324165.2,Naegleria lovaniensis,51637
+KAG2383509.1,463,Pfam,PF00433,Protein kinase C terminal domain,422,460,0.65,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_003324165.2,Naegleria lovaniensis,51637
+KAG2383509.1,463,Pfam,PF00069,Protein kinase domain,146,400,3.1e-68,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_003324165.2,Naegleria lovaniensis,51637
+EAX94066.1,469,Pfam,PF00169,PH domain,40,132,2e-13,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_000002825.3,Trichomonas vaginalis G3,412133
+EAX94066.1,469,Pfam,PF00433,Protein kinase C terminal domain,424,465,1.3e-7,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_000002825.3,Trichomonas vaginalis G3,412133
+EAX94066.1,469,Pfam,PF00069,Protein kinase domain,147,403,2.7999999999999997e-68,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_000002825.3,Trichomonas vaginalis G3,412133
+EAY00283.1,441,Pfam,PF00169,PH domain,7,99,4.4e-14,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_000002825.3,Trichomonas vaginalis G3,412133
+EAY00283.1,441,Pfam,PF00433,Protein kinase C terminal domain,390,430,2.5e-7,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_000002825.3,Trichomonas vaginalis G3,412133
+EAY00283.1,441,Pfam,PF00069,Protein kinase domain,112,367,1.3e-67,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_000002825.3,Trichomonas vaginalis G3,412133
+EAY04127.1,426,Pfam,PF00169,PH domain,13,99,0.016,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_000002825.3,Trichomonas vaginalis G3,412133
+EAY04127.1,426,Pfam,PF00433,Protein kinase C terminal domain,385,420,1.9,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_000002825.3,Trichomonas vaginalis G3,412133
+EAY04127.1,426,Pfam,PF00069,Protein kinase domain,112,362,2.1e-65,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_000002825.3,Trichomonas vaginalis G3,412133
+EAY08937.1,431,Pfam,PF00169,PH domain,13,103,5.4e-5,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_000002825.3,Trichomonas vaginalis G3,412133
+EAY08937.1,431,Pfam,PF00433,Protein kinase C terminal domain,387,424,0.26,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_000002825.3,Trichomonas vaginalis G3,412133
+EAY08937.1,431,Pfam,PF00069,Protein kinase domain,116,366,2.9e-63,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_000002825.3,Trichomonas vaginalis G3,412133
+KAH0786277.1,441,Pfam,PF00169,PH domain,7,95,1.8e-8,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_020184695.1,Histomonas meleagridis,135588
+KAH0786277.1,441,Pfam,PF00433,Protein kinase C terminal domain,392,433,2.1e-7,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_020184695.1,Histomonas meleagridis,135588
+KAH0786277.1,441,Pfam,PF00069,Protein kinase domain,113,371,1.0999999999999999e-69,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_020184695.1,Histomonas meleagridis,135588
+KAH0792239.1,443,Pfam,PF00169,PH domain,4,95,1e-10,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_020184695.1,Histomonas meleagridis,135588
+KAH0792239.1,443,Pfam,PF00433,Protein kinase C terminal domain,391,431,0.0021,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_020184695.1,Histomonas meleagridis,135588
+KAH0792239.1,443,Pfam,PF00069,Protein kinase domain,114,370,4.8999999999999997e-73,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_020184695.1,Histomonas meleagridis,135588
+KAH0798320.1,451,Pfam,PF00169,PH domain,14,105,6e-5,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_020186115.1,Histomonas meleagridis,135588
+KAH0798320.1,451,Pfam,PF00433,Protein kinase C terminal domain,405,441,1.2e-4,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_020186115.1,Histomonas meleagridis,135588
+KAH0798320.1,451,Pfam,PF00069,Protein kinase domain,122,380,2.2999999999999998e-69,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_020186115.1,Histomonas meleagridis,135588
+KAH0801930.1,444,Pfam,PF00169,PH domain,7,93,3e-4,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_020186115.1,Histomonas meleagridis,135588
+KAH0801930.1,444,Pfam,PF00433,Protein kinase C terminal domain,384,415,0.25,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_020186115.1,Histomonas meleagridis,135588
+KAH0801930.1,444,Pfam,PF00069,Protein kinase domain,106,356,5.3e-69,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_020186115.1,Histomonas meleagridis,135588
+KAH0806339.1,457,Pfam,PF00169,PH domain,5,95,2.5e-13,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_020186115.1,Histomonas meleagridis,135588
+KAH0806339.1,457,Pfam,PF00433,Protein kinase C terminal domain,408,447,1.8e-7,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_020186115.1,Histomonas meleagridis,135588
+KAH0806339.1,457,Pfam,PF00069,Protein kinase domain,131,386,9e-71,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_020186115.1,Histomonas meleagridis,135588
+KAI5483163.1,430,Pfam,PF00169,PH domain,12,103,0.04,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_026262505.1,Trichomonas vaginalis G3,412133
+KAI5483163.1,430,Pfam,PF00433,Protein kinase C terminal domain,386,410,1.3,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_026262505.1,Trichomonas vaginalis G3,412133
+KAI5483163.1,430,Pfam,PF00069,Protein kinase domain,116,365,9.2e-70,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_026262505.1,Trichomonas vaginalis G3,412133
+KAI5488056.1,469,Pfam,PF00169,PH domain,40,132,2e-13,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_026262505.1,Trichomonas vaginalis G3,412133
+KAI5488056.1,469,Pfam,PF00433,Protein kinase C terminal domain,424,465,1.3e-7,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_026262505.1,Trichomonas vaginalis G3,412133
+KAI5488056.1,469,Pfam,PF00069,Protein kinase domain,147,403,2.7999999999999997e-68,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_026262505.1,Trichomonas vaginalis G3,412133
+KAI5491939.1,445,Pfam,PF00169,PH domain,8,101,2.9e-14,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_026262505.1,Trichomonas vaginalis G3,412133
+KAI5491939.1,445,Pfam,PF00433,Protein kinase C terminal domain,395,435,8.2e-6,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_026262505.1,Trichomonas vaginalis G3,412133
+KAI5491939.1,445,Pfam,PF00069,Protein kinase domain,118,374,1.5999999999999998e-67,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_026262505.1,Trichomonas vaginalis G3,412133
+KAI5492715.1,441,Pfam,PF00169,PH domain,7,99,4.4e-14,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_026262505.1,Trichomonas vaginalis G3,412133
+KAI5492715.1,441,Pfam,PF00433,Protein kinase C terminal domain,390,430,2.5e-7,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_026262505.1,Trichomonas vaginalis G3,412133
+KAI5492715.1,441,Pfam,PF00069,Protein kinase domain,112,367,1.3e-67,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_026262505.1,Trichomonas vaginalis G3,412133
+KAI5511493.1,437,Pfam,PF00169,PH domain,5,94,7.7e-6,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_026262505.1,Trichomonas vaginalis G3,412133
+KAI5511493.1,437,Pfam,PF00433,Protein kinase C terminal domain,386,417,1.2,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_026262505.1,Trichomonas vaginalis G3,412133
+KAI5511493.1,437,Pfam,PF00069,Protein kinase domain,109,356,1.6e-69,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_026262505.1,Trichomonas vaginalis G3,412133
+KAJ3428928.1,442,Pfam,PF00169,PH domain,5,97,6.1e-16,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_027625915.1,Anaeramoeba flamelloides,1746091
+KAJ3428928.1,442,Pfam,PF00433,Protein kinase C terminal domain,389,430,3.3e-6,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_027625915.1,Anaeramoeba flamelloides,1746091
+KAJ3428928.1,442,Pfam,PF00069,Protein kinase domain,112,368,1.6e-69,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_027625915.1,Anaeramoeba flamelloides,1746091
+KAJ3432351.1,442,Pfam,PF00169,PH domain,5,97,8.9e-15,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_027625915.1,Anaeramoeba flamelloides,1746091
+KAJ3432351.1,442,Pfam,PF00433,Protein kinase C terminal domain,389,430,5.3e-7,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_027625915.1,Anaeramoeba flamelloides,1746091
+KAJ3432351.1,442,Pfam,PF00069,Protein kinase domain,112,368,6.599999999999999e-69,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_027625915.1,Anaeramoeba flamelloides,1746091
+KAJ3438944.1,444,Pfam,PF00169,PH domain,7,100,1.4e-19,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_027625915.1,Anaeramoeba flamelloides,1746091
+KAJ3438944.1,444,Pfam,PF00433,Protein kinase C terminal domain,391,432,1.9e-8,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_027625915.1,Anaeramoeba flamelloides,1746091
+KAJ3438944.1,444,Pfam,PF00069,Protein kinase domain,114,370,1.1e-68,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_027625915.1,Anaeramoeba flamelloides,1746091
+KAJ5071551.1,450,Pfam,PF00169,PH domain,10,104,5.5e-17,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_028826165.1,Anaeramoeba ignava,1746090
+KAJ5071551.1,450,Pfam,PF00433,Protein kinase C terminal domain,397,436,6.2e-8,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_028826165.1,Anaeramoeba ignava,1746090
+KAJ5071551.1,450,Pfam,PF00069,Protein kinase domain,118,373,5.5000000000000005e-66,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_028826165.1,Anaeramoeba ignava,1746090
+KAJ5078432.1,446,Pfam,PF00169,PH domain,6,100,5.3e-16,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_028826165.1,Anaeramoeba ignava,1746090
+KAJ5078432.1,446,Pfam,PF00433,Protein kinase C terminal domain,393,433,3.7e-6,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_028826165.1,Anaeramoeba ignava,1746090
+KAJ5078432.1,446,Pfam,PF00069,Protein kinase domain,113,372,7.899999999999999e-69,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_028826165.1,Anaeramoeba ignava,1746090
+KAJ5079900.1,445,Pfam,PF00169,PH domain,11,102,3.3e-17,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_028826165.1,Anaeramoeba ignava,1746090
+KAJ5079900.1,445,Pfam,PF00433,Protein kinase C terminal domain,394,434,2.8e-5,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_028826165.1,Anaeramoeba ignava,1746090
+KAJ5079900.1,445,Pfam,PF00069,Protein kinase domain,116,372,3.8999999999999995e-68,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_028826165.1,Anaeramoeba ignava,1746090
+KAJ6253560.1,444,Pfam,PF00169,PH domain,7,100,6.3e-21,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_028892595.1,Anaeramoeba flamelloides,1746091
+KAJ6253560.1,444,Pfam,PF00433,Protein kinase C terminal domain,391,432,1.9e-8,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_028892595.1,Anaeramoeba flamelloides,1746091
+KAJ6253560.1,444,Pfam,PF00069,Protein kinase domain,114,370,4.1e-69,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_028892595.1,Anaeramoeba flamelloides,1746091
+KAK8840649.1,489,Pfam,PF00169,PH domain,10,99,1.7e-5,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_039105265.1,Tritrichomonas musculus,1915356
+KAK8840649.1,489,Pfam,PF00433,Protein kinase C terminal domain,395,435,1.4e-8,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_039105265.1,Tritrichomonas musculus,1915356
+KAK8840649.1,489,Pfam,PF00069,Protein kinase domain,118,374,9.599999999999999e-67,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_039105265.1,Tritrichomonas musculus,1915356
+KAK8878346.1,449,Pfam,PF00169,PH domain,9,100,3.2e-14,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_039105265.1,Tritrichomonas musculus,1915356
+KAK8878346.1,449,Pfam,PF00433,Protein kinase C terminal domain,398,439,6.7e-4,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_039105265.1,Tritrichomonas musculus,1915356
+KAK8878346.1,449,Pfam,PF00069,Protein kinase domain,115,377,3.4e-72,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_039105265.1,Tritrichomonas musculus,1915356
+OHS99881.1,433,Pfam,PF00169,PH domain,3,88,2.1e-4,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_001839685.2,Tritrichomonas foetus,1144522
+OHS99881.1,433,Pfam,PF00433,Protein kinase C terminal domain,389,429,7.8e-9,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_001839685.2,Tritrichomonas foetus,1144522
+OHS99881.1,433,Pfam,PF00069,Protein kinase domain,112,354,2.6e-65,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_001839685.2,Tritrichomonas foetus,1144522
+OHT14359.1,463,Pfam,PF00169,PH domain,6,98,2.2e-16,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_001839685.2,Tritrichomonas foetus,1144522
+OHT14359.1,463,Pfam,PF00433,Protein kinase C terminal domain,415,455,1.7e-9,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_001839685.2,Tritrichomonas foetus,1144522
+OHT14359.1,463,Pfam,PF00069,Protein kinase domain,138,394,1.6e-69,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_001839685.2,Tritrichomonas foetus,1144522
+KAL0592249.1,981,Pfam,PF00169,PH domain,139,232,0.0016,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_040437565.1,Albugo candida,65357
+KAL0592249.1,981,Pfam,PF00433,Protein kinase C terminal domain,699,763,6.3,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_040437565.1,Albugo candida,65357
+KAL0592249.1,981,Pfam,PF00069,Protein kinase domain,419,678,2.2e-61,"PH domain, Protein kinase C terminal domain, Protein kinase domain",GCA_040437565.1,Albugo candida,65357
