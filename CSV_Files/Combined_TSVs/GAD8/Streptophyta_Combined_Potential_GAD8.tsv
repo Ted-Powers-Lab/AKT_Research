@@ -1,0 +1,53 @@
+BFI04502.1	ff33cd0b84820daa7b4160603a3e02bd	594	Pfam	PF00069	Protein kinase domain	138	287	3.0E-39	T	01-10-2025	IPR000719	Protein kinase domain	-	-
+BFI04502.1	ff33cd0b84820daa7b4160603a3e02bd	594	Pfam	PF00069	Protein kinase domain	338	441	1.1E-16	T	01-10-2025	IPR000719	Protein kinase domain	-	-
+BFI04502.1	ff33cd0b84820daa7b4160603a3e02bd	594	Pfam	PF00433	Protein kinase C terminal domain	460	504	1.2E-5	T	01-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+BFI04503.1	f26f900cd45caa503095b956c7f25d09	580	Pfam	PF00069	Protein kinase domain	324	427	1.0E-16	T	01-10-2025	IPR000719	Protein kinase domain	-	-
+BFI04503.1	f26f900cd45caa503095b956c7f25d09	580	Pfam	PF00069	Protein kinase domain	124	273	2.8E-39	T	01-10-2025	IPR000719	Protein kinase domain	-	-
+BFI04503.1	f26f900cd45caa503095b956c7f25d09	580	Pfam	PF00433	Protein kinase C terminal domain	446	490	1.1E-5	T	01-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+BFI05078.1	cfa4bf0aaa7db3cfd6bee1cac394590d	582	Pfam	PF00069	Protein kinase domain	332	432	4.9E-18	T	01-10-2025	IPR000719	Protein kinase domain	-	-
+BFI05078.1	cfa4bf0aaa7db3cfd6bee1cac394590d	582	Pfam	PF00069	Protein kinase domain	129	280	2.5E-40	T	01-10-2025	IPR000719	Protein kinase domain	-	-
+BFI05078.1	cfa4bf0aaa7db3cfd6bee1cac394590d	582	Pfam	PF00433	Protein kinase C terminal domain	451	495	3.5E-4	T	01-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+BFI05079.1	a14663d2aab2f601217111b9532edc7d	581	Pfam	PF00069	Protein kinase domain	332	432	4.9E-18	T	01-10-2025	IPR000719	Protein kinase domain	-	-
+BFI05079.1	a14663d2aab2f601217111b9532edc7d	581	Pfam	PF00069	Protein kinase domain	129	280	2.5E-40	T	01-10-2025	IPR000719	Protein kinase domain	-	-
+BFI05079.1	a14663d2aab2f601217111b9532edc7d	581	Pfam	PF00433	Protein kinase C terminal domain	451	495	3.4E-4	T	01-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+BFI12696.1	7f83fd27b9391b3521dacf01a79467d7	539	Pfam	PF06017	Unconventional myosin tail, actin- and lipid-binding	10	131	6.2E-7	T	01-10-2025	IPR010926	Class I myosin tail homology domain	-	-
+BFI12696.1	7f83fd27b9391b3521dacf01a79467d7	539	Pfam	PF00433	Protein kinase C terminal domain	472	513	0.0057	T	01-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+BFI12696.1	7f83fd27b9391b3521dacf01a79467d7	539	Pfam	PF00069	Protein kinase domain	191	451	3.7E-68	T	01-10-2025	IPR000719	Protein kinase domain	-	-
+BFI13119.1	50fcedf6b44c46171e2a66e2bcab3078	516	Pfam	PF00433	Protein kinase C terminal domain	466	506	0.0084	T	01-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+BFI13119.1	50fcedf6b44c46171e2a66e2bcab3078	516	Pfam	PF00069	Protein kinase domain	186	445	3.1E-75	T	01-10-2025	IPR000719	Protein kinase domain	-	-
+CAM6032213.1	4654fe51f2e48074073995e920e09d23	742	Pfam	PF00130	Phorbol esters/diacylglycerol binding domain (C1 domain)	249	300	5.6E-15	T	01-10-2025	IPR002219	Protein kinase C-like, phorbol ester/diacylglycerol-binding domain	-	-
+CAM6032213.1	4654fe51f2e48074073995e920e09d23	742	Pfam	PF00130	Phorbol esters/diacylglycerol binding domain (C1 domain)	177	227	3.9E-13	T	01-10-2025	IPR002219	Protein kinase C-like, phorbol ester/diacylglycerol-binding domain	-	-
+CAM6032213.1	4654fe51f2e48074073995e920e09d23	742	Pfam	PF00433	Protein kinase C terminal domain	720	742	0.14	T	01-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+CAM6032213.1	4654fe51f2e48074073995e920e09d23	742	Pfam	PF00168	C2 domain	5	115	2.8E-12	T	01-10-2025	IPR000008	C2 domain	-	-
+CAM6032213.1	4654fe51f2e48074073995e920e09d23	742	Pfam	PF00069	Protein kinase domain	420	545	9.8E-22	T	01-10-2025	IPR000719	Protein kinase domain	-	-
+CAM6032213.1	4654fe51f2e48074073995e920e09d23	742	Pfam	PF00069	Protein kinase domain	548	696	7.5E-30	T	01-10-2025	IPR000719	Protein kinase domain	-	-
+KAI3484936.1	7d18aec3d886e05dd009b90e51f8d21a	1214	Pfam	PF00433	Protein kinase C terminal domain	1168	1207	2.2E-7	T	01-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAI3484936.1	7d18aec3d886e05dd009b90e51f8d21a	1214	Pfam	PF00069	Protein kinase domain	890	1147	3.8E-59	T	01-10-2025	IPR000719	Protein kinase domain	-	-
+KAI3484936.1	7d18aec3d886e05dd009b90e51f8d21a	1214	Pfam	PF00130	Phorbol esters/diacylglycerol binding domain (C1 domain)	492	541	1.0E-8	T	01-10-2025	IPR002219	Protein kinase C-like, phorbol ester/diacylglycerol-binding domain	-	-
+KAI3484936.1	7d18aec3d886e05dd009b90e51f8d21a	1214	Pfam	PF00130	Phorbol esters/diacylglycerol binding domain (C1 domain)	560	611	1.6E-6	T	01-10-2025	IPR002219	Protein kinase C-like, phorbol ester/diacylglycerol-binding domain	-	-
+KAI3484936.1	7d18aec3d886e05dd009b90e51f8d21a	1214	Pfam	PF02185	Hr1 repeat	2	45	5.0E-6	T	01-10-2025	IPR011072	HR1 rho-binding domain	-	-
+KAI3484936.1	7d18aec3d886e05dd009b90e51f8d21a	1214	Pfam	PF02185	Hr1 repeat	191	254	1.5E-13	T	01-10-2025	IPR011072	HR1 rho-binding domain	-	-
+KAI3484936.1	7d18aec3d886e05dd009b90e51f8d21a	1214	Pfam	PF00168	C2 domain	280	376	0.016	T	01-10-2025	IPR000008	C2 domain	-	-
+KAJ8606821.1	b63d5039f1f218144dadecefee649aaa	1281	Pfam	PF00069	Protein kinase domain	826	1083	1.4E-57	T	01-10-2025	IPR000719	Protein kinase domain	-	-
+KAJ8606821.1	b63d5039f1f218144dadecefee649aaa	1281	Pfam	PF02185	Hr1 repeat	7	69	7.0E-14	T	01-10-2025	IPR011072	HR1 rho-binding domain	-	-
+KAJ8606821.1	b63d5039f1f218144dadecefee649aaa	1281	Pfam	PF02185	Hr1 repeat	150	215	2.0E-16	T	01-10-2025	IPR011072	HR1 rho-binding domain	-	-
+KAJ8606821.1	b63d5039f1f218144dadecefee649aaa	1281	Pfam	PF00433	Protein kinase C terminal domain	1104	1138	4.5E-5	T	01-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAJ8606821.1	b63d5039f1f218144dadecefee649aaa	1281	Pfam	PF00130	Phorbol esters/diacylglycerol binding domain (C1 domain)	442	491	1.4E-9	T	01-10-2025	IPR002219	Protein kinase C-like, phorbol ester/diacylglycerol-binding domain	-	-
+KAJ8606821.1	b63d5039f1f218144dadecefee649aaa	1281	Pfam	PF00130	Phorbol esters/diacylglycerol binding domain (C1 domain)	510	561	5.1E-6	T	01-10-2025	IPR002219	Protein kinase C-like, phorbol ester/diacylglycerol-binding domain	-	-
+KAJ8609508.1	d0ab547aecf7a2372c7fd132726bf891	555	Pfam	PF00069	Protein kinase domain	224	477	4.8E-66	T	01-10-2025	IPR000719	Protein kinase domain	-	-
+KAJ8609508.1	d0ab547aecf7a2372c7fd132726bf891	555	Pfam	PF00433	Protein kinase C terminal domain	498	539	3.1E-10	T	01-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAL3613000.1	ef6cf7536d48b28a5f2da95334f4b47f	745	Pfam	PF00168	C2 domain	189	283	2.1E-23	T	01-10-2025	IPR000008	C2 domain	-	-
+KAL3613000.1	ef6cf7536d48b28a5f2da95334f4b47f	745	Pfam	PF00433	Protein kinase C terminal domain	667	694	110.0	T	01-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAL3613000.1	ef6cf7536d48b28a5f2da95334f4b47f	745	Pfam	PF00433	Protein kinase C terminal domain	698	725	110.0	T	01-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAL3613000.1	ef6cf7536d48b28a5f2da95334f4b47f	745	Pfam	PF00433	Protein kinase C terminal domain	622	663	1.1E-8	T	01-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAL3613000.1	ef6cf7536d48b28a5f2da95334f4b47f	745	Pfam	PF00069	Protein kinase domain	345	599	6.8E-64	T	01-10-2025	IPR000719	Protein kinase domain	-	-
+KAL3613000.1	ef6cf7536d48b28a5f2da95334f4b47f	745	Pfam	PF21788	TNP-like, GTP-binding insertion domain	56	175	1.9E-13	T	01-10-2025	IPR048366	Transposable element P transposase-like, GTP-binding insertion domain	-	-
+MCO5588301.1	2091e143b0f6b8e82421b35b32edf7bb	712	Pfam	PF00069	Protein kinase domain	277	534	1.9E-62	T	01-10-2025	IPR000719	Protein kinase domain	-	-
+MCO5588301.1	2091e143b0f6b8e82421b35b32edf7bb	712	Pfam	PF00168	C2 domain	139	238	4.6E-7	T	01-10-2025	IPR000008	C2 domain	-	-
+MCO5588301.1	2091e143b0f6b8e82421b35b32edf7bb	712	Pfam	PF00433	Protein kinase C terminal domain	555	572	27.0	T	01-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+MCO5598589.1	ec50d8db6e5d0f9941c90dcaa999df2b	1188	Pfam	PF00130	Phorbol esters/diacylglycerol binding domain (C1 domain)	562	613	2.8E-7	T	01-10-2025	IPR002219	Protein kinase C-like, phorbol ester/diacylglycerol-binding domain	-	-
+MCO5598589.1	ec50d8db6e5d0f9941c90dcaa999df2b	1188	Pfam	PF00130	Phorbol esters/diacylglycerol binding domain (C1 domain)	494	543	1.5E-8	T	01-10-2025	IPR002219	Protein kinase C-like, phorbol ester/diacylglycerol-binding domain	-	-
+MCO5598589.1	ec50d8db6e5d0f9941c90dcaa999df2b	1188	Pfam	PF00069	Protein kinase domain	864	1121	1.0E-58	T	01-10-2025	IPR000719	Protein kinase domain	-	-
+MCO5598589.1	ec50d8db6e5d0f9941c90dcaa999df2b	1188	Pfam	PF02185	Hr1 repeat	2	45	9.5E-5	T	01-10-2025	IPR011072	HR1 rho-binding domain	-	-
+MCO5598589.1	ec50d8db6e5d0f9941c90dcaa999df2b	1188	Pfam	PF02185	Hr1 repeat	221	284	9.0E-13	T	01-10-2025	IPR011072	HR1 rho-binding domain	-	-
+MCO5598589.1	ec50d8db6e5d0f9941c90dcaa999df2b	1188	Pfam	PF00433	Protein kinase C terminal domain	1142	1181	8.7E-8	T	01-10-2025	IPR017892	Protein kinase, C-terminal	-	-
