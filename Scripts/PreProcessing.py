@@ -6,19 +6,7 @@ import glob
 import csv
 import subprocess
 
-'''
-PreProcessing.py
 
-Purpose of this program is for running the HMMER suit of programs (specifically HMMSearch) on a wide variety of different
-proteome sources while outputting results to appropriate results directories
-
-This program takes in a hmm directory source and an overall proteome source directory and then recursively searches for appropriate files
-
-This program was written by Sarah Huang with help from Kyle Johnson 2025
-
-
-
-'''
 
 
 
@@ -48,15 +36,16 @@ def csv_converter(input_file, acc):
 parser = argparse.ArgumentParser()
 parser.add_argument("-hmm", help = "Put hmm directory path here")
 parser.add_argument("-prot", help = "Put proteome directory path here")
+parser.add_argument("-out", help = "Input the desired output directory")
 args = parser.parse_args()
 
 directory = args.hmm
 directory2 = args.prot
+outputDirectory = pathlib.Path(args.out)
 
 contents = os.listdir(directory)
 
-clades = ['Discoba', 'Metamonada', 'Stramenopiles', 'Alveolata', 'Rhizaria', 'Chlorophyta', 'Rhodophyta', 'Streptophyta',
-          'Fungi', 'Metazoa']
+clades = ['Discoba', 'Metamonada', 'Stramenopiles', 'Alveolata', 'Rhizaria', 'Chlorophyta', 'Rhodophyta', 'Streptophyta','Opisthokonta']
 
 #iterate hmm files
 for hmm in pathlib.Path(directory).iterdir():
@@ -64,7 +53,7 @@ for hmm in pathlib.Path(directory).iterdir():
         continue
     else:
        hmmName = hmm.stem
-       output_directory = f'Results/{hmmName}/'
+       output_directory = f'{outputDirectory}/{hmmName}/'
 
 
 
