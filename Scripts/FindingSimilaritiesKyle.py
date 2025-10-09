@@ -24,7 +24,7 @@ def comparison_finder(comparison_dir, reference_csv): #inputs should be the comp
         # Read in the current csv file
         current_csv = pd.read_csv(csv_file)
         # Check to see if the current csv is the same as the reference csv
-        if current_csv.equals(reference_csv)
+        if current_csv.equals(reference_csv):
             continue
         else:
             csv_list.append(current_csv)  # add current to the csv storage list
@@ -57,7 +57,7 @@ def main():
     # Grab the reference csv file from the user
     input_ref = pd.read_csv(str(arg.i))
 
-    
+
     results = comparison_finder(comparison_dir, input_ref)
     results.to_csv(f'{comparison_dir}/compareTar.csv')  # make the csv file comparing the tar values
 
