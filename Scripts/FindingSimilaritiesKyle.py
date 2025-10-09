@@ -33,8 +33,6 @@ def comparison_finder(comparison_dir, reference_csv): #inputs should be the comp
     master_csv = pd.concat(csv_list, ignore_index=True)
     results = pd.concat([master_csv, reference_csv], ignore_index=True)
 
-    # Find all rows that have the same target row and save them to a new dataframe (Find duplicates)
-    results = results[results.duplicated(subset=['tar'], keep='first')]
     # Count out the number of targets by number of elements within the group (How many duplicates)
     count = results.groupby('tar').size()
     # Create a new dataframe that checks and sees if the number of elements within the count object is greater than 3
