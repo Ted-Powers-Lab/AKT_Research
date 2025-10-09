@@ -75,24 +75,6 @@ def main():
     # Now we are going to check for the duplicated elements within the master csv
     # Then we are going to write to the input directory with the attached filename
     Mastercsv = pd.concat(MasterList, ignore_index=True)
-    # To check the Mastercsv, also going to find all the duplicates and add the counts
-    Mastercsv_string = Mastercsv.to_csv(index=False)
-    #print(Mastercsv_string)
-    # Find all of the duplicated values in the tar column
-    duplicated_base = Mastercsv[Mastercsv.duplicated(subset=['tar'], keep=False)]
-    duplicated_base_string = duplicated_base.to_csv(index=False)
-    num_duplicates = Mastercsv.duplicated(subset=['tar']).sum()
-    print("Here are the duplicated strings and the num of duplicates")
-    #print(duplicated_base_string)
-    print(num_duplicates)
-
-    tar_counts = Mastercsv['tar'].value_counts()
-    tar_counts = tar_counts[tar_counts > number_hmms]
-    print("Here is the target count")
-    print(tar_counts)
-    print("Here is the sum of the counts")
-    sum_tar_counts = tar_counts.sum()
-    print(sum_tar_counts)
 
 
     count = Mastercsv.groupby('tar').size()
@@ -103,7 +85,6 @@ def main():
     #Make the mastercsv contain only one value for target as that is all we need
     finalcsv = Mastercsv.drop_duplicates(subset=['tar'])
     #Mastercsv = Mastercsv.groupby('tar').filter(lambda x: len(x) >= count )
-    print(Mastercsv['tar'].value_counts())
     print("Here are the grand total of targets to search for")
     print(finalcsv['tar'])
     print(Mastercsv['tar'].value_counts())

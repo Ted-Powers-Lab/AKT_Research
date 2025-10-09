@@ -14,38 +14,33 @@ import csv
 #compare the tar value from the reference and the master
 
 
-def comparison_finder(comparison_dir, input_ref): #inputs should be the comparison folder and the reference csv file
+def comparison_finder(comparison_dir, reference_csv): #inputs should be the comparison folder and the reference csv file
 
-    dataframe = []  # empty list where we will store csv files for merging
+    csv_list = []  # empty list where we will store csv files for merging
     master_csv = pd.DataFrame()  # constructs an empty data frame for the giant merged csv file for comparison
 
-
-    ref_filepath = os.path.join(comparison_dir, input_ref)  # join path for hmm directory and csv
-    with open(ref_filepath, 'r') as file: #open reference file
-        ref_file = pd.read_csv(file) #read in file as a csv
-
-
-    for csv_file in pathlib.Path(comparison_dir).rglob('*.csv'):  # for all files in the input directory look for any ending with .csv
-
-        if csv_file is ref_file:  # if the csv_file is the reference file ignore it
+    # Iterate through the specified directory from input and find all files that have a .csv extension
+    for csv_file in pathlib.Path(comparison_dir).rglob('*.csv'):
+        # Read in the current csv file
+        current_csv = pd.read_csv(csv_file)
+        # Check to see if the current csv is the same as the reference csv
+        if current_csv.equals(reference_csv)
             continue
+        else:
+            csv_list.append(current_csv)  # add current to the csv storage list
 
-        if not csv_file is ref_file:
-            current_csv = pd.read_csv(csv_file)  # read the current csv
-            dataframe.append(current_csv)  # add current to the csv storage list
-
-
-    master_csv = pd.concat(dataframe, ignore_index=True)  # merge the csvs in the list into a master csv
+    # merge the csvs in the list into a master csv
+    master_csv = pd.concat(csv_list, ignore_index=True)
     results = pd.concat([master_csv, ref_file])
-    
-    # Find all rows that have the same target row and save them to a new dataframe
+
+    # Find all rows that have the same target row and save them to a new dataframe (Find duplicates)
     results = results[results.duplicated(subset=['tar'], keep='first')]
-    # Count out the number of targets by number of elements within the group
+    # Count out the number of targets by number of elements within the group (How many duplicates)
     count = results.groupby('tar').size()
     # Create a new dataframe that checks and sees if the number of elements within the count object is greater than 3
     # This is to assess whether the number of targets is greater than what was put in, indicating presence in all csvs
     duplicates = count[count >= 3].index
-    # Finally save the results by only selecting the targets that are also in the conditional duplicates
+    # Finally save the results by only selecting the targets that are also in the conditional duplicates (Selecting)
     results = results[results['tar'].isin(duplicates)]
 
     return results
@@ -54,16 +49,16 @@ def comparison_finder(comparison_dir, input_ref): #inputs should be the comparis
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('-dir', help='folder of the clade in which you want to run the comparison')
-    parser.add_argument('-i', help='reference csv')
+    parser.add_argument('-i', help='reference csv input call')
     arg = parser.parse_args()
 
+    # Grab the directory information from the user
+    comparison_dir = pathlib.Path(arg.dir)
+    # Grab the reference csv file from the user
+    input_ref = pd.read_csv(str(arg.i))
 
-    comparison_dir = pathlib.Path(arg.dir) # set the comparison directory equal to what the user inputs
-    input_ref = pathlib.Path(arg.i) # set the reference file to what the user inputs
-
+    
     results = comparison_finder(comparison_dir, input_ref)
-    #results_ls = [results] #list of results
-    #results_df = pd.DataFrame(results_ls)
     results.to_csv(f'{comparison_dir}/compareTar.csv')  # make the csv file comparing the tar values
 
 if __name__ == '__main__':
