@@ -22,8 +22,13 @@ def csv_combine(input_dir):
 
 def main():
     parser = argparse.ArgumentParser()
+<<<<<<< Updated upstream
     parser.add_argument('-i', help='Highest level of directory you wish to combine csvs in')
     parser.add_argument("-o", help = "Output directory")
+=======
+    parser.add_argument('-ref', help='Highest level of directory you wish to combine csvs in')
+    parser.add_argument('-in', help='Input directory path')
+>>>>>>> Stashed changes
     arg = parser.parse_args()
 
     input_directory = pathlib.Path(arg.i)
