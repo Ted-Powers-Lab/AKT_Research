@@ -31,7 +31,7 @@ def comparison_finder(comparison_dir, reference_csv): #inputs should be the comp
 
     # merge the csvs in the list into a master csv
     master_csv = pd.concat(csv_list, ignore_index=True)
-    results = pd.concat([master_csv, reference_csv])
+    results = pd.concat([master_csv, reference_csv], ignore_index=True)
 
     # Find all rows that have the same target row and save them to a new dataframe (Find duplicates)
     results = results[results.duplicated(subset=['tar'], keep='first')]
