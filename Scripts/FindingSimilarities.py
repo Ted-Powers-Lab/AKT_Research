@@ -41,10 +41,8 @@ def comparison_finder(comparison_dir, input_ref): #inputs should be the comparis
     master_csv = pd.concat(dataframe, ignore_index=True)  # merge the csvs in the list into a master csv
     results = pd.concat([master_csv, ref_file])
     results = results['tar']
-    results = results[results.duplicated(keep = True)]
-
-    #results = results[results.duplicated(subset=['tar'], keep=False)]
-    #results = results['tar'].unique()
+    results = results[results.duplicated(keep=False)]
+    results = results.unique()
 
 
     #results = [ref_file['tar'].isin(master_csv['tar'])] # compare if tar in the reference and combined are the same
