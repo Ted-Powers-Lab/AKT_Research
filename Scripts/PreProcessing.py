@@ -45,7 +45,15 @@ outputDirectory = pathlib.Path(args.out)
 
 contents = os.listdir(directory)
 
-clades = ['Discoba', 'Metamonada', 'Stramenopiles', 'Alveolata', 'Rhizaria', 'Chlorophyta', 'Rhodophyta', 'Streptophyta','Opisthokonta']
+clades = ['Discoba',
+          'Metamonada',
+          'Stramenopiles',
+          'Alveolata',
+          'Rhizaria',
+          'Chlorophyta',
+          'Rhodophyta',
+          'Streptophyta',
+          'Opisthokonta']
 
 #iterate hmm files
 for hmm in pathlib.Path(directory).iterdir():
