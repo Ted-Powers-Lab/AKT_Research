@@ -1,21 +1,37 @@
 
 # Read in the standard library script
 
-source(file = "~/GitHub/Fungal_MTORC1/R_Scripts/Library_Script.R")
+source(file = "~/GitHub/AKT_Research/Scripts/R/Library_Script.R")
 
 
-file_list <- list.files(path = "~/GitHub/AKT_Research/CSV_Files/Combined_CSVs",
-                       pattern = "\\.*csv",
-                       full.names = TRUE)
 
-list_of_tibbles <- map(file_list, read_csv, show_col_types = FALSE)
-list_of_tibbles
-filtered_tibbles <- keep(list_of_tibbles, ~nrow(.x) > 1)
-filtered_tibbles
 
-Combined_data <- bind_rows(filtered_tibbles)
 
-write_csv(Combined_data, file = "~/GitHub/AKT_Research/CSV_Files/Combined_CSVs/Combined_AKT_Potential.csv")
+Combining_CSV <- function(input_directory, protein){
+  
+  formatted_output_string <- sprintf("~/GitHub/AKT_Research/CSV_Files/Combined_CSVs/Combined_%s_Potential.csv", protein)
+  
+  file_list <- list.files(path = input_directory,
+                          pattern = "\\.*csv",
+                          full.names = TRUE)
+  list_of_tibbles <- map(file_list, read_csv, show_col_types = FALSE)
+  filtered_tibbles <- keep(list_of_tibbles, ~nrow(.x) > 1)
+  Combined_tibbles <- bind_rows(filtered_tibbles)
+  
+  write_csv(Combined_tibbles, file = formatted_output_string)
+  
+}
+
+
+Combining_CSV(input_directory = "~/GitHub/AKT_Research/CSV_Files/AKT/Combined_CSVs", protein = "AKT")
+Combining_CSV(input_directory = "", protein = "AKT")
+Combining_CSV(input_directory = "", protein = "")
+Combining_CSV(input_directory = "", protein = "")
+
+
+
+
+
 
 
 
