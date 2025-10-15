@@ -9,44 +9,47 @@ import argparse
 import glob
 import csv
 
-from numpy.ma.extras import column_stack
+
+# for hmm in a list of hmm (make a list of hmms)
+# if element matches a one of hmms in the list, grab the csv in that hmm and store it
+# concat all the csvs into a big master
+# find duplicates in this master table
+
+def comparison_finder(comparison_dir): #inputs should be the comparison folder and the reference csv file
+
+    csv_list = []  # empty list where we will store csv files for merging
+    hmm_list = ['PF00168', 'PF00169', 'PF00433', 'proteinKinaseB']
+
+    for csv_file in pathlib.Path(comparison_dir).rglob('*.csv'):  #look for files in the input directory ending in .csv
+
+        #check if hmm is part of csv file name
+        for hmm in hmm_list:
+            if hmm in csv_file.stem:
+                current_csv = pd.read_csv(csv_file) #read in the csv file and append it to csv_list
+                csv_list.append(current_csv) #merge the csvs
+            else:
+                continue
+
+    #merge csvs in the csv_list
+    results = pd.concat(csv_list)
+
+    # look for tar duplicates in the results and store them in a new dataframe
+    # only keep the first duplicate in the new dataframe
+    results = results[results.duplicated(subset=['tar'])] #keep='first')]
+
+    #count the number of duplicates in a new dataframe and check if it is greater than the number of csv files put in
+    #if it is greater than 3 all csv files have a matching tar value
+    count = results.groupby(['tar']).size()
 
 
-#we want to pull the reference protein kinase B from the folder and store it somewhere we can use
-#merge the remaining csv files into one master csv
-#compare the tar value from the reference and the master
+    duplicates = count[count>=3].index
 
+    '''
+    When change to count >= 2, the output will be a csv file with two duplicates instead of only the first one
+    '''
 
-def comparison_finder(comparison_dir, input_ref): #inputs should be the comparison folder and the reference csv file
-
-    dataframe = []  # empty list where we will store csv files for merging
-    master_csv = pd.DataFrame()  # constructs an empty data frame for the giant merged csv file for comparison
-
-
-    ref_filepath = os.path.join(comparison_dir, input_ref)  # join path for hmm directory and csv
-    with open(ref_filepath, 'r') as file: #open reference file
-        ref_file = pd.read_csv(file) #read in file as a csv
-
-
-    for csv_file in pathlib.Path(comparison_dir).rglob('*.csv'):  # for all files in the input directory look for any ending with .csv
-
-        if csv_file is ref_file:  # if the csv_file is the reference file ignore it
-            continue
-
-        if not csv_file is ref_file:
-            current_csv = pd.read_csv(csv_file)  # read the current csv
-            dataframe.append(current_csv)  # add current to the csv storage list
-
-
-    master_csv = pd.concat(dataframe, ignore_index=True)  # merge the csvs in the list into a master csv
-    results = pd.concat([master_csv, ref_file])
-    results = results['tar']
-    results = results[results.duplicated(keep=False)]
-    results = results.unique()
-
-
-    #results = [ref_file['tar'].isin(master_csv['tar'])] # compare if tar in the reference and combined are the same
-
+    #if the results match the result in duplicates return that as a csv
+    results = results[results['tar'].isin(duplicates)]
 
     return results
 
@@ -54,16 +57,14 @@ def comparison_finder(comparison_dir, input_ref): #inputs should be the comparis
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('-dir', help='folder of the clade in which you want to run the comparison')
-    parser.add_argument('-i', help='reference csv')
+    #parser.add_argument('-i', help='reference csv')
     arg = parser.parse_args()
 
 
     comparison_dir = pathlib.Path(arg.dir) # set the comparison directory equal to what the user inputs
-    input_ref = pathlib.Path(arg.i) # set the reference file to what the user inputs
+    #input_ref = pathlib.Path(arg.i) # set the reference file to what the user inputs
 
-    results = comparison_finder(comparison_dir, input_ref)
-    #results_ls = [results] #list of results
-    #results_df = pd.DataFrame(results_ls)
+    results = comparison_finder(comparison_dir)
     results.to_csv(f'{comparison_dir}/compareTar.csv')  # make the csv file comparing the tar values
 
 if __name__ == '__main__':
