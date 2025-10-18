@@ -33,24 +33,15 @@ def comparison_finder(comparison_dir): #inputs should be the comparison folder a
     #merge csvs in the csv_list
     results = pd.concat(csv_list)
 
-    # look for tar duplicates in the results and store them in a new dataframe
-    # only keep the first duplicate in the new dataframe
-    results = results[results.duplicated(subset=['tar'])] #keep='first')]
-
-    #count the number of duplicates in a new dataframe and check if it is greater than the number of csv files put in
+    #count the number of tar duplicates check if it is greater than the number of csv files put in
     #if it is greater than 3 all csv files have a matching tar value
     count = results.groupby(['tar']).size()
-
-
     duplicates = count[count>=3].index
 
-    '''
-    When change to count >= 2, the output will be a csv file with two duplicates instead of only the first one
-    '''
-
-    #if the results match the result in duplicates return that as a csv
+    #if the result fulfils the condition in duplicates return those results as a csv
     results = results[results['tar'].isin(duplicates)]
-
+    #keep only the first occuring row of tar duplicates
+    results = results.drop_duplicates(subset=['tar'], keep ='first')
     return results
 
 
@@ -60,12 +51,11 @@ def main():
     #parser.add_argument('-i', help='reference csv')
     arg = parser.parse_args()
 
-
     comparison_dir = pathlib.Path(arg.dir) # set the comparison directory equal to what the user inputs
-    #input_ref = pathlib.Path(arg.i) # set the reference file to what the user inputs
 
     results = comparison_finder(comparison_dir)
-    results.to_csv(f'{comparison_dir}/compareTar.csv')  # make the csv file comparing the tar values
+
+    results.to_csv(f'{comparison_dir}/compareTar.csv', index = False)  # make the csv file comparing the tar values
 
 if __name__ == '__main__':
     main()
