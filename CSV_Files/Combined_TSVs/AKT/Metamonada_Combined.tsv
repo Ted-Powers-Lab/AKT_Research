@@ -1,554 +1,554 @@
-EAX88199.1	e2677ed340d295c3be96f4626c569c1e	431	Pfam	PF00433	Protein kinase C terminal domain	382	412	7.3E-4	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-EAX88199.1	e2677ed340d295c3be96f4626c569c1e	431	Pfam	PF00169	PH domain	10	99	3.1E-5	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-EAX88199.1	e2677ed340d295c3be96f4626c569c1e	431	Pfam	PF00069	Protein kinase domain	111	361	1.9E-67	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-EAX88277.1	e60f6304e18271f7b8e3da247d8558cb	457	Pfam	PF00069	Protein kinase domain	90	340	7.3E-70	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-EAX88736.1	773170fecfb6293b5b44714c40a8a94f	430	Pfam	PF00433	Protein kinase C terminal domain	386	410	1.3	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-EAX88736.1	773170fecfb6293b5b44714c40a8a94f	430	Pfam	PF00169	PH domain	12	103	0.04	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-EAX88736.1	773170fecfb6293b5b44714c40a8a94f	430	Pfam	PF00069	Protein kinase domain	116	365	9.2E-70	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-EAX89765.1	6ff65b35b765e06ef3d15f05cb7dc384	448	Pfam	PF00069	Protein kinase domain	114	362	1.4E-66	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-EAX89765.1	6ff65b35b765e06ef3d15f05cb7dc384	448	Pfam	PF00169	PH domain	10	100	0.0033	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-EAX94066.1	a43fb0120d5e7ec265ce298f34af0467	469	Pfam	PF00169	PH domain	40	132	2.0E-13	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-EAX94066.1	a43fb0120d5e7ec265ce298f34af0467	469	Pfam	PF00433	Protein kinase C terminal domain	424	465	1.3E-7	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-EAX94066.1	a43fb0120d5e7ec265ce298f34af0467	469	Pfam	PF00069	Protein kinase domain	147	403	2.8E-68	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-EAX95276.1	d686f8920d90b88286574537aed857c7	461	Pfam	PF00069	Protein kinase domain	114	366	3.7E-67	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-EAX95627.1	d3f579aff1ad22e563402d4d7e3072e0	452	Pfam	PF00433	Protein kinase C terminal domain	402	442	1.7E-4	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-EAX95627.1	d3f579aff1ad22e563402d4d7e3072e0	452	Pfam	PF00169	PH domain	2	93	1.1E-13	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-EAX95627.1	d3f579aff1ad22e563402d4d7e3072e0	452	Pfam	PF00069	Protein kinase domain	126	381	2.3E-69	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-EAX97940.1	ba73927e62fff7ba05e301d70649595b	440	Pfam	PF00433	Protein kinase C terminal domain	395	436	9.3E-7	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-EAX97940.1	ba73927e62fff7ba05e301d70649595b	440	Pfam	PF00169	PH domain	7	97	3.0E-12	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-EAX97940.1	ba73927e62fff7ba05e301d70649595b	440	Pfam	PF00069	Protein kinase domain	118	374	2.5E-69	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-EAY00283.1	8564f2240faa712a08f32a3a347dcca4	441	Pfam	PF00169	PH domain	7	99	4.4E-14	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-EAY00283.1	8564f2240faa712a08f32a3a347dcca4	441	Pfam	PF00433	Protein kinase C terminal domain	390	430	2.5E-7	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-EAY00283.1	8564f2240faa712a08f32a3a347dcca4	441	Pfam	PF00069	Protein kinase domain	112	367	1.3E-67	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-EAY01569.1	bd5e9c8d56476630dba4b8fd46538dac	405	Pfam	PF00069	Protein kinase domain	89	342	5.5E-69	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-EAY01569.1	bd5e9c8d56476630dba4b8fd46538dac	405	Pfam	PF00433	Protein kinase C terminal domain	365	400	0.31	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-EAY02760.1	910dc84e843013632d0483333d19e9e7	431	Pfam	PF00433	Protein kinase C terminal domain	387	411	0.63	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-EAY02760.1	910dc84e843013632d0483333d19e9e7	431	Pfam	PF00169	PH domain	14	103	0.039	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-EAY02760.1	910dc84e843013632d0483333d19e9e7	431	Pfam	PF00069	Protein kinase domain	117	366	3.2E-69	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-EAY03007.1	3e0d6be7525029199caf6e1c41f58e00	453	Pfam	PF00069	Protein kinase domain	115	365	5.7E-70	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-EAY04110.1	a5007d24934c966bda03ddb2fef475ed	417	Pfam	PF00169	PH domain	4	87	6.8E-7	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-EAY04110.1	a5007d24934c966bda03ddb2fef475ed	417	Pfam	PF00069	Protein kinase domain	108	356	1.6E-74	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-EAY04127.1	5545b68e265abb8a2ae2e346d19ee6a2	426	Pfam	PF00169	PH domain	13	99	0.016	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-EAY04127.1	5545b68e265abb8a2ae2e346d19ee6a2	426	Pfam	PF00433	Protein kinase C terminal domain	385	420	1.9	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-EAY04127.1	5545b68e265abb8a2ae2e346d19ee6a2	426	Pfam	PF00069	Protein kinase domain	112	362	2.1E-65	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-EAY07638.1	f51a4b0c335e7aaa428202a1d058f9e7	430	Pfam	PF00069	Protein kinase domain	108	359	7.1E-71	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-EAY08793.1	2ca1deb658769473f4ef70fd43e5d206	417	Pfam	PF00169	PH domain	4	87	4.9E-7	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-EAY08793.1	2ca1deb658769473f4ef70fd43e5d206	417	Pfam	PF00069	Protein kinase domain	108	356	1.6E-74	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-EAY08937.1	9dc33ff57d1c29e46577b5b0471d34dc	431	Pfam	PF00169	PH domain	13	103	5.4E-5	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-EAY08937.1	9dc33ff57d1c29e46577b5b0471d34dc	431	Pfam	PF00433	Protein kinase C terminal domain	387	424	0.26	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-EAY08937.1	9dc33ff57d1c29e46577b5b0471d34dc	431	Pfam	PF00069	Protein kinase domain	116	366	2.9E-63	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-EAY09578.1	a5703d65aacc19b85850bdd5d1e175f4	437	Pfam	PF00069	Protein kinase domain	111	361	3.5E-70	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-EAY09578.1	a5703d65aacc19b85850bdd5d1e175f4	437	Pfam	PF00169	PH domain	10	98	0.0017	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-EAY10772.1	67c99c66aa2af1a176e9a53264276b97	430	Pfam	PF00069	Protein kinase domain	116	365	3.9E-68	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-EAY12520.1	be7020df092287b01110d93906e6fb80	434	Pfam	PF00069	Protein kinase domain	110	360	1.2E-67	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-EAY12520.1	be7020df092287b01110d93906e6fb80	434	Pfam	PF00169	PH domain	10	93	3.6E-4	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-EAY12520.1	be7020df092287b01110d93906e6fb80	434	Pfam	PF00433	Protein kinase C terminal domain	389	416	1.3	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-EAY12892.1	14cacbbb3b2f00707db2e6d0799b8a80	445	Pfam	PF00069	Protein kinase domain	118	374	1.6E-67	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-EAY12892.1	14cacbbb3b2f00707db2e6d0799b8a80	445	Pfam	PF00169	PH domain	8	101	2.9E-14	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-EAY12892.1	14cacbbb3b2f00707db2e6d0799b8a80	445	Pfam	PF00433	Protein kinase C terminal domain	395	435	8.2E-6	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-EAY15387.1	60799a9b2560045e10c1e22079616f25	423	Pfam	PF00169	PH domain	5	94	2.3E-4	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-EAY15387.1	60799a9b2560045e10c1e22079616f25	423	Pfam	PF00069	Protein kinase domain	108	358	2.1E-72	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-EAY15483.1	d85788cbd4669aa1ad6ad5b01e6693e5	437	Pfam	PF00069	Protein kinase domain	109	356	1.6E-69	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-EAY15483.1	d85788cbd4669aa1ad6ad5b01e6693e5	437	Pfam	PF00169	PH domain	5	94	7.7E-6	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-EAY15483.1	d85788cbd4669aa1ad6ad5b01e6693e5	437	Pfam	PF00433	Protein kinase C terminal domain	386	417	1.2	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-EAY16833.1	a61a61e5a9b1980cbc82a6bb9e20ffa4	453	Pfam	PF00069	Protein kinase domain	128	382	3.6E-72	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-EAY16833.1	a61a61e5a9b1980cbc82a6bb9e20ffa4	453	Pfam	PF00169	PH domain	3	95	4.1E-12	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-EAY16833.1	a61a61e5a9b1980cbc82a6bb9e20ffa4	453	Pfam	PF00433	Protein kinase C terminal domain	403	443	3.5E-4	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-EAY18750.1	4586381e9b37a1b47764bc7e17ea5000	435	Pfam	PF00069	Protein kinase domain	113	369	6.1E-70	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-EAY18750.1	4586381e9b37a1b47764bc7e17ea5000	435	Pfam	PF00433	Protein kinase C terminal domain	390	431	1.2E-7	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-EAY18750.1	4586381e9b37a1b47764bc7e17ea5000	435	Pfam	PF00169	PH domain	11	100	4.2E-17	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-EAY22668.1	9e469eaf4ae279f029145c52ee1b5e4e	442	Pfam	PF00169	PH domain	9	98	8.3E-4	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-EAY22668.1	9e469eaf4ae279f029145c52ee1b5e4e	442	Pfam	PF00069	Protein kinase domain	111	360	3.5E-70	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-EAY23147.1	66a31ab7e26f9df1c524e735d1d13e92	474	Pfam	PF00069	Protein kinase domain	110	360	5.7E-76	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAH0786026.1	fc3ef65a9b70968b0fb39e38c3b0fa46	443	Pfam	PF00069	Protein kinase domain	116	371	4.3E-73	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAH0786026.1	fc3ef65a9b70968b0fb39e38c3b0fa46	443	Pfam	PF00169	PH domain	4	96	2.1E-7	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAH0786026.1	fc3ef65a9b70968b0fb39e38c3b0fa46	443	Pfam	PF00433	Protein kinase C terminal domain	392	432	4.8E-6	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAH0786073.1	59dcbd5767f5885dbdfbd5a0040681a3	426	Pfam	PF00433	Protein kinase C terminal domain	390	421	0.16	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAH0786073.1	59dcbd5767f5885dbdfbd5a0040681a3	426	Pfam	PF00069	Protein kinase domain	112	361	8.7E-65	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAH0786081.1	d04ab8810efaa7b79ea3d926dc900679	439	Pfam	PF00169	PH domain	3	91	2.4E-6	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAH0786081.1	d04ab8810efaa7b79ea3d926dc900679	439	Pfam	PF00069	Protein kinase domain	111	368	4.4E-73	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAH0786081.1	d04ab8810efaa7b79ea3d926dc900679	439	Pfam	PF00433	Protein kinase C terminal domain	393	430	0.021	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAH0786277.1	c57efa2702f7038db25d22270de142b5	441	Pfam	PF00169	PH domain	7	95	1.8E-8	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAH0786277.1	c57efa2702f7038db25d22270de142b5	441	Pfam	PF00433	Protein kinase C terminal domain	392	433	2.1E-7	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAH0786277.1	c57efa2702f7038db25d22270de142b5	441	Pfam	PF00069	Protein kinase domain	113	371	1.1E-69	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAH0787512.1	ea58ee661d6af7cc22be6d22cc3dd6d4	462	Pfam	PF00069	Protein kinase domain	135	391	2.6E-64	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAH0787512.1	ea58ee661d6af7cc22be6d22cc3dd6d4	462	Pfam	PF00169	PH domain	9	103	1.5E-9	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAH0787512.1	ea58ee661d6af7cc22be6d22cc3dd6d4	462	Pfam	PF00433	Protein kinase C terminal domain	412	452	7.9E-7	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAH0787546.1	2036deb658d454ebe658f71701ba4f33	451	Pfam	PF00069	Protein kinase domain	122	380	2.3E-69	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAH0787546.1	2036deb658d454ebe658f71701ba4f33	451	Pfam	PF00169	PH domain	14	105	6.0E-5	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAH0787546.1	2036deb658d454ebe658f71701ba4f33	451	Pfam	PF00433	Protein kinase C terminal domain	405	441	1.2E-4	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAH0787783.1	2cd175ae94f782529efd727be57f6bf0	439	Pfam	PF00169	PH domain	1	92	2.6E-11	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAH0787783.1	2cd175ae94f782529efd727be57f6bf0	439	Pfam	PF00069	Protein kinase domain	111	367	6.0E-72	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAH0788551.1	315e36ce151344c8f6057a98cb890154	441	Pfam	PF00433	Protein kinase C terminal domain	390	431	3.4E-10	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAH0788551.1	315e36ce151344c8f6057a98cb890154	441	Pfam	PF00069	Protein kinase domain	112	369	4.3E-72	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAH0788551.1	315e36ce151344c8f6057a98cb890154	441	Pfam	PF00169	PH domain	5	94	8.7E-5	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAH0788771.1	94173189c349973afcf4a42c63065af4	437	Pfam	PF00433	Protein kinase C terminal domain	388	411	0.012	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAH0788771.1	94173189c349973afcf4a42c63065af4	437	Pfam	PF00069	Protein kinase domain	114	365	5.7E-64	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAH0788878.1	51274bba2dcf4209b7c6405a346a7fa3	441	Pfam	PF00069	Protein kinase domain	112	370	2.7E-65	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAH0788878.1	51274bba2dcf4209b7c6405a346a7fa3	441	Pfam	PF00433	Protein kinase C terminal domain	392	431	5.3E-4	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAH0788878.1	51274bba2dcf4209b7c6405a346a7fa3	441	Pfam	PF00169	PH domain	8	97	1.2E-10	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAH0790178.1	3848073a9e7926c2d80ee3ca8b8db816	444	Pfam	PF00069	Protein kinase domain	106	356	5.3E-69	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAH0790178.1	3848073a9e7926c2d80ee3ca8b8db816	444	Pfam	PF00169	PH domain	7	93	3.0E-4	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAH0790178.1	3848073a9e7926c2d80ee3ca8b8db816	444	Pfam	PF00433	Protein kinase C terminal domain	384	415	0.25	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAH0790294.1	da7d75fb1349377c094bb3c763053010	439	Pfam	PF00069	Protein kinase domain	112	369	4.3E-67	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAH0790294.1	da7d75fb1349377c094bb3c763053010	439	Pfam	PF00433	Protein kinase C terminal domain	391	429	8.9E-5	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAH0790294.1	da7d75fb1349377c094bb3c763053010	439	Pfam	PF00169	PH domain	8	96	1.1E-8	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAH0790494.1	bd4cfc985d583a07aaa5436e97e09855	445	Pfam	PF00433	Protein kinase C terminal domain	370	400	0.69	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAH0790494.1	bd4cfc985d583a07aaa5436e97e09855	445	Pfam	PF00069	Protein kinase domain	92	341	6.3E-70	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAH0792239.1	90e04d7f486d5310a9f9230e4e5b4494	443	Pfam	PF00169	PH domain	4	95	1.0E-10	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAH0792239.1	90e04d7f486d5310a9f9230e4e5b4494	443	Pfam	PF00433	Protein kinase C terminal domain	391	431	0.0021	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAH0792239.1	90e04d7f486d5310a9f9230e4e5b4494	443	Pfam	PF00069	Protein kinase domain	114	370	4.9E-73	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAH0793094.1	c9e754eba97d33965ff34ba4a0ad8bc0	447	Pfam	PF00069	Protein kinase domain	115	365	1.8E-70	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAH0793265.1	0aba5a420120142f4584e97504d58f9d	457	Pfam	PF00069	Protein kinase domain	131	386	9.0E-71	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAH0793265.1	0aba5a420120142f4584e97504d58f9d	457	Pfam	PF00433	Protein kinase C terminal domain	408	447	1.8E-7	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAH0793265.1	0aba5a420120142f4584e97504d58f9d	457	Pfam	PF00169	PH domain	5	95	2.5E-13	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAH0793429.1	b891c45199a94eb01d17d42ba4963b6c	444	Pfam	PF00069	Protein kinase domain	119	374	9.6E-69	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAH0793429.1	b891c45199a94eb01d17d42ba4963b6c	444	Pfam	PF00433	Protein kinase C terminal domain	395	435	1.7E-7	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAH0793429.1	b891c45199a94eb01d17d42ba4963b6c	444	Pfam	PF00169	PH domain	5	97	2.1E-16	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAH0793977.1	6dc1c8c3b69f4d051b0ae7cab3510715	432	Pfam	PF00069	Protein kinase domain	108	363	2.3E-60	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAH0793977.1	6dc1c8c3b69f4d051b0ae7cab3510715	432	Pfam	PF00169	PH domain	3	91	7.1E-14	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAH0794123.1	52c2fc645f05dad97886396109da8e94	432	Pfam	PF00433	Protein kinase C terminal domain	382	422	9.1E-9	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAH0794123.1	52c2fc645f05dad97886396109da8e94	432	Pfam	PF00069	Protein kinase domain	105	347	1.1E-66	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAH0794123.1	52c2fc645f05dad97886396109da8e94	432	Pfam	PF00169	PH domain	1	90	1.7E-11	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAH0795392.1	9b37768064b355d8136f365bfc541240	439	Pfam	PF00069	Protein kinase domain	112	370	1.3E-66	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAH0795392.1	9b37768064b355d8136f365bfc541240	439	Pfam	PF00169	PH domain	7	98	2.0E-7	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAH0795392.1	9b37768064b355d8136f365bfc541240	439	Pfam	PF00433	Protein kinase C terminal domain	391	431	2.5E-6	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAH0795529.1	8942547f5cb6076ba8bdc1dc54c8dc33	469	Pfam	PF00433	Protein kinase C terminal domain	398	429	0.13	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAH0795529.1	8942547f5cb6076ba8bdc1dc54c8dc33	469	Pfam	PF00069	Protein kinase domain	121	370	2.0E-69	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAH0795684.1	1943ff5b7a623c5101055aeab83d0eba	441	Pfam	PF00433	Protein kinase C terminal domain	393	433	8.9E-7	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAH0795684.1	1943ff5b7a623c5101055aeab83d0eba	441	Pfam	PF00069	Protein kinase domain	116	372	2.7E-64	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAH0795684.1	1943ff5b7a623c5101055aeab83d0eba	441	Pfam	PF00169	PH domain	5	93	1.5E-15	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAH0795770.1	1a2fb2db624619081a65faed8c63987d	442	Pfam	PF00169	PH domain	8	98	4.2E-11	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAH0795770.1	1a2fb2db624619081a65faed8c63987d	442	Pfam	PF00069	Protein kinase domain	112	370	2.6E-66	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAH0795770.1	1a2fb2db624619081a65faed8c63987d	442	Pfam	PF00433	Protein kinase C terminal domain	393	431	1.6E-5	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAH0796397.1	1943ff5b7a623c5101055aeab83d0eba	441	Pfam	PF00433	Protein kinase C terminal domain	393	433	8.9E-7	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAH0796397.1	1943ff5b7a623c5101055aeab83d0eba	441	Pfam	PF00069	Protein kinase domain	116	372	2.7E-64	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAH0796397.1	1943ff5b7a623c5101055aeab83d0eba	441	Pfam	PF00169	PH domain	5	93	1.5E-15	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAH0796552.1	8942547f5cb6076ba8bdc1dc54c8dc33	469	Pfam	PF00433	Protein kinase C terminal domain	398	429	0.13	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAH0796552.1	8942547f5cb6076ba8bdc1dc54c8dc33	469	Pfam	PF00069	Protein kinase domain	121	370	2.0E-69	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAH0796646.1	c9e754eba97d33965ff34ba4a0ad8bc0	447	Pfam	PF00069	Protein kinase domain	115	365	1.8E-70	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAH0797875.1	b891c45199a94eb01d17d42ba4963b6c	444	Pfam	PF00069	Protein kinase domain	119	374	9.6E-69	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAH0797875.1	b891c45199a94eb01d17d42ba4963b6c	444	Pfam	PF00169	PH domain	5	97	2.1E-16	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAH0797875.1	b891c45199a94eb01d17d42ba4963b6c	444	Pfam	PF00433	Protein kinase C terminal domain	395	435	1.7E-7	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAH0798320.1	2036deb658d454ebe658f71701ba4f33	451	Pfam	PF00169	PH domain	14	105	6.0E-5	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAH0798320.1	2036deb658d454ebe658f71701ba4f33	451	Pfam	PF00433	Protein kinase C terminal domain	405	441	1.2E-4	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAH0798320.1	2036deb658d454ebe658f71701ba4f33	451	Pfam	PF00069	Protein kinase domain	122	380	2.3E-69	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAH0798354.1	ea58ee661d6af7cc22be6d22cc3dd6d4	462	Pfam	PF00069	Protein kinase domain	135	391	2.6E-64	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAH0798354.1	ea58ee661d6af7cc22be6d22cc3dd6d4	462	Pfam	PF00169	PH domain	9	103	1.5E-9	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAH0798354.1	ea58ee661d6af7cc22be6d22cc3dd6d4	462	Pfam	PF00433	Protein kinase C terminal domain	412	452	7.9E-7	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAH0798380.1	1a2fb2db624619081a65faed8c63987d	442	Pfam	PF00169	PH domain	8	98	4.2E-11	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAH0798380.1	1a2fb2db624619081a65faed8c63987d	442	Pfam	PF00069	Protein kinase domain	112	370	2.6E-66	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAH0798380.1	1a2fb2db624619081a65faed8c63987d	442	Pfam	PF00433	Protein kinase C terminal domain	393	431	1.6E-5	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAH0798598.1	da7d75fb1349377c094bb3c763053010	439	Pfam	PF00069	Protein kinase domain	112	369	4.3E-67	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAH0798598.1	da7d75fb1349377c094bb3c763053010	439	Pfam	PF00433	Protein kinase C terminal domain	391	429	8.9E-5	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAH0798598.1	da7d75fb1349377c094bb3c763053010	439	Pfam	PF00169	PH domain	8	96	1.1E-8	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAH0799914.1	bd4cfc985d583a07aaa5436e97e09855	445	Pfam	PF00433	Protein kinase C terminal domain	370	400	0.69	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAH0799914.1	bd4cfc985d583a07aaa5436e97e09855	445	Pfam	PF00069	Protein kinase domain	92	341	6.3E-70	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAH0800097.1	d17d0aa207a03408a0f7a4723425b565	1481	Pfam	PF00169	PH domain	1054	1137	1.6E-8	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAH0800097.1	d17d0aa207a03408a0f7a4723425b565	1481	Pfam	PF00433	Protein kinase C terminal domain	1432	1471	0.0023	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAH0800097.1	d17d0aa207a03408a0f7a4723425b565	1481	Pfam	PF16126	Domain of unknown function (DUF4838)	134	482	3.2E-59	T	29-09-2025	IPR032287	Protein of unknown function DUF4838	-	-
-KAH0800097.1	d17d0aa207a03408a0f7a4723425b565	1481	Pfam	PF00069	Protein kinase domain	1152	1410	3.1E-64	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAH0800922.1	52c2fc645f05dad97886396109da8e94	432	Pfam	PF00433	Protein kinase C terminal domain	382	422	9.1E-9	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAH0800922.1	52c2fc645f05dad97886396109da8e94	432	Pfam	PF00069	Protein kinase domain	105	347	1.1E-66	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAH0800922.1	52c2fc645f05dad97886396109da8e94	432	Pfam	PF00169	PH domain	1	90	1.7E-11	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAH0801930.1	3848073a9e7926c2d80ee3ca8b8db816	444	Pfam	PF00169	PH domain	7	93	3.0E-4	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAH0801930.1	3848073a9e7926c2d80ee3ca8b8db816	444	Pfam	PF00433	Protein kinase C terminal domain	384	415	0.25	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAH0801930.1	3848073a9e7926c2d80ee3ca8b8db816	444	Pfam	PF00069	Protein kinase domain	106	356	5.3E-69	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAH0802739.1	c57efa2702f7038db25d22270de142b5	441	Pfam	PF00433	Protein kinase C terminal domain	392	433	2.1E-7	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAH0802739.1	c57efa2702f7038db25d22270de142b5	441	Pfam	PF00069	Protein kinase domain	113	371	1.1E-69	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAH0802739.1	c57efa2702f7038db25d22270de142b5	441	Pfam	PF00169	PH domain	7	95	1.8E-8	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAH0803066.1	d04ab8810efaa7b79ea3d926dc900679	439	Pfam	PF00169	PH domain	3	91	2.4E-6	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAH0803066.1	d04ab8810efaa7b79ea3d926dc900679	439	Pfam	PF00069	Protein kinase domain	111	368	4.4E-73	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAH0803066.1	d04ab8810efaa7b79ea3d926dc900679	439	Pfam	PF00433	Protein kinase C terminal domain	393	430	0.021	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAH0803075.1	59dcbd5767f5885dbdfbd5a0040681a3	426	Pfam	PF00433	Protein kinase C terminal domain	390	421	0.16	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAH0803075.1	59dcbd5767f5885dbdfbd5a0040681a3	426	Pfam	PF00069	Protein kinase domain	112	361	8.7E-65	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAH0803441.1	fc3ef65a9b70968b0fb39e38c3b0fa46	443	Pfam	PF00433	Protein kinase C terminal domain	392	432	4.8E-6	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAH0803441.1	fc3ef65a9b70968b0fb39e38c3b0fa46	443	Pfam	PF00169	PH domain	4	96	2.1E-7	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAH0803441.1	fc3ef65a9b70968b0fb39e38c3b0fa46	443	Pfam	PF00069	Protein kinase domain	116	371	4.3E-73	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAH0804299.1	94173189c349973afcf4a42c63065af4	437	Pfam	PF00069	Protein kinase domain	114	365	5.7E-64	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAH0804299.1	94173189c349973afcf4a42c63065af4	437	Pfam	PF00433	Protein kinase C terminal domain	388	411	0.012	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAH0804740.1	9b37768064b355d8136f365bfc541240	439	Pfam	PF00069	Protein kinase domain	112	370	1.3E-66	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAH0804740.1	9b37768064b355d8136f365bfc541240	439	Pfam	PF00169	PH domain	7	98	2.0E-7	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAH0804740.1	9b37768064b355d8136f365bfc541240	439	Pfam	PF00433	Protein kinase C terminal domain	391	431	2.5E-6	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAH0805223.1	90e04d7f486d5310a9f9230e4e5b4494	443	Pfam	PF00069	Protein kinase domain	114	370	4.9E-73	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAH0805223.1	90e04d7f486d5310a9f9230e4e5b4494	443	Pfam	PF00169	PH domain	4	95	1.0E-10	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAH0805223.1	90e04d7f486d5310a9f9230e4e5b4494	443	Pfam	PF00433	Protein kinase C terminal domain	391	431	0.0021	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAH0806127.1	315e36ce151344c8f6057a98cb890154	441	Pfam	PF00433	Protein kinase C terminal domain	390	431	3.4E-10	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAH0806127.1	315e36ce151344c8f6057a98cb890154	441	Pfam	PF00069	Protein kinase domain	112	369	4.3E-72	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAH0806127.1	315e36ce151344c8f6057a98cb890154	441	Pfam	PF00169	PH domain	5	94	8.7E-5	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAH0806339.1	0aba5a420120142f4584e97504d58f9d	457	Pfam	PF00169	PH domain	5	95	2.5E-13	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAH0806339.1	0aba5a420120142f4584e97504d58f9d	457	Pfam	PF00433	Protein kinase C terminal domain	408	447	1.8E-7	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAH0806339.1	0aba5a420120142f4584e97504d58f9d	457	Pfam	PF00069	Protein kinase domain	131	386	9.0E-71	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAH0806385.1	1ea9366c9df3a15ff9466cf12bcee996	458	Pfam	PF00433	Protein kinase C terminal domain	409	448	1.7E-7	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAH0806385.1	1ea9366c9df3a15ff9466cf12bcee996	458	Pfam	PF00069	Protein kinase domain	132	387	4.4E-70	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAH0806385.1	1ea9366c9df3a15ff9466cf12bcee996	458	Pfam	PF00169	PH domain	5	95	1.8E-13	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAH0806632.1	6dc1c8c3b69f4d051b0ae7cab3510715	432	Pfam	PF00069	Protein kinase domain	108	363	2.3E-60	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAH0806632.1	6dc1c8c3b69f4d051b0ae7cab3510715	432	Pfam	PF00169	PH domain	3	91	7.1E-14	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAH0806877.1	2cd175ae94f782529efd727be57f6bf0	439	Pfam	PF00169	PH domain	1	92	2.6E-11	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAH0806877.1	2cd175ae94f782529efd727be57f6bf0	439	Pfam	PF00069	Protein kinase domain	111	367	6.0E-72	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAI5483163.1	773170fecfb6293b5b44714c40a8a94f	430	Pfam	PF00169	PH domain	12	103	0.04	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAI5483163.1	773170fecfb6293b5b44714c40a8a94f	430	Pfam	PF00433	Protein kinase C terminal domain	386	410	1.3	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAI5483163.1	773170fecfb6293b5b44714c40a8a94f	430	Pfam	PF00069	Protein kinase domain	116	365	9.2E-70	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAI5487440.1	d3f579aff1ad22e563402d4d7e3072e0	452	Pfam	PF00433	Protein kinase C terminal domain	402	442	1.7E-4	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAI5487440.1	d3f579aff1ad22e563402d4d7e3072e0	452	Pfam	PF00169	PH domain	2	93	1.1E-13	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAI5487440.1	d3f579aff1ad22e563402d4d7e3072e0	452	Pfam	PF00069	Protein kinase domain	126	381	2.3E-69	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAI5488056.1	a43fb0120d5e7ec265ce298f34af0467	469	Pfam	PF00169	PH domain	40	132	2.0E-13	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAI5488056.1	a43fb0120d5e7ec265ce298f34af0467	469	Pfam	PF00433	Protein kinase C terminal domain	424	465	1.3E-7	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAI5488056.1	a43fb0120d5e7ec265ce298f34af0467	469	Pfam	PF00069	Protein kinase domain	147	403	2.8E-68	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAI5490755.1	a61a61e5a9b1980cbc82a6bb9e20ffa4	453	Pfam	PF00069	Protein kinase domain	128	382	3.6E-72	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAI5490755.1	a61a61e5a9b1980cbc82a6bb9e20ffa4	453	Pfam	PF00433	Protein kinase C terminal domain	403	443	3.5E-4	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAI5490755.1	a61a61e5a9b1980cbc82a6bb9e20ffa4	453	Pfam	PF00169	PH domain	3	95	4.1E-12	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAI5491939.1	14cacbbb3b2f00707db2e6d0799b8a80	445	Pfam	PF00169	PH domain	8	101	2.9E-14	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAI5491939.1	14cacbbb3b2f00707db2e6d0799b8a80	445	Pfam	PF00433	Protein kinase C terminal domain	395	435	8.2E-6	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAI5491939.1	14cacbbb3b2f00707db2e6d0799b8a80	445	Pfam	PF00069	Protein kinase domain	118	374	1.6E-67	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAI5492229.1	6ff65b35b765e06ef3d15f05cb7dc384	448	Pfam	PF00169	PH domain	10	100	0.0033	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAI5492229.1	6ff65b35b765e06ef3d15f05cb7dc384	448	Pfam	PF00069	Protein kinase domain	114	362	1.4E-66	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAI5492715.1	8564f2240faa712a08f32a3a347dcca4	441	Pfam	PF00169	PH domain	7	99	4.4E-14	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAI5492715.1	8564f2240faa712a08f32a3a347dcca4	441	Pfam	PF00433	Protein kinase C terminal domain	390	430	2.5E-7	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAI5492715.1	8564f2240faa712a08f32a3a347dcca4	441	Pfam	PF00069	Protein kinase domain	112	367	1.3E-67	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAI5496738.1	60799a9b2560045e10c1e22079616f25	423	Pfam	PF00169	PH domain	5	94	2.3E-4	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAI5496738.1	60799a9b2560045e10c1e22079616f25	423	Pfam	PF00069	Protein kinase domain	108	358	2.1E-72	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAI5500514.1	f51a4b0c335e7aaa428202a1d058f9e7	430	Pfam	PF00069	Protein kinase domain	108	359	7.1E-71	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAI5500595.1	910dc84e843013632d0483333d19e9e7	431	Pfam	PF00433	Protein kinase C terminal domain	387	411	0.63	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAI5500595.1	910dc84e843013632d0483333d19e9e7	431	Pfam	PF00169	PH domain	14	103	0.039	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAI5500595.1	910dc84e843013632d0483333d19e9e7	431	Pfam	PF00069	Protein kinase domain	117	366	3.2E-69	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAI5501782.1	3e0d6be7525029199caf6e1c41f58e00	453	Pfam	PF00069	Protein kinase domain	115	365	5.7E-70	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAI5502536.1	ba73927e62fff7ba05e301d70649595b	440	Pfam	PF00433	Protein kinase C terminal domain	395	436	9.3E-7	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAI5502536.1	ba73927e62fff7ba05e301d70649595b	440	Pfam	PF00169	PH domain	7	97	3.0E-12	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAI5502536.1	ba73927e62fff7ba05e301d70649595b	440	Pfam	PF00069	Protein kinase domain	118	374	2.5E-69	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAI5503860.1	a5007d24934c966bda03ddb2fef475ed	417	Pfam	PF00169	PH domain	4	87	6.8E-7	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAI5503860.1	a5007d24934c966bda03ddb2fef475ed	417	Pfam	PF00069	Protein kinase domain	108	356	1.6E-74	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAI5504611.1	d686f8920d90b88286574537aed857c7	461	Pfam	PF00069	Protein kinase domain	114	366	3.7E-67	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAI5507419.1	09e906fef9290792f193b6d5335fc24e	457	Pfam	PF00069	Protein kinase domain	117	367	2.0E-69	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAI5507419.1	09e906fef9290792f193b6d5335fc24e	457	Pfam	PF00169	PH domain	14	104	9.5E-6	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAI5508614.1	9dc33ff57d1c29e46577b5b0471d34dc	431	Pfam	PF00069	Protein kinase domain	116	366	2.9E-63	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAI5508614.1	9dc33ff57d1c29e46577b5b0471d34dc	431	Pfam	PF00169	PH domain	13	103	5.4E-5	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAI5508614.1	9dc33ff57d1c29e46577b5b0471d34dc	431	Pfam	PF00433	Protein kinase C terminal domain	387	424	0.26	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAI5511493.1	d85788cbd4669aa1ad6ad5b01e6693e5	437	Pfam	PF00169	PH domain	5	94	7.7E-6	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAI5511493.1	d85788cbd4669aa1ad6ad5b01e6693e5	437	Pfam	PF00433	Protein kinase C terminal domain	386	417	1.2	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAI5511493.1	d85788cbd4669aa1ad6ad5b01e6693e5	437	Pfam	PF00069	Protein kinase domain	109	356	1.6E-69	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAI5513786.1	66a31ab7e26f9df1c524e735d1d13e92	474	Pfam	PF00069	Protein kinase domain	110	360	5.7E-76	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAI5515111.1	2ca1deb658769473f4ef70fd43e5d206	417	Pfam	PF00169	PH domain	4	87	4.9E-7	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAI5515111.1	2ca1deb658769473f4ef70fd43e5d206	417	Pfam	PF00069	Protein kinase domain	108	356	1.6E-74	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAI5525482.1	9e469eaf4ae279f029145c52ee1b5e4e	442	Pfam	PF00169	PH domain	9	98	8.3E-4	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAI5525482.1	9e469eaf4ae279f029145c52ee1b5e4e	442	Pfam	PF00069	Protein kinase domain	111	360	3.5E-70	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAI5528748.1	e60f6304e18271f7b8e3da247d8558cb	457	Pfam	PF00069	Protein kinase domain	90	340	7.3E-70	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAI5529816.1	bd5e9c8d56476630dba4b8fd46538dac	405	Pfam	PF00433	Protein kinase C terminal domain	365	400	0.31	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAI5529816.1	bd5e9c8d56476630dba4b8fd46538dac	405	Pfam	PF00069	Protein kinase domain	89	342	5.5E-69	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAI5533216.1	a5703d65aacc19b85850bdd5d1e175f4	437	Pfam	PF00169	PH domain	10	98	0.0017	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAI5533216.1	a5703d65aacc19b85850bdd5d1e175f4	437	Pfam	PF00069	Protein kinase domain	111	361	3.5E-70	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAI5536090.1	67c99c66aa2af1a176e9a53264276b97	430	Pfam	PF00069	Protein kinase domain	116	365	3.9E-68	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAI5539313.1	4586381e9b37a1b47764bc7e17ea5000	435	Pfam	PF00069	Protein kinase domain	113	369	6.1E-70	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAI5539313.1	4586381e9b37a1b47764bc7e17ea5000	435	Pfam	PF00433	Protein kinase C terminal domain	390	431	1.2E-7	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAI5539313.1	4586381e9b37a1b47764bc7e17ea5000	435	Pfam	PF00169	PH domain	11	100	4.2E-17	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAI5546691.1	e2677ed340d295c3be96f4626c569c1e	431	Pfam	PF00433	Protein kinase C terminal domain	382	412	7.3E-4	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAI5546691.1	e2677ed340d295c3be96f4626c569c1e	431	Pfam	PF00069	Protein kinase domain	111	361	1.9E-67	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAI5546691.1	e2677ed340d295c3be96f4626c569c1e	431	Pfam	PF00169	PH domain	10	99	3.1E-5	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAI5549860.1	5545b68e265abb8a2ae2e346d19ee6a2	426	Pfam	PF00433	Protein kinase C terminal domain	385	420	1.9	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAI5549860.1	5545b68e265abb8a2ae2e346d19ee6a2	426	Pfam	PF00069	Protein kinase domain	112	362	2.1E-65	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAI5549860.1	5545b68e265abb8a2ae2e346d19ee6a2	426	Pfam	PF00169	PH domain	13	99	0.016	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAI5554057.1	be7020df092287b01110d93906e6fb80	434	Pfam	PF00069	Protein kinase domain	110	360	1.2E-67	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAI5554057.1	be7020df092287b01110d93906e6fb80	434	Pfam	PF00169	PH domain	10	93	3.6E-4	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAI5554057.1	be7020df092287b01110d93906e6fb80	434	Pfam	PF00433	Protein kinase C terminal domain	389	416	1.3	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAJ3428928.1	2d31f68c5ba979d817982ec544611c10	442	Pfam	PF00169	PH domain	5	97	6.1E-16	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAJ3428928.1	2d31f68c5ba979d817982ec544611c10	442	Pfam	PF00433	Protein kinase C terminal domain	389	430	3.3E-6	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAJ3428928.1	2d31f68c5ba979d817982ec544611c10	442	Pfam	PF00069	Protein kinase domain	112	368	1.6E-69	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAJ3432351.1	aa449e66fd468d56153ec433cfb7b0f7	442	Pfam	PF00169	PH domain	5	97	8.9E-15	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAJ3432351.1	aa449e66fd468d56153ec433cfb7b0f7	442	Pfam	PF00433	Protein kinase C terminal domain	389	430	5.3E-7	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAJ3432351.1	aa449e66fd468d56153ec433cfb7b0f7	442	Pfam	PF00069	Protein kinase domain	112	368	6.6E-69	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAJ3432777.1	1329d314e6e1ce5d1ae1ebce6d6ff512	442	Pfam	PF00433	Protein kinase C terminal domain	389	430	2.7E-7	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAJ3432777.1	1329d314e6e1ce5d1ae1ebce6d6ff512	442	Pfam	PF00169	PH domain	5	98	1.2E-15	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAJ3432777.1	1329d314e6e1ce5d1ae1ebce6d6ff512	442	Pfam	PF00069	Protein kinase domain	112	368	4.6E-71	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAJ3433105.1	d70bbd73dc693f6e57b8d5a929623ccc	452	Pfam	PF00433	Protein kinase C terminal domain	393	433	1.0E-4	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAJ3433105.1	d70bbd73dc693f6e57b8d5a929623ccc	452	Pfam	PF00069	Protein kinase domain	115	371	5.2E-67	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAJ3433105.1	d70bbd73dc693f6e57b8d5a929623ccc	452	Pfam	PF00169	PH domain	9	101	1.4E-19	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAJ3434370.1	64494f4f5f8286e60fce37bd1a677d27	448	Pfam	PF00069	Protein kinase domain	111	367	3.4E-68	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAJ3434370.1	64494f4f5f8286e60fce37bd1a677d27	448	Pfam	PF00169	PH domain	35	97	8.5E-6	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAJ3434370.1	64494f4f5f8286e60fce37bd1a677d27	448	Pfam	PF00433	Protein kinase C terminal domain	391	430	5.3E-4	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAJ3437418.1	a703581b6f1e5d86ef27dc71f2fef0c8	471	Pfam	PF00433	Protein kinase C terminal domain	394	436	1.1E-4	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAJ3437418.1	a703581b6f1e5d86ef27dc71f2fef0c8	471	Pfam	PF00069	Protein kinase domain	116	372	2.0E-69	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAJ3437418.1	a703581b6f1e5d86ef27dc71f2fef0c8	471	Pfam	PF00169	PH domain	8	102	1.3E-18	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAJ3438554.1	155cdb1c28ae37466880c8cc21575dd7	552	Pfam	PF00169	PH domain	153	207	0.052	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAJ3438554.1	155cdb1c28ae37466880c8cc21575dd7	552	Pfam	PF00069	Protein kinase domain	222	478	2.6E-69	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAJ3438554.1	155cdb1c28ae37466880c8cc21575dd7	552	Pfam	PF00433	Protein kinase C terminal domain	499	540	3.9E-6	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAJ3438944.1	17f3421db55e4d5aceb5e6b43af061c0	444	Pfam	PF00169	PH domain	7	100	1.4E-19	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAJ3438944.1	17f3421db55e4d5aceb5e6b43af061c0	444	Pfam	PF00433	Protein kinase C terminal domain	391	432	1.9E-8	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAJ3438944.1	17f3421db55e4d5aceb5e6b43af061c0	444	Pfam	PF00069	Protein kinase domain	114	370	1.1E-68	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAJ3439364.1	9dbcd3c0922b6fcca6c82f7f021ae4b5	442	Pfam	PF00433	Protein kinase C terminal domain	389	430	5.3E-7	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAJ3439364.1	9dbcd3c0922b6fcca6c82f7f021ae4b5	442	Pfam	PF00069	Protein kinase domain	112	368	1.2E-70	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAJ3439364.1	9dbcd3c0922b6fcca6c82f7f021ae4b5	442	Pfam	PF00169	PH domain	5	98	5.1E-15	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAJ3439699.1	f5d77580ed4413f55ac769f78e816f9b	451	Pfam	PF00069	Protein kinase domain	114	370	1.2E-65	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAJ3439699.1	f5d77580ed4413f55ac769f78e816f9b	451	Pfam	PF00433	Protein kinase C terminal domain	392	432	8.0E-5	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAJ3439699.1	f5d77580ed4413f55ac769f78e816f9b	451	Pfam	PF00169	PH domain	7	100	5.5E-20	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAJ3439722.1	dda4e2ed18994e287dc38c88cb9d3c9d	441	Pfam	PF00433	Protein kinase C terminal domain	388	429	3.4E-7	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAJ3439722.1	dda4e2ed18994e287dc38c88cb9d3c9d	441	Pfam	PF00169	PH domain	7	99	2.3E-17	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAJ3439722.1	dda4e2ed18994e287dc38c88cb9d3c9d	441	Pfam	PF00069	Protein kinase domain	114	367	8.6E-71	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAJ3441758.1	0257c8d88fd5a52dc13ff5d4e6161397	397	Pfam	PF00069	Protein kinase domain	67	323	4.2E-69	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAJ3441758.1	0257c8d88fd5a52dc13ff5d4e6161397	397	Pfam	PF00433	Protein kinase C terminal domain	344	385	4.6E-7	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAJ3442547.1	3a54587c6843d5f852e0fdfed83f0824	443	Pfam	PF00069	Protein kinase domain	113	369	1.1E-70	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAJ3442547.1	3a54587c6843d5f852e0fdfed83f0824	443	Pfam	PF00433	Protein kinase C terminal domain	390	431	6.6E-5	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAJ3442547.1	3a54587c6843d5f852e0fdfed83f0824	443	Pfam	PF00169	PH domain	6	99	4.3E-15	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAJ3444284.1	5f5f6affbbd6a4cd66a3b44091d5bdbd	441	Pfam	PF00433	Protein kinase C terminal domain	388	429	5.9E-8	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAJ3444284.1	5f5f6affbbd6a4cd66a3b44091d5bdbd	441	Pfam	PF00069	Protein kinase domain	114	367	2.8E-70	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAJ3444284.1	5f5f6affbbd6a4cd66a3b44091d5bdbd	441	Pfam	PF00169	PH domain	6	100	4.8E-21	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAJ3445631.1	fe8a91e436f5932db606d1b7d4e897f3	1119	Pfam	PF00433	Protein kinase C terminal domain	1064	1105	5.8E-8	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAJ3445631.1	fe8a91e436f5932db606d1b7d4e897f3	1119	Pfam	PF00169	PH domain	714	772	5.4E-4	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAJ3445631.1	fe8a91e436f5932db606d1b7d4e897f3	1119	Pfam	PF00069	Protein kinase domain	787	1043	1.2E-68	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAJ3445631.1	fe8a91e436f5932db606d1b7d4e897f3	1119	Pfam	PF03416	Peptidase C54 catalytic domain	584	714	6.5E-30	T	29-09-2025	IPR046792	Peptidase C54, catalytic domain	-	-
-KAJ3445631.1	fe8a91e436f5932db606d1b7d4e897f3	1119	Pfam	PF03416	Peptidase C54 catalytic domain	22	176	1.5E-39	T	29-09-2025	IPR046792	Peptidase C54, catalytic domain	-	-
-KAJ3446779.1	e4ff24dc42d4e63b0838bc548fe5d6f6	443	Pfam	PF00433	Protein kinase C terminal domain	390	431	1.9E-7	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAJ3446779.1	e4ff24dc42d4e63b0838bc548fe5d6f6	443	Pfam	PF00169	PH domain	6	98	6.3E-15	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAJ3446779.1	e4ff24dc42d4e63b0838bc548fe5d6f6	443	Pfam	PF00069	Protein kinase domain	113	369	3.5E-68	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAJ3448919.1	59c72e96fe117291f449ef949498fbe6	444	Pfam	PF00433	Protein kinase C terminal domain	391	432	1.9E-8	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAJ3448919.1	59c72e96fe117291f449ef949498fbe6	444	Pfam	PF00169	PH domain	7	100	3.0E-20	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAJ3448919.1	59c72e96fe117291f449ef949498fbe6	444	Pfam	PF00069	Protein kinase domain	114	370	4.2E-69	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAJ3449524.1	c71445973f20a10ad387ddc42d96e385	444	Pfam	PF00433	Protein kinase C terminal domain	391	432	1.9E-8	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAJ3449524.1	c71445973f20a10ad387ddc42d96e385	444	Pfam	PF00069	Protein kinase domain	114	370	4.1E-69	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAJ3449524.1	c71445973f20a10ad387ddc42d96e385	444	Pfam	PF00169	PH domain	7	100	1.0E-20	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAJ3452228.1	3bd39a32438f9402432de0373bb650be	444	Pfam	PF00069	Protein kinase domain	114	370	2.2E-69	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAJ3452228.1	3bd39a32438f9402432de0373bb650be	444	Pfam	PF00169	PH domain	7	97	5.7E-19	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAJ3452228.1	3bd39a32438f9402432de0373bb650be	444	Pfam	PF00433	Protein kinase C terminal domain	391	432	1.9E-8	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAJ5068875.1	fdc09e76bb28d6b1134816abd6a9f374	441	Pfam	PF00169	PH domain	7	102	7.4E-17	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAJ5068875.1	fdc09e76bb28d6b1134816abd6a9f374	441	Pfam	PF00069	Protein kinase domain	116	368	5.0E-71	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAJ5068875.1	fdc09e76bb28d6b1134816abd6a9f374	441	Pfam	PF00433	Protein kinase C terminal domain	392	430	7.2E-4	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAJ5071551.1	ba3a6657a82b4288dd6a3b762327da7d	450	Pfam	PF00169	PH domain	10	104	5.5E-17	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAJ5071551.1	ba3a6657a82b4288dd6a3b762327da7d	450	Pfam	PF00433	Protein kinase C terminal domain	397	436	6.2E-8	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAJ5071551.1	ba3a6657a82b4288dd6a3b762327da7d	450	Pfam	PF00069	Protein kinase domain	118	373	5.5E-66	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAJ5078432.1	41aa8da24dd1d1ede2c740daf5ba9750	446	Pfam	PF00169	PH domain	6	100	5.3E-16	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAJ5078432.1	41aa8da24dd1d1ede2c740daf5ba9750	446	Pfam	PF00433	Protein kinase C terminal domain	393	433	3.7E-6	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAJ5078432.1	41aa8da24dd1d1ede2c740daf5ba9750	446	Pfam	PF00069	Protein kinase domain	113	372	7.9E-69	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAJ5079900.1	7524cce3442cce0e7b787795b5bdaae0	445	Pfam	PF00169	PH domain	11	102	3.3E-17	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAJ5079900.1	7524cce3442cce0e7b787795b5bdaae0	445	Pfam	PF00433	Protein kinase C terminal domain	394	434	2.8E-5	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAJ5079900.1	7524cce3442cce0e7b787795b5bdaae0	445	Pfam	PF00069	Protein kinase domain	116	372	3.9E-68	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAJ5080786.1	09f41714ce2bac51f43c15037d43a8c4	446	Pfam	PF00169	PH domain	5	100	2.3E-20	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAJ5080786.1	09f41714ce2bac51f43c15037d43a8c4	446	Pfam	PF00069	Protein kinase domain	114	371	1.1E-65	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAJ5080786.1	09f41714ce2bac51f43c15037d43a8c4	446	Pfam	PF00433	Protein kinase C terminal domain	393	433	1.1E-4	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAJ6227709.1	9dbcd3c0922b6fcca6c82f7f021ae4b5	442	Pfam	PF00433	Protein kinase C terminal domain	389	430	5.3E-7	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAJ6227709.1	9dbcd3c0922b6fcca6c82f7f021ae4b5	442	Pfam	PF00069	Protein kinase domain	112	368	1.2E-70	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAJ6227709.1	9dbcd3c0922b6fcca6c82f7f021ae4b5	442	Pfam	PF00169	PH domain	5	98	5.1E-15	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAJ6227827.1	9ba5af81a6abc499acebc7885f9fed44	443	Pfam	PF00069	Protein kinase domain	113	369	1.4E-70	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAJ6227827.1	9ba5af81a6abc499acebc7885f9fed44	443	Pfam	PF00169	PH domain	6	99	4.3E-15	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAJ6227827.1	9ba5af81a6abc499acebc7885f9fed44	443	Pfam	PF00433	Protein kinase C terminal domain	390	431	6.6E-5	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAJ6229599.1	9603ac57665f4c5bade4aa164895a93a	444	Pfam	PF00433	Protein kinase C terminal domain	391	432	1.9E-8	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAJ6229599.1	9603ac57665f4c5bade4aa164895a93a	444	Pfam	PF00069	Protein kinase domain	114	370	1.4E-69	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAJ6229599.1	9603ac57665f4c5bade4aa164895a93a	444	Pfam	PF00169	PH domain	7	97	5.7E-19	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAJ6230059.1	30e60610c653eb77d1bb8293d356bfac	403	Pfam	PF00169	PH domain	2	53	0.002	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAJ6230059.1	30e60610c653eb77d1bb8293d356bfac	403	Pfam	PF00069	Protein kinase domain	67	323	4.8E-68	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAJ6230059.1	30e60610c653eb77d1bb8293d356bfac	403	Pfam	PF00433	Protein kinase C terminal domain	347	386	4.6E-4	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAJ6232798.1	56b30d8feac3698cd2299bc33a94c070	397	Pfam	PF00433	Protein kinase C terminal domain	344	385	4.6E-7	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAJ6232798.1	56b30d8feac3698cd2299bc33a94c070	397	Pfam	PF00069	Protein kinase domain	67	323	4.2E-69	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAJ6233201.1	9c37fdf80c2da159de462b546f2d2893	552	Pfam	PF00069	Protein kinase domain	222	478	3.4E-69	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAJ6233201.1	9c37fdf80c2da159de462b546f2d2893	552	Pfam	PF00433	Protein kinase C terminal domain	499	540	3.9E-6	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAJ6233201.1	9c37fdf80c2da159de462b546f2d2893	552	Pfam	PF00169	PH domain	153	207	0.047	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAJ6233718.1	247ba44812834b4275b123a239ba2e15	423	Pfam	PF00433	Protein kinase C terminal domain	346	388	9.6E-5	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAJ6233718.1	247ba44812834b4275b123a239ba2e15	423	Pfam	PF00169	PH domain	3	54	8.5E-4	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAJ6233718.1	247ba44812834b4275b123a239ba2e15	423	Pfam	PF00069	Protein kinase domain	68	324	1.5E-69	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAJ6236357.1	59c72e96fe117291f449ef949498fbe6	444	Pfam	PF00069	Protein kinase domain	114	370	4.2E-69	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAJ6236357.1	59c72e96fe117291f449ef949498fbe6	444	Pfam	PF00433	Protein kinase C terminal domain	391	432	1.9E-8	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAJ6236357.1	59c72e96fe117291f449ef949498fbe6	444	Pfam	PF00169	PH domain	7	100	3.0E-20	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAJ6240301.1	aa449e66fd468d56153ec433cfb7b0f7	442	Pfam	PF00169	PH domain	5	97	8.9E-15	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAJ6240301.1	aa449e66fd468d56153ec433cfb7b0f7	442	Pfam	PF00069	Protein kinase domain	112	368	6.6E-69	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAJ6240301.1	aa449e66fd468d56153ec433cfb7b0f7	442	Pfam	PF00433	Protein kinase C terminal domain	389	430	5.3E-7	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAJ6242869.1	89601c28deaa195e90ee69061d2df243	1151	Pfam	PF03416	Peptidase C54 catalytic domain	584	731	3.3E-37	T	29-09-2025	IPR046792	Peptidase C54, catalytic domain	-	-
-KAJ6242869.1	89601c28deaa195e90ee69061d2df243	1151	Pfam	PF03416	Peptidase C54 catalytic domain	22	176	1.6E-39	T	29-09-2025	IPR046792	Peptidase C54, catalytic domain	-	-
-KAJ6242869.1	89601c28deaa195e90ee69061d2df243	1151	Pfam	PF00169	PH domain	765	804	0.0062	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAJ6242869.1	89601c28deaa195e90ee69061d2df243	1151	Pfam	PF00069	Protein kinase domain	819	1075	5.4E-69	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAJ6242869.1	89601c28deaa195e90ee69061d2df243	1151	Pfam	PF00433	Protein kinase C terminal domain	1096	1137	6.0E-8	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAJ6244155.1	17f3421db55e4d5aceb5e6b43af061c0	444	Pfam	PF00169	PH domain	7	100	1.4E-19	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAJ6244155.1	17f3421db55e4d5aceb5e6b43af061c0	444	Pfam	PF00069	Protein kinase domain	114	370	1.1E-68	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAJ6244155.1	17f3421db55e4d5aceb5e6b43af061c0	444	Pfam	PF00433	Protein kinase C terminal domain	391	432	1.9E-8	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAJ6246661.1	d70bbd73dc693f6e57b8d5a929623ccc	452	Pfam	PF00433	Protein kinase C terminal domain	393	433	1.0E-4	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAJ6246661.1	d70bbd73dc693f6e57b8d5a929623ccc	452	Pfam	PF00069	Protein kinase domain	115	371	5.2E-67	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAJ6246661.1	d70bbd73dc693f6e57b8d5a929623ccc	452	Pfam	PF00169	PH domain	9	101	1.4E-19	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAJ6246982.1	1329d314e6e1ce5d1ae1ebce6d6ff512	442	Pfam	PF00169	PH domain	5	98	1.2E-15	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAJ6246982.1	1329d314e6e1ce5d1ae1ebce6d6ff512	442	Pfam	PF00069	Protein kinase domain	112	368	4.6E-71	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAJ6246982.1	1329d314e6e1ce5d1ae1ebce6d6ff512	442	Pfam	PF00433	Protein kinase C terminal domain	389	430	2.7E-7	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAJ6248887.1	2d31f68c5ba979d817982ec544611c10	442	Pfam	PF00433	Protein kinase C terminal domain	389	430	3.3E-6	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAJ6248887.1	2d31f68c5ba979d817982ec544611c10	442	Pfam	PF00169	PH domain	5	97	6.1E-16	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAJ6248887.1	2d31f68c5ba979d817982ec544611c10	442	Pfam	PF00069	Protein kinase domain	112	368	1.6E-69	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAJ6251906.1	7578a3a4f81269242fd0088c7b6f3fd3	441	Pfam	PF00433	Protein kinase C terminal domain	388	429	3.4E-7	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAJ6251906.1	7578a3a4f81269242fd0088c7b6f3fd3	441	Pfam	PF00169	PH domain	7	99	1.7E-17	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAJ6251906.1	7578a3a4f81269242fd0088c7b6f3fd3	441	Pfam	PF00069	Protein kinase domain	114	367	8.6E-71	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAJ6252314.1	5f5f6affbbd6a4cd66a3b44091d5bdbd	441	Pfam	PF00069	Protein kinase domain	114	367	2.8E-70	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAJ6252314.1	5f5f6affbbd6a4cd66a3b44091d5bdbd	441	Pfam	PF00433	Protein kinase C terminal domain	388	429	5.9E-8	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAJ6252314.1	5f5f6affbbd6a4cd66a3b44091d5bdbd	441	Pfam	PF00169	PH domain	6	100	4.8E-21	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAJ6253560.1	32165469c67a3c7763d193a92e5f64bb	444	Pfam	PF00169	PH domain	7	100	6.3E-21	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAJ6253560.1	32165469c67a3c7763d193a92e5f64bb	444	Pfam	PF00433	Protein kinase C terminal domain	391	432	1.9E-8	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAJ6253560.1	32165469c67a3c7763d193a92e5f64bb	444	Pfam	PF00069	Protein kinase domain	114	370	4.1E-69	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAJ6254877.1	e4ff24dc42d4e63b0838bc548fe5d6f6	443	Pfam	PF00433	Protein kinase C terminal domain	390	431	1.9E-7	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAJ6254877.1	e4ff24dc42d4e63b0838bc548fe5d6f6	443	Pfam	PF00169	PH domain	6	98	6.3E-15	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAJ6254877.1	e4ff24dc42d4e63b0838bc548fe5d6f6	443	Pfam	PF00069	Protein kinase domain	113	369	3.5E-68	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAJ6255356.1	5cbc61c947ef09958dadac7d9de8390a	451	Pfam	PF00069	Protein kinase domain	114	370	2.1E-65	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAJ6255356.1	5cbc61c947ef09958dadac7d9de8390a	451	Pfam	PF00433	Protein kinase C terminal domain	392	432	8.0E-5	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAJ6255356.1	5cbc61c947ef09958dadac7d9de8390a	451	Pfam	PF00169	PH domain	7	100	5.5E-20	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAK8834899.1	89b3f9de8b237ff4c71e0861a78de1ce	445	Pfam	PF00169	PH domain	1	87	8.9E-5	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAK8834899.1	89b3f9de8b237ff4c71e0861a78de1ce	445	Pfam	PF00069	Protein kinase domain	115	372	9.1E-68	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAK8834899.1	89b3f9de8b237ff4c71e0861a78de1ce	445	Pfam	PF00433	Protein kinase C terminal domain	393	433	4.0E-7	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAK8840355.1	acc09aeb6f5cc9af89a709b1e50a281f	502	Pfam	PF00069	Protein kinase domain	113	430	3.7E-53	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAK8840355.1	acc09aeb6f5cc9af89a709b1e50a281f	502	Pfam	PF00169	PH domain	11	98	3.2E-15	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAK8840355.1	acc09aeb6f5cc9af89a709b1e50a281f	502	Pfam	PF00433	Protein kinase C terminal domain	451	492	0.0048	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAK8840649.1	eecaa51165d15b3634f2c4c40d19a294	489	Pfam	PF00169	PH domain	10	99	1.7E-5	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAK8840649.1	eecaa51165d15b3634f2c4c40d19a294	489	Pfam	PF00433	Protein kinase C terminal domain	395	435	1.4E-8	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAK8840649.1	eecaa51165d15b3634f2c4c40d19a294	489	Pfam	PF00069	Protein kinase domain	118	374	9.6E-67	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAK8841192.1	95617de3b9b4c2c49e61772dddfca721	474	Pfam	PF00433	Protein kinase C terminal domain	425	465	1.9	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAK8841192.1	95617de3b9b4c2c49e61772dddfca721	474	Pfam	PF00169	PH domain	11	101	1.7E-12	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAK8841192.1	95617de3b9b4c2c49e61772dddfca721	474	Pfam	PF00069	Protein kinase domain	145	403	2.0E-68	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAK8842325.1	36505388067839e0b32b0b1ceec3f794	547	Pfam	PF00169	PH domain	17	105	6.9E-15	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAK8842325.1	36505388067839e0b32b0b1ceec3f794	547	Pfam	PF00433	Protein kinase C terminal domain	496	537	0.11	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAK8842325.1	36505388067839e0b32b0b1ceec3f794	547	Pfam	PF00069	Protein kinase domain	289	475	8.4E-43	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAK8842325.1	36505388067839e0b32b0b1ceec3f794	547	Pfam	PF00069	Protein kinase domain	120	228	4.3E-13	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAK8842667.1	05edfef0cd2aa648c6c90e37d991812d	462	Pfam	PF00433	Protein kinase C terminal domain	384	417	0.69	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAK8842667.1	05edfef0cd2aa648c6c90e37d991812d	462	Pfam	PF00069	Protein kinase domain	110	357	1.3E-63	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAK8842861.1	99e85ba0078750525d7d3bf60ce1b522	447	Pfam	PF00069	Protein kinase domain	124	379	1.1E-64	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAK8842861.1	99e85ba0078750525d7d3bf60ce1b522	447	Pfam	PF00169	PH domain	5	97	1.2E-20	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAK8842861.1	99e85ba0078750525d7d3bf60ce1b522	447	Pfam	PF00433	Protein kinase C terminal domain	401	440	0.0018	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAK8846329.1	51b5a71c9d267991faf88b6882f4198d	437	Pfam	PF00169	PH domain	15	106	5.9E-7	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAK8846329.1	51b5a71c9d267991faf88b6882f4198d	437	Pfam	PF00069	Protein kinase domain	118	370	5.9E-69	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAK8847019.1	620dc1a2f562aa7a1dbbd38c71230e73	509	Pfam	PF00069	Protein kinase domain	113	204	1.6E-10	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAK8847019.1	620dc1a2f562aa7a1dbbd38c71230e73	509	Pfam	PF00069	Protein kinase domain	263	439	9.2E-41	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAK8847019.1	620dc1a2f562aa7a1dbbd38c71230e73	509	Pfam	PF00169	PH domain	12	98	2.5E-15	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAK8847019.1	620dc1a2f562aa7a1dbbd38c71230e73	509	Pfam	PF00433	Protein kinase C terminal domain	463	501	0.8	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAK8848115.1	007b35766c47a62dcad4e052750504c6	464	Pfam	PF00169	PH domain	5	98	4.2E-21	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAK8848115.1	007b35766c47a62dcad4e052750504c6	464	Pfam	PF00069	Protein kinase domain	138	393	2.8E-66	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAK8848115.1	007b35766c47a62dcad4e052750504c6	464	Pfam	PF00433	Protein kinase C terminal domain	414	454	1.2E-6	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAK8854306.1	6c0f43a578606629052ae476e7198343	435	Pfam	PF00433	Protein kinase C terminal domain	393	425	0.041	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAK8854306.1	6c0f43a578606629052ae476e7198343	435	Pfam	PF00069	Protein kinase domain	115	365	3.1E-71	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAK8854306.1	6c0f43a578606629052ae476e7198343	435	Pfam	PF00169	PH domain	11	103	2.6E-4	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAK8866332.1	39d220c7403c612af8e6aae23883c5a2	419	Pfam	PF00169	PH domain	3	92	6.7E-4	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAK8866332.1	39d220c7403c612af8e6aae23883c5a2	419	Pfam	PF00069	Protein kinase domain	106	354	3.0E-64	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAK8866524.1	f0b28f508bed2ab8845f947b0c46d6f5	443	Pfam	PF00069	Protein kinase domain	109	374	1.4E-63	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAK8866524.1	f0b28f508bed2ab8845f947b0c46d6f5	443	Pfam	PF00169	PH domain	3	95	1.7E-5	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAK8866524.1	f0b28f508bed2ab8845f947b0c46d6f5	443	Pfam	PF00433	Protein kinase C terminal domain	395	435	0.38	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAK8878346.1	e42301a233c4032de478dbfadc38e78e	449	Pfam	PF00169	PH domain	9	100	3.2E-14	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAK8878346.1	e42301a233c4032de478dbfadc38e78e	449	Pfam	PF00433	Protein kinase C terminal domain	398	439	6.7E-4	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAK8878346.1	e42301a233c4032de478dbfadc38e78e	449	Pfam	PF00069	Protein kinase domain	115	377	3.4E-72	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAK8881614.1	df6673725585868e23305332a36acdb7	467	Pfam	PF00069	Protein kinase domain	119	368	6.0E-68	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAK8881614.1	df6673725585868e23305332a36acdb7	467	Pfam	PF00169	PH domain	16	106	4.7E-5	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAK8882546.1	e6064591c07087b4f5a3b252deea1220	441	Pfam	PF00069	Protein kinase domain	117	374	7.5E-63	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAK8882546.1	e6064591c07087b4f5a3b252deea1220	441	Pfam	PF00169	PH domain	8	100	2.9E-12	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAK8882701.1	b7956642025ce32725404b33cf011175	450	Pfam	PF00433	Protein kinase C terminal domain	391	428	0.39	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAK8882701.1	b7956642025ce32725404b33cf011175	450	Pfam	PF00069	Protein kinase domain	119	369	9.0E-71	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAK8883798.1	9781abc446a5ea28bcd9cad5c92162d7	450	Pfam	PF00069	Protein kinase domain	116	367	4.9E-68	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAK8883798.1	9781abc446a5ea28bcd9cad5c92162d7	450	Pfam	PF00433	Protein kinase C terminal domain	393	426	1.2	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAK8884012.1	89b3f9de8b237ff4c71e0861a78de1ce	445	Pfam	PF00069	Protein kinase domain	115	372	9.1E-68	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAK8884012.1	89b3f9de8b237ff4c71e0861a78de1ce	445	Pfam	PF00433	Protein kinase C terminal domain	393	433	4.0E-7	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAK8884012.1	89b3f9de8b237ff4c71e0861a78de1ce	445	Pfam	PF00169	PH domain	1	87	8.9E-5	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAK8884091.1	d5d43aab106fc73dea86d329878f8f4f	449	Pfam	PF00069	Protein kinase domain	116	367	3.7E-73	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAK8884091.1	d5d43aab106fc73dea86d329878f8f4f	449	Pfam	PF00169	PH domain	17	103	1.2E-5	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAK8886140.1	5407a5b3dd4f079235766a8003c51e1c	462	Pfam	PF00069	Protein kinase domain	115	366	1.2E-68	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAK8886140.1	5407a5b3dd4f079235766a8003c51e1c	462	Pfam	PF00169	PH domain	11	101	0.0057	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAK8886140.1	5407a5b3dd4f079235766a8003c51e1c	462	Pfam	PF00433	Protein kinase C terminal domain	393	424	0.89	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAK8887040.1	5247f328d72bfebf44e0c4a595ba5ce0	440	Pfam	PF00069	Protein kinase domain	115	361	2.4E-67	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAK8887040.1	5247f328d72bfebf44e0c4a595ba5ce0	440	Pfam	PF00433	Protein kinase C terminal domain	383	417	0.035	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAK8887040.1	5247f328d72bfebf44e0c4a595ba5ce0	440	Pfam	PF00169	PH domain	4	96	3.9E-4	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAK8888958.1	bd0505ab20663694c34c2e75364ef86d	435	Pfam	PF00169	PH domain	13	100	9.5E-7	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAK8888958.1	bd0505ab20663694c34c2e75364ef86d	435	Pfam	PF00069	Protein kinase domain	116	366	2.4E-71	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAK8890552.1	0b7d4bf7e95e64da86efe50ba807a3e5	445	Pfam	PF00069	Protein kinase domain	122	380	2.0E-65	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAK8890552.1	0b7d4bf7e95e64da86efe50ba807a3e5	445	Pfam	PF00433	Protein kinase C terminal domain	401	441	0.0012	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAK8893711.1	2fad6fe1adfabffea52340302f4a8b6f	455	Pfam	PF00433	Protein kinase C terminal domain	408	448	1.6	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAK8893711.1	2fad6fe1adfabffea52340302f4a8b6f	455	Pfam	PF00169	PH domain	2	97	8.3E-13	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAK8893711.1	2fad6fe1adfabffea52340302f4a8b6f	455	Pfam	PF00069	Protein kinase domain	124	386	4.6E-66	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAK8894814.1	6ff627508b17caf7a664e83c87820da1	480	Pfam	PF00069	Protein kinase domain	140	399	7.9E-67	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAK8894814.1	6ff627508b17caf7a664e83c87820da1	480	Pfam	PF00169	PH domain	11	125	1.0E-5	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAK8894997.1	d39166ef175f87129d360e8065c2b787	592	Pfam	PF00069	Protein kinase domain	241	476	5.2E-51	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAK8894997.1	d39166ef175f87129d360e8065c2b787	592	Pfam	PF00169	PH domain	7	113	8.9E-6	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAK8895137.1	ecf757a3248ba9b4a44d3ae792f52b27	485	Pfam	PF00069	Protein kinase domain	142	405	3.8E-67	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAK8895137.1	ecf757a3248ba9b4a44d3ae792f52b27	485	Pfam	PF00169	PH domain	11	127	5.8E-7	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAK8895938.1	0e0040e6d79d0a393a58afa0e613d540	486	Pfam	PF00433	Protein kinase C terminal domain	397	428	0.31	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAK8895938.1	0e0040e6d79d0a393a58afa0e613d540	486	Pfam	PF00069	Protein kinase domain	120	370	5.3E-67	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAK8896222.1	4273ec7358d6bc3171e949b6d1f21df8	466	Pfam	PF00069	Protein kinase domain	116	367	1.1E-68	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAK8896222.1	4273ec7358d6bc3171e949b6d1f21df8	466	Pfam	PF00169	PH domain	11	102	0.0052	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAK8896222.1	4273ec7358d6bc3171e949b6d1f21df8	466	Pfam	PF00433	Protein kinase C terminal domain	393	426	0.012	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-KAK8896752.1	b18ec6588c5062860e13278a60a18cc4	500	Pfam	PF00069	Protein kinase domain	115	209	7.4E-12	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAK8896752.1	b18ec6588c5062860e13278a60a18cc4	500	Pfam	PF00069	Protein kinase domain	243	428	3.8E-41	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAK8896752.1	b18ec6588c5062860e13278a60a18cc4	500	Pfam	PF00169	PH domain	12	98	5.0E-12	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAK8900393.1	97dce38eec838c932c459f6150631395	454	Pfam	PF00069	Protein kinase domain	130	386	4.3E-69	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-KAK8900393.1	97dce38eec838c932c459f6150631395	454	Pfam	PF00169	PH domain	2	93	1.7E-14	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-KAK8900393.1	97dce38eec838c932c459f6150631395	454	Pfam	PF00433	Protein kinase C terminal domain	407	447	1.1E-7	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-OHS92848.1	54a71e1c76403b4bbe83a5114ae05cc2	449	Pfam	PF00069	Protein kinase domain	112	363	3.5E-70	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-OHS92848.1	54a71e1c76403b4bbe83a5114ae05cc2	449	Pfam	PF00433	Protein kinase C terminal domain	390	421	0.026	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-OHS92848.1	54a71e1c76403b4bbe83a5114ae05cc2	449	Pfam	PF00169	PH domain	9	98	1.6E-6	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-OHS94999.1	bb63c2b9f26fbbaf38e54791abe137b8	487	Pfam	PF00069	Protein kinase domain	110	371	9.5E-68	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-OHS94999.1	bb63c2b9f26fbbaf38e54791abe137b8	487	Pfam	PF00169	PH domain	10	97	0.0016	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-OHS95069.1	b640adffd23c55c9f111f04ff90e83cf	438	Pfam	PF00169	PH domain	12	101	0.004	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-OHS95069.1	b640adffd23c55c9f111f04ff90e83cf	438	Pfam	PF00069	Protein kinase domain	115	367	9.0E-61	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-OHS95205.1	5eba35a69f3876729dab93a7015a6ec4	439	Pfam	PF00433	Protein kinase C terminal domain	392	433	2.1E-5	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-OHS95205.1	5eba35a69f3876729dab93a7015a6ec4	439	Pfam	PF00169	PH domain	11	100	1.2E-12	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-OHS95205.1	5eba35a69f3876729dab93a7015a6ec4	439	Pfam	PF00069	Protein kinase domain	116	371	5.2E-69	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-OHS95828.1	8973a02f2cae972217151dcc91615aad	449	Pfam	PF00069	Protein kinase domain	106	353	2.0E-67	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-OHS95875.1	d0756e2d307f01bcd3d0c7cbfc82e8ba	462	Pfam	PF00169	PH domain	14	99	0.038	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-OHS95875.1	d0756e2d307f01bcd3d0c7cbfc82e8ba	462	Pfam	PF00069	Protein kinase domain	112	363	1.6E-69	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-OHS95875.1	d0756e2d307f01bcd3d0c7cbfc82e8ba	462	Pfam	PF00433	Protein kinase C terminal domain	393	423	1.7	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-OHS96005.1	12db826c77d344e662a72afa8858fb77	450	Pfam	PF00433	Protein kinase C terminal domain	388	420	2.1	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-OHS96005.1	12db826c77d344e662a72afa8858fb77	450	Pfam	PF00169	PH domain	8	98	0.019	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-OHS96005.1	12db826c77d344e662a72afa8858fb77	450	Pfam	PF00069	Protein kinase domain	113	363	4.9E-70	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-OHS96565.1	695e0f75e94a5c65161d2469d72c1e8c	447	Pfam	PF00433	Protein kinase C terminal domain	395	435	6.9E-5	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-OHS96565.1	695e0f75e94a5c65161d2469d72c1e8c	447	Pfam	PF00169	PH domain	6	96	1.4E-5	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-OHS96565.1	695e0f75e94a5c65161d2469d72c1e8c	447	Pfam	PF00069	Protein kinase domain	116	374	2.8E-69	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-OHS97803.1	77509dda217d4d3a4dbaac47e5b6f2f3	546	Pfam	PF00069	Protein kinase domain	202	449	6.2E-65	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-OHS97803.1	77509dda217d4d3a4dbaac47e5b6f2f3	546	Pfam	PF00169	PH domain	99	188	1.7E-10	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-OHS98046.1	06cf23d9bbca688f9ce2ee03673c2228	473	Pfam	PF00069	Protein kinase domain	144	400	2.2E-69	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-OHS98046.1	06cf23d9bbca688f9ce2ee03673c2228	473	Pfam	PF00169	PH domain	5	97	8.7E-18	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-OHS98046.1	06cf23d9bbca688f9ce2ee03673c2228	473	Pfam	PF00433	Protein kinase C terminal domain	421	461	2.6E-7	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-OHS99021.1	cc0f91e7f50f41caf85d998a0de2d576	519	Pfam	PF00169	PH domain	20	108	4.3E-6	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-OHS99021.1	cc0f91e7f50f41caf85d998a0de2d576	519	Pfam	PF00069	Protein kinase domain	124	374	1.4E-64	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-OHS99266.1	2bc544ec8c243f4a9db8bd41d2830226	466	Pfam	PF00169	PH domain	30	120	4.1E-11	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-OHS99266.1	2bc544ec8c243f4a9db8bd41d2830226	466	Pfam	PF00069	Protein kinase domain	139	395	2.0E-67	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-OHS99266.1	2bc544ec8c243f4a9db8bd41d2830226	466	Pfam	PF00433	Protein kinase C terminal domain	416	456	7.4E-4	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-OHS99697.1	f029dd149ea3c7e94bddb1d987611045	465	Pfam	PF00069	Protein kinase domain	134	386	1.7E-63	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-OHS99697.1	f029dd149ea3c7e94bddb1d987611045	465	Pfam	PF00169	PH domain	31	119	5.0E-4	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-OHS99881.1	69d0cc1fe398a003a6e6a60f3c0c2277	433	Pfam	PF00169	PH domain	3	88	2.1E-4	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-OHS99881.1	69d0cc1fe398a003a6e6a60f3c0c2277	433	Pfam	PF00433	Protein kinase C terminal domain	389	429	7.8E-9	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-OHS99881.1	69d0cc1fe398a003a6e6a60f3c0c2277	433	Pfam	PF00069	Protein kinase domain	112	354	2.6E-65	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-OHT00169.1	f43ec609f2e5a0c8d51c758b14a364e7	500	Pfam	PF00069	Protein kinase domain	176	432	5.9E-70	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-OHT00169.1	f43ec609f2e5a0c8d51c758b14a364e7	500	Pfam	PF00433	Protein kinase C terminal domain	453	493	7.6E-7	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-OHT00169.1	f43ec609f2e5a0c8d51c758b14a364e7	500	Pfam	PF00169	PH domain	29	119	3.9E-16	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-OHT00535.1	7bb36eb2be4791407bbafac57c401633	446	Pfam	PF00069	Protein kinase domain	116	367	1.9E-66	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-OHT00535.1	7bb36eb2be4791407bbafac57c401633	446	Pfam	PF00169	PH domain	11	104	0.0055	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-OHT01178.1	a1dd83fa3cb7365cf18136fa30735e66	492	Pfam	PF00069	Protein kinase domain	169	424	2.6E-66	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-OHT01178.1	a1dd83fa3cb7365cf18136fa30735e66	492	Pfam	PF00433	Protein kinase C terminal domain	445	485	4.5E-7	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-OHT01178.1	a1dd83fa3cb7365cf18136fa30735e66	492	Pfam	PF00169	PH domain	4	100	4.1E-18	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-OHT01273.1	d9dfb6ec50147ba6b64f57bf55a8cde8	447	Pfam	PF00169	PH domain	13	102	3.0E-7	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-OHT01273.1	d9dfb6ec50147ba6b64f57bf55a8cde8	447	Pfam	PF00069	Protein kinase domain	116	379	3.8E-64	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-OHT01273.1	d9dfb6ec50147ba6b64f57bf55a8cde8	447	Pfam	PF00433	Protein kinase C terminal domain	402	442	1.6E-4	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-OHT01303.1	f97b4b78fe1e01fe14a6bfe41bbd0f53	452	Pfam	PF00069	Protein kinase domain	118	369	8.5E-71	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-OHT01303.1	f97b4b78fe1e01fe14a6bfe41bbd0f53	452	Pfam	PF00169	PH domain	17	106	3.1E-4	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-OHT01574.1	38b4ce48869ed1eb35f7e150345143bb	525	Pfam	PF00169	PH domain	9	98	7.5E-4	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-OHT01574.1	38b4ce48869ed1eb35f7e150345143bb	525	Pfam	PF00069	Protein kinase domain	111	361	1.4E-69	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-OHT02420.1	a68a5359b9e0fd9ae25f7065e25f3631	515	Pfam	PF00069	Protein kinase domain	167	419	7.5E-66	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-OHT05101.1	0fee970e205602db792142ff62f6d9c9	484	Pfam	PF00169	PH domain	10	129	9.1E-7	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-OHT05101.1	0fee970e205602db792142ff62f6d9c9	484	Pfam	PF00069	Protein kinase domain	142	390	5.3E-68	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-OHT05481.1	8e909579703fa6974b4ec230733cad6c	447	Pfam	PF00433	Protein kinase C terminal domain	393	420	2.9	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-OHT05481.1	8e909579703fa6974b4ec230733cad6c	447	Pfam	PF00069	Protein kinase domain	120	369	2.4E-70	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-OHT06549.1	40c4a3a42f4ab5998c74f6d1f2780696	477	Pfam	PF00069	Protein kinase domain	119	367	4.0E-65	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-OHT06549.1	40c4a3a42f4ab5998c74f6d1f2780696	477	Pfam	PF00169	PH domain	16	106	0.0087	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-OHT06549.1	40c4a3a42f4ab5998c74f6d1f2780696	477	Pfam	PF00433	Protein kinase C terminal domain	389	413	0.053	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-OHT06835.1	a4c7269a67214b9fa55428c174e2002f	436	Pfam	PF00069	Protein kinase domain	116	366	2.1E-69	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-OHT06835.1	a4c7269a67214b9fa55428c174e2002f	436	Pfam	PF00433	Protein kinase C terminal domain	394	426	0.041	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-OHT06835.1	a4c7269a67214b9fa55428c174e2002f	436	Pfam	PF00169	PH domain	11	104	5.1E-4	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-OHT07256.1	4ab0f421f7da06408850e5742cef7429	419	Pfam	PF00169	PH domain	4	91	0.0061	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-OHT07256.1	4ab0f421f7da06408850e5742cef7429	419	Pfam	PF00069	Protein kinase domain	106	354	1.4E-61	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-OHT07622.1	a7923d88d6bc915465eac8e03f8ba29b	427	Pfam	PF00069	Protein kinase domain	102	352	1.0E-69	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-OHT08265.1	5c489cd3853845c17595181e76999417	450	Pfam	PF00069	Protein kinase domain	121	369	4.7E-73	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-OHT08265.1	5c489cd3853845c17595181e76999417	450	Pfam	PF00433	Protein kinase C terminal domain	391	428	0.0046	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-OHT08753.1	be6c65ae43bfe845d1be124b33a7eefc	406	Pfam	PF00433	Protein kinase C terminal domain	357	384	0.59	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-OHT08753.1	be6c65ae43bfe845d1be124b33a7eefc	406	Pfam	PF00069	Protein kinase domain	86	336	1.6E-68	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-OHT10081.1	4d74e068ad479298fd6ceae038c3f6b0	535	Pfam	PF00433	Protein kinase C terminal domain	453	500	0.26	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-OHT10081.1	4d74e068ad479298fd6ceae038c3f6b0	535	Pfam	PF00069	Protein kinase domain	183	431	7.6E-49	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-OHT10081.1	4d74e068ad479298fd6ceae038c3f6b0	535	Pfam	PF00169	PH domain	12	101	1.0E-6	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-OHT10224.1	eec0e34eed43ad76d741befd32a22949	447	Pfam	PF00169	PH domain	11	104	3.6E-9	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-OHT10224.1	eec0e34eed43ad76d741befd32a22949	447	Pfam	PF00069	Protein kinase domain	117	368	4.4E-68	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-OHT11067.1	d76f47c6b779e107b7e964c39c1d054b	433	Pfam	PF00433	Protein kinase C terminal domain	395	412	2.7	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-OHT11067.1	d76f47c6b779e107b7e964c39c1d054b	433	Pfam	PF00069	Protein kinase domain	114	366	1.0E-68	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-OHT11067.1	d76f47c6b779e107b7e964c39c1d054b	433	Pfam	PF00169	PH domain	11	101	3.1E-7	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-OHT11416.1	fd21497421526fc7867259895a37cedf	447	Pfam	PF00433	Protein kinase C terminal domain	397	437	5.0E-8	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-OHT11416.1	fd21497421526fc7867259895a37cedf	447	Pfam	PF00169	PH domain	8	98	3.6E-13	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-OHT11416.1	fd21497421526fc7867259895a37cedf	447	Pfam	PF00069	Protein kinase domain	122	376	4.6E-66	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-OHT11482.1	3145599872d72a07fbc6634751043f6d	467	Pfam	PF00169	PH domain	13	100	3.2E-6	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-OHT11482.1	3145599872d72a07fbc6634751043f6d	467	Pfam	PF00069	Protein kinase domain	115	366	2.2E-70	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-OHT13324.1	3bce47c630a13d136eb6863eedbcc6eb	508	Pfam	PF00169	PH domain	15	103	0.016	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-OHT13324.1	3bce47c630a13d136eb6863eedbcc6eb	508	Pfam	PF00069	Protein kinase domain	118	367	2.0E-73	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-OHT14359.1	2694068bb8ef128822bef280fbc92f06	463	Pfam	PF00169	PH domain	6	98	2.2E-16	T	29-09-2025	IPR001849	Pleckstrin homology domain	-	-
-OHT14359.1	2694068bb8ef128822bef280fbc92f06	463	Pfam	PF00433	Protein kinase C terminal domain	415	455	1.7E-9	T	29-09-2025	IPR017892	Protein kinase, C-terminal	-	-
-OHT14359.1	2694068bb8ef128822bef280fbc92f06	463	Pfam	PF00069	Protein kinase domain	138	394	1.6E-69	T	29-09-2025	IPR000719	Protein kinase domain	-	-
-OHT16522.1	8e594b3119058009f16f1912aaa18020	422	Pfam	PF00069	Protein kinase domain	103	353	1.2E-67	T	29-09-2025	IPR000719	Protein kinase domain	-	-
+EAX88199.1	e2677ed340d295c3be96f4626c569c1e	431	Pfam	PF00433	Protein kinase C terminal domain	382	412	7.3E-4	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+EAX88199.1	e2677ed340d295c3be96f4626c569c1e	431	Pfam	PF00169	PH domain	10	99	3.1E-5	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+EAX88199.1	e2677ed340d295c3be96f4626c569c1e	431	Pfam	PF00069	Protein kinase domain	111	361	1.9E-67	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+EAX88277.1	e60f6304e18271f7b8e3da247d8558cb	457	Pfam	PF00069	Protein kinase domain	90	340	7.3E-70	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+EAX88736.1	773170fecfb6293b5b44714c40a8a94f	430	Pfam	PF00169	PH domain	12	103	0.04	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+EAX88736.1	773170fecfb6293b5b44714c40a8a94f	430	Pfam	PF00433	Protein kinase C terminal domain	386	410	1.3	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+EAX88736.1	773170fecfb6293b5b44714c40a8a94f	430	Pfam	PF00069	Protein kinase domain	116	365	9.2E-70	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+EAX89765.1	6ff65b35b765e06ef3d15f05cb7dc384	448	Pfam	PF00169	PH domain	10	100	0.0033	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+EAX89765.1	6ff65b35b765e06ef3d15f05cb7dc384	448	Pfam	PF00069	Protein kinase domain	114	362	1.4E-66	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+EAX94066.1	a43fb0120d5e7ec265ce298f34af0467	469	Pfam	PF00169	PH domain	40	132	2.0E-13	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+EAX94066.1	a43fb0120d5e7ec265ce298f34af0467	469	Pfam	PF00433	Protein kinase C terminal domain	424	465	1.3E-7	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+EAX94066.1	a43fb0120d5e7ec265ce298f34af0467	469	Pfam	PF00069	Protein kinase domain	147	403	2.8E-68	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+EAX95276.1	d686f8920d90b88286574537aed857c7	461	Pfam	PF00069	Protein kinase domain	114	366	3.7E-67	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+EAX95627.1	d3f579aff1ad22e563402d4d7e3072e0	452	Pfam	PF00069	Protein kinase domain	126	381	2.3E-69	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+EAX95627.1	d3f579aff1ad22e563402d4d7e3072e0	452	Pfam	PF00433	Protein kinase C terminal domain	402	442	1.7E-4	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+EAX95627.1	d3f579aff1ad22e563402d4d7e3072e0	452	Pfam	PF00169	PH domain	2	93	1.1E-13	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+EAX97940.1	ba73927e62fff7ba05e301d70649595b	440	Pfam	PF00069	Protein kinase domain	118	374	2.5E-69	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+EAX97940.1	ba73927e62fff7ba05e301d70649595b	440	Pfam	PF00169	PH domain	7	97	3.0E-12	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+EAX97940.1	ba73927e62fff7ba05e301d70649595b	440	Pfam	PF00433	Protein kinase C terminal domain	395	436	9.3E-7	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+EAY00283.1	8564f2240faa712a08f32a3a347dcca4	441	Pfam	PF00169	PH domain	7	99	4.4E-14	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+EAY00283.1	8564f2240faa712a08f32a3a347dcca4	441	Pfam	PF00433	Protein kinase C terminal domain	390	430	2.5E-7	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+EAY00283.1	8564f2240faa712a08f32a3a347dcca4	441	Pfam	PF00069	Protein kinase domain	112	367	1.3E-67	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+EAY01569.1	bd5e9c8d56476630dba4b8fd46538dac	405	Pfam	PF00069	Protein kinase domain	89	342	5.5E-69	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+EAY01569.1	bd5e9c8d56476630dba4b8fd46538dac	405	Pfam	PF00433	Protein kinase C terminal domain	365	400	0.31	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+EAY02760.1	910dc84e843013632d0483333d19e9e7	431	Pfam	PF00433	Protein kinase C terminal domain	387	411	0.63	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+EAY02760.1	910dc84e843013632d0483333d19e9e7	431	Pfam	PF00169	PH domain	14	103	0.039	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+EAY02760.1	910dc84e843013632d0483333d19e9e7	431	Pfam	PF00069	Protein kinase domain	117	366	3.2E-69	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+EAY03007.1	3e0d6be7525029199caf6e1c41f58e00	453	Pfam	PF00069	Protein kinase domain	115	365	5.7E-70	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+EAY04110.1	a5007d24934c966bda03ddb2fef475ed	417	Pfam	PF00169	PH domain	4	87	6.8E-7	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+EAY04110.1	a5007d24934c966bda03ddb2fef475ed	417	Pfam	PF00069	Protein kinase domain	108	356	1.6E-74	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+EAY04127.1	5545b68e265abb8a2ae2e346d19ee6a2	426	Pfam	PF00169	PH domain	13	99	0.016	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+EAY04127.1	5545b68e265abb8a2ae2e346d19ee6a2	426	Pfam	PF00433	Protein kinase C terminal domain	385	420	1.9	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+EAY04127.1	5545b68e265abb8a2ae2e346d19ee6a2	426	Pfam	PF00069	Protein kinase domain	112	362	2.1E-65	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+EAY07638.1	f51a4b0c335e7aaa428202a1d058f9e7	430	Pfam	PF00069	Protein kinase domain	108	359	7.1E-71	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+EAY08793.1	2ca1deb658769473f4ef70fd43e5d206	417	Pfam	PF00169	PH domain	4	87	4.9E-7	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+EAY08793.1	2ca1deb658769473f4ef70fd43e5d206	417	Pfam	PF00069	Protein kinase domain	108	356	1.6E-74	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+EAY08937.1	9dc33ff57d1c29e46577b5b0471d34dc	431	Pfam	PF00069	Protein kinase domain	116	366	2.9E-63	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+EAY08937.1	9dc33ff57d1c29e46577b5b0471d34dc	431	Pfam	PF00169	PH domain	13	103	5.4E-5	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+EAY08937.1	9dc33ff57d1c29e46577b5b0471d34dc	431	Pfam	PF00433	Protein kinase C terminal domain	387	424	0.26	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+EAY09578.1	a5703d65aacc19b85850bdd5d1e175f4	437	Pfam	PF00069	Protein kinase domain	111	361	3.5E-70	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+EAY09578.1	a5703d65aacc19b85850bdd5d1e175f4	437	Pfam	PF00169	PH domain	10	98	0.0017	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+EAY10772.1	67c99c66aa2af1a176e9a53264276b97	430	Pfam	PF00069	Protein kinase domain	116	365	3.9E-68	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+EAY12520.1	be7020df092287b01110d93906e6fb80	434	Pfam	PF00069	Protein kinase domain	110	360	1.2E-67	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+EAY12520.1	be7020df092287b01110d93906e6fb80	434	Pfam	PF00169	PH domain	10	93	3.6E-4	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+EAY12520.1	be7020df092287b01110d93906e6fb80	434	Pfam	PF00433	Protein kinase C terminal domain	389	416	1.3	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+EAY12892.1	14cacbbb3b2f00707db2e6d0799b8a80	445	Pfam	PF00069	Protein kinase domain	118	374	1.6E-67	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+EAY12892.1	14cacbbb3b2f00707db2e6d0799b8a80	445	Pfam	PF00169	PH domain	8	101	2.9E-14	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+EAY12892.1	14cacbbb3b2f00707db2e6d0799b8a80	445	Pfam	PF00433	Protein kinase C terminal domain	395	435	8.2E-6	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+EAY15387.1	60799a9b2560045e10c1e22079616f25	423	Pfam	PF00169	PH domain	5	94	2.3E-4	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+EAY15387.1	60799a9b2560045e10c1e22079616f25	423	Pfam	PF00069	Protein kinase domain	108	358	2.1E-72	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+EAY15483.1	d85788cbd4669aa1ad6ad5b01e6693e5	437	Pfam	PF00069	Protein kinase domain	109	356	1.6E-69	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+EAY15483.1	d85788cbd4669aa1ad6ad5b01e6693e5	437	Pfam	PF00169	PH domain	5	94	7.7E-6	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+EAY15483.1	d85788cbd4669aa1ad6ad5b01e6693e5	437	Pfam	PF00433	Protein kinase C terminal domain	386	417	1.2	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+EAY16833.1	a61a61e5a9b1980cbc82a6bb9e20ffa4	453	Pfam	PF00069	Protein kinase domain	128	382	3.6E-72	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+EAY16833.1	a61a61e5a9b1980cbc82a6bb9e20ffa4	453	Pfam	PF00433	Protein kinase C terminal domain	403	443	3.5E-4	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+EAY16833.1	a61a61e5a9b1980cbc82a6bb9e20ffa4	453	Pfam	PF00169	PH domain	3	95	4.1E-12	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+EAY18750.1	4586381e9b37a1b47764bc7e17ea5000	435	Pfam	PF00069	Protein kinase domain	113	369	6.1E-70	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+EAY18750.1	4586381e9b37a1b47764bc7e17ea5000	435	Pfam	PF00433	Protein kinase C terminal domain	390	431	1.2E-7	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+EAY18750.1	4586381e9b37a1b47764bc7e17ea5000	435	Pfam	PF00169	PH domain	11	100	4.2E-17	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+EAY22668.1	9e469eaf4ae279f029145c52ee1b5e4e	442	Pfam	PF00169	PH domain	9	98	8.3E-4	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+EAY22668.1	9e469eaf4ae279f029145c52ee1b5e4e	442	Pfam	PF00069	Protein kinase domain	111	360	3.5E-70	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+EAY23147.1	66a31ab7e26f9df1c524e735d1d13e92	474	Pfam	PF00069	Protein kinase domain	110	360	5.7E-76	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAH0786026.1	fc3ef65a9b70968b0fb39e38c3b0fa46	443	Pfam	PF00169	PH domain	4	96	2.1E-7	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAH0786026.1	fc3ef65a9b70968b0fb39e38c3b0fa46	443	Pfam	PF00433	Protein kinase C terminal domain	392	432	4.8E-6	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAH0786026.1	fc3ef65a9b70968b0fb39e38c3b0fa46	443	Pfam	PF00069	Protein kinase domain	116	371	4.3E-73	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAH0786073.1	59dcbd5767f5885dbdfbd5a0040681a3	426	Pfam	PF00433	Protein kinase C terminal domain	390	421	0.16	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAH0786073.1	59dcbd5767f5885dbdfbd5a0040681a3	426	Pfam	PF00069	Protein kinase domain	112	361	8.7E-65	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAH0786081.1	d04ab8810efaa7b79ea3d926dc900679	439	Pfam	PF00069	Protein kinase domain	111	368	4.4E-73	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAH0786081.1	d04ab8810efaa7b79ea3d926dc900679	439	Pfam	PF00433	Protein kinase C terminal domain	393	430	0.021	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAH0786081.1	d04ab8810efaa7b79ea3d926dc900679	439	Pfam	PF00169	PH domain	3	91	2.4E-6	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAH0786277.1	c57efa2702f7038db25d22270de142b5	441	Pfam	PF00169	PH domain	7	95	1.8E-8	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAH0786277.1	c57efa2702f7038db25d22270de142b5	441	Pfam	PF00433	Protein kinase C terminal domain	392	433	2.1E-7	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAH0786277.1	c57efa2702f7038db25d22270de142b5	441	Pfam	PF00069	Protein kinase domain	113	371	1.1E-69	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAH0787512.1	ea58ee661d6af7cc22be6d22cc3dd6d4	462	Pfam	PF00069	Protein kinase domain	135	391	2.6E-64	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAH0787512.1	ea58ee661d6af7cc22be6d22cc3dd6d4	462	Pfam	PF00169	PH domain	9	103	1.5E-9	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAH0787512.1	ea58ee661d6af7cc22be6d22cc3dd6d4	462	Pfam	PF00433	Protein kinase C terminal domain	412	452	7.9E-7	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAH0787546.1	2036deb658d454ebe658f71701ba4f33	451	Pfam	PF00069	Protein kinase domain	122	380	2.3E-69	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAH0787546.1	2036deb658d454ebe658f71701ba4f33	451	Pfam	PF00433	Protein kinase C terminal domain	405	441	1.2E-4	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAH0787546.1	2036deb658d454ebe658f71701ba4f33	451	Pfam	PF00169	PH domain	14	105	6.0E-5	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAH0787783.1	2cd175ae94f782529efd727be57f6bf0	439	Pfam	PF00169	PH domain	1	92	2.6E-11	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAH0787783.1	2cd175ae94f782529efd727be57f6bf0	439	Pfam	PF00069	Protein kinase domain	111	367	6.0E-72	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAH0788551.1	315e36ce151344c8f6057a98cb890154	441	Pfam	PF00433	Protein kinase C terminal domain	390	431	3.4E-10	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAH0788551.1	315e36ce151344c8f6057a98cb890154	441	Pfam	PF00069	Protein kinase domain	112	369	4.3E-72	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAH0788551.1	315e36ce151344c8f6057a98cb890154	441	Pfam	PF00169	PH domain	5	94	8.7E-5	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAH0788771.1	94173189c349973afcf4a42c63065af4	437	Pfam	PF00069	Protein kinase domain	114	365	5.7E-64	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAH0788771.1	94173189c349973afcf4a42c63065af4	437	Pfam	PF00433	Protein kinase C terminal domain	388	411	0.012	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAH0788878.1	51274bba2dcf4209b7c6405a346a7fa3	441	Pfam	PF00169	PH domain	8	97	1.2E-10	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAH0788878.1	51274bba2dcf4209b7c6405a346a7fa3	441	Pfam	PF00069	Protein kinase domain	112	370	2.7E-65	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAH0788878.1	51274bba2dcf4209b7c6405a346a7fa3	441	Pfam	PF00433	Protein kinase C terminal domain	392	431	5.3E-4	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAH0790178.1	3848073a9e7926c2d80ee3ca8b8db816	444	Pfam	PF00069	Protein kinase domain	106	356	5.3E-69	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAH0790178.1	3848073a9e7926c2d80ee3ca8b8db816	444	Pfam	PF00169	PH domain	7	93	3.0E-4	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAH0790178.1	3848073a9e7926c2d80ee3ca8b8db816	444	Pfam	PF00433	Protein kinase C terminal domain	384	415	0.25	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAH0790294.1	da7d75fb1349377c094bb3c763053010	439	Pfam	PF00069	Protein kinase domain	112	369	4.3E-67	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAH0790294.1	da7d75fb1349377c094bb3c763053010	439	Pfam	PF00433	Protein kinase C terminal domain	391	429	8.9E-5	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAH0790294.1	da7d75fb1349377c094bb3c763053010	439	Pfam	PF00169	PH domain	8	96	1.1E-8	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAH0790494.1	bd4cfc985d583a07aaa5436e97e09855	445	Pfam	PF00433	Protein kinase C terminal domain	370	400	0.69	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAH0790494.1	bd4cfc985d583a07aaa5436e97e09855	445	Pfam	PF00069	Protein kinase domain	92	341	6.3E-70	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAH0792239.1	90e04d7f486d5310a9f9230e4e5b4494	443	Pfam	PF00069	Protein kinase domain	114	370	4.9E-73	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAH0792239.1	90e04d7f486d5310a9f9230e4e5b4494	443	Pfam	PF00169	PH domain	4	95	1.0E-10	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAH0792239.1	90e04d7f486d5310a9f9230e4e5b4494	443	Pfam	PF00433	Protein kinase C terminal domain	391	431	0.0021	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAH0793094.1	c9e754eba97d33965ff34ba4a0ad8bc0	447	Pfam	PF00069	Protein kinase domain	115	365	1.8E-70	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAH0793265.1	0aba5a420120142f4584e97504d58f9d	457	Pfam	PF00069	Protein kinase domain	131	386	9.0E-71	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAH0793265.1	0aba5a420120142f4584e97504d58f9d	457	Pfam	PF00433	Protein kinase C terminal domain	408	447	1.8E-7	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAH0793265.1	0aba5a420120142f4584e97504d58f9d	457	Pfam	PF00169	PH domain	5	95	2.5E-13	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAH0793429.1	b891c45199a94eb01d17d42ba4963b6c	444	Pfam	PF00069	Protein kinase domain	119	374	9.6E-69	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAH0793429.1	b891c45199a94eb01d17d42ba4963b6c	444	Pfam	PF00169	PH domain	5	97	2.1E-16	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAH0793429.1	b891c45199a94eb01d17d42ba4963b6c	444	Pfam	PF00433	Protein kinase C terminal domain	395	435	1.7E-7	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAH0793977.1	6dc1c8c3b69f4d051b0ae7cab3510715	432	Pfam	PF00069	Protein kinase domain	108	363	2.3E-60	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAH0793977.1	6dc1c8c3b69f4d051b0ae7cab3510715	432	Pfam	PF00169	PH domain	3	91	7.1E-14	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAH0794123.1	52c2fc645f05dad97886396109da8e94	432	Pfam	PF00069	Protein kinase domain	105	347	1.1E-66	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAH0794123.1	52c2fc645f05dad97886396109da8e94	432	Pfam	PF00169	PH domain	1	90	1.7E-11	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAH0794123.1	52c2fc645f05dad97886396109da8e94	432	Pfam	PF00433	Protein kinase C terminal domain	382	422	9.1E-9	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAH0795392.1	9b37768064b355d8136f365bfc541240	439	Pfam	PF00069	Protein kinase domain	112	370	1.3E-66	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAH0795392.1	9b37768064b355d8136f365bfc541240	439	Pfam	PF00433	Protein kinase C terminal domain	391	431	2.5E-6	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAH0795392.1	9b37768064b355d8136f365bfc541240	439	Pfam	PF00169	PH domain	7	98	2.0E-7	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAH0795529.1	8942547f5cb6076ba8bdc1dc54c8dc33	469	Pfam	PF00433	Protein kinase C terminal domain	398	429	0.13	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAH0795529.1	8942547f5cb6076ba8bdc1dc54c8dc33	469	Pfam	PF00069	Protein kinase domain	121	370	2.0E-69	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAH0795684.1	1943ff5b7a623c5101055aeab83d0eba	441	Pfam	PF00169	PH domain	5	93	1.5E-15	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAH0795684.1	1943ff5b7a623c5101055aeab83d0eba	441	Pfam	PF00069	Protein kinase domain	116	372	2.7E-64	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAH0795684.1	1943ff5b7a623c5101055aeab83d0eba	441	Pfam	PF00433	Protein kinase C terminal domain	393	433	8.9E-7	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAH0795770.1	1a2fb2db624619081a65faed8c63987d	442	Pfam	PF00169	PH domain	8	98	4.2E-11	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAH0795770.1	1a2fb2db624619081a65faed8c63987d	442	Pfam	PF00433	Protein kinase C terminal domain	393	431	1.6E-5	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAH0795770.1	1a2fb2db624619081a65faed8c63987d	442	Pfam	PF00069	Protein kinase domain	112	370	2.6E-66	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAH0796397.1	1943ff5b7a623c5101055aeab83d0eba	441	Pfam	PF00433	Protein kinase C terminal domain	393	433	8.9E-7	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAH0796397.1	1943ff5b7a623c5101055aeab83d0eba	441	Pfam	PF00069	Protein kinase domain	116	372	2.7E-64	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAH0796397.1	1943ff5b7a623c5101055aeab83d0eba	441	Pfam	PF00169	PH domain	5	93	1.5E-15	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAH0796552.1	8942547f5cb6076ba8bdc1dc54c8dc33	469	Pfam	PF00433	Protein kinase C terminal domain	398	429	0.13	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAH0796552.1	8942547f5cb6076ba8bdc1dc54c8dc33	469	Pfam	PF00069	Protein kinase domain	121	370	2.0E-69	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAH0796646.1	c9e754eba97d33965ff34ba4a0ad8bc0	447	Pfam	PF00069	Protein kinase domain	115	365	1.8E-70	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAH0797875.1	b891c45199a94eb01d17d42ba4963b6c	444	Pfam	PF00069	Protein kinase domain	119	374	9.6E-69	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAH0797875.1	b891c45199a94eb01d17d42ba4963b6c	444	Pfam	PF00169	PH domain	5	97	2.1E-16	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAH0797875.1	b891c45199a94eb01d17d42ba4963b6c	444	Pfam	PF00433	Protein kinase C terminal domain	395	435	1.7E-7	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAH0798320.1	2036deb658d454ebe658f71701ba4f33	451	Pfam	PF00169	PH domain	14	105	6.0E-5	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAH0798320.1	2036deb658d454ebe658f71701ba4f33	451	Pfam	PF00433	Protein kinase C terminal domain	405	441	1.2E-4	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAH0798320.1	2036deb658d454ebe658f71701ba4f33	451	Pfam	PF00069	Protein kinase domain	122	380	2.3E-69	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAH0798354.1	ea58ee661d6af7cc22be6d22cc3dd6d4	462	Pfam	PF00069	Protein kinase domain	135	391	2.6E-64	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAH0798354.1	ea58ee661d6af7cc22be6d22cc3dd6d4	462	Pfam	PF00169	PH domain	9	103	1.5E-9	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAH0798354.1	ea58ee661d6af7cc22be6d22cc3dd6d4	462	Pfam	PF00433	Protein kinase C terminal domain	412	452	7.9E-7	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAH0798380.1	1a2fb2db624619081a65faed8c63987d	442	Pfam	PF00169	PH domain	8	98	4.2E-11	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAH0798380.1	1a2fb2db624619081a65faed8c63987d	442	Pfam	PF00069	Protein kinase domain	112	370	2.6E-66	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAH0798380.1	1a2fb2db624619081a65faed8c63987d	442	Pfam	PF00433	Protein kinase C terminal domain	393	431	1.6E-5	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAH0798598.1	da7d75fb1349377c094bb3c763053010	439	Pfam	PF00069	Protein kinase domain	112	369	4.3E-67	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAH0798598.1	da7d75fb1349377c094bb3c763053010	439	Pfam	PF00433	Protein kinase C terminal domain	391	429	8.9E-5	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAH0798598.1	da7d75fb1349377c094bb3c763053010	439	Pfam	PF00169	PH domain	8	96	1.1E-8	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAH0799914.1	bd4cfc985d583a07aaa5436e97e09855	445	Pfam	PF00433	Protein kinase C terminal domain	370	400	0.69	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAH0799914.1	bd4cfc985d583a07aaa5436e97e09855	445	Pfam	PF00069	Protein kinase domain	92	341	6.3E-70	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAH0800097.1	d17d0aa207a03408a0f7a4723425b565	1481	Pfam	PF00433	Protein kinase C terminal domain	1432	1471	0.0023	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAH0800097.1	d17d0aa207a03408a0f7a4723425b565	1481	Pfam	PF00169	PH domain	1054	1137	1.6E-8	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAH0800097.1	d17d0aa207a03408a0f7a4723425b565	1481	Pfam	PF16126	Domain of unknown function (DUF4838)	134	482	3.2E-59	T	14-10-2025	IPR032287	Protein of unknown function DUF4838	-	-
+KAH0800097.1	d17d0aa207a03408a0f7a4723425b565	1481	Pfam	PF00069	Protein kinase domain	1152	1410	3.1E-64	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAH0800922.1	52c2fc645f05dad97886396109da8e94	432	Pfam	PF00433	Protein kinase C terminal domain	382	422	9.1E-9	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAH0800922.1	52c2fc645f05dad97886396109da8e94	432	Pfam	PF00069	Protein kinase domain	105	347	1.1E-66	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAH0800922.1	52c2fc645f05dad97886396109da8e94	432	Pfam	PF00169	PH domain	1	90	1.7E-11	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAH0801930.1	3848073a9e7926c2d80ee3ca8b8db816	444	Pfam	PF00069	Protein kinase domain	106	356	5.3E-69	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAH0801930.1	3848073a9e7926c2d80ee3ca8b8db816	444	Pfam	PF00169	PH domain	7	93	3.0E-4	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAH0801930.1	3848073a9e7926c2d80ee3ca8b8db816	444	Pfam	PF00433	Protein kinase C terminal domain	384	415	0.25	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAH0802739.1	c57efa2702f7038db25d22270de142b5	441	Pfam	PF00069	Protein kinase domain	113	371	1.1E-69	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAH0802739.1	c57efa2702f7038db25d22270de142b5	441	Pfam	PF00169	PH domain	7	95	1.8E-8	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAH0802739.1	c57efa2702f7038db25d22270de142b5	441	Pfam	PF00433	Protein kinase C terminal domain	392	433	2.1E-7	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAH0803066.1	d04ab8810efaa7b79ea3d926dc900679	439	Pfam	PF00169	PH domain	3	91	2.4E-6	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAH0803066.1	d04ab8810efaa7b79ea3d926dc900679	439	Pfam	PF00069	Protein kinase domain	111	368	4.4E-73	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAH0803066.1	d04ab8810efaa7b79ea3d926dc900679	439	Pfam	PF00433	Protein kinase C terminal domain	393	430	0.021	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAH0803075.1	59dcbd5767f5885dbdfbd5a0040681a3	426	Pfam	PF00433	Protein kinase C terminal domain	390	421	0.16	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAH0803075.1	59dcbd5767f5885dbdfbd5a0040681a3	426	Pfam	PF00069	Protein kinase domain	112	361	8.7E-65	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAH0803441.1	fc3ef65a9b70968b0fb39e38c3b0fa46	443	Pfam	PF00433	Protein kinase C terminal domain	392	432	4.8E-6	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAH0803441.1	fc3ef65a9b70968b0fb39e38c3b0fa46	443	Pfam	PF00169	PH domain	4	96	2.1E-7	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAH0803441.1	fc3ef65a9b70968b0fb39e38c3b0fa46	443	Pfam	PF00069	Protein kinase domain	116	371	4.3E-73	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAH0804299.1	94173189c349973afcf4a42c63065af4	437	Pfam	PF00069	Protein kinase domain	114	365	5.7E-64	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAH0804299.1	94173189c349973afcf4a42c63065af4	437	Pfam	PF00433	Protein kinase C terminal domain	388	411	0.012	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAH0804740.1	9b37768064b355d8136f365bfc541240	439	Pfam	PF00069	Protein kinase domain	112	370	1.3E-66	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAH0804740.1	9b37768064b355d8136f365bfc541240	439	Pfam	PF00433	Protein kinase C terminal domain	391	431	2.5E-6	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAH0804740.1	9b37768064b355d8136f365bfc541240	439	Pfam	PF00169	PH domain	7	98	2.0E-7	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAH0805223.1	90e04d7f486d5310a9f9230e4e5b4494	443	Pfam	PF00169	PH domain	4	95	1.0E-10	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAH0805223.1	90e04d7f486d5310a9f9230e4e5b4494	443	Pfam	PF00433	Protein kinase C terminal domain	391	431	0.0021	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAH0805223.1	90e04d7f486d5310a9f9230e4e5b4494	443	Pfam	PF00069	Protein kinase domain	114	370	4.9E-73	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAH0806127.1	315e36ce151344c8f6057a98cb890154	441	Pfam	PF00433	Protein kinase C terminal domain	390	431	3.4E-10	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAH0806127.1	315e36ce151344c8f6057a98cb890154	441	Pfam	PF00069	Protein kinase domain	112	369	4.3E-72	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAH0806127.1	315e36ce151344c8f6057a98cb890154	441	Pfam	PF00169	PH domain	5	94	8.7E-5	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAH0806339.1	0aba5a420120142f4584e97504d58f9d	457	Pfam	PF00069	Protein kinase domain	131	386	9.0E-71	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAH0806339.1	0aba5a420120142f4584e97504d58f9d	457	Pfam	PF00433	Protein kinase C terminal domain	408	447	1.8E-7	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAH0806339.1	0aba5a420120142f4584e97504d58f9d	457	Pfam	PF00169	PH domain	5	95	2.5E-13	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAH0806385.1	1ea9366c9df3a15ff9466cf12bcee996	458	Pfam	PF00433	Protein kinase C terminal domain	409	448	1.7E-7	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAH0806385.1	1ea9366c9df3a15ff9466cf12bcee996	458	Pfam	PF00069	Protein kinase domain	132	387	4.4E-70	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAH0806385.1	1ea9366c9df3a15ff9466cf12bcee996	458	Pfam	PF00169	PH domain	5	95	1.8E-13	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAH0806632.1	6dc1c8c3b69f4d051b0ae7cab3510715	432	Pfam	PF00069	Protein kinase domain	108	363	2.3E-60	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAH0806632.1	6dc1c8c3b69f4d051b0ae7cab3510715	432	Pfam	PF00169	PH domain	3	91	7.1E-14	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAH0806877.1	2cd175ae94f782529efd727be57f6bf0	439	Pfam	PF00169	PH domain	1	92	2.6E-11	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAH0806877.1	2cd175ae94f782529efd727be57f6bf0	439	Pfam	PF00069	Protein kinase domain	111	367	6.0E-72	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAI5483163.1	773170fecfb6293b5b44714c40a8a94f	430	Pfam	PF00169	PH domain	12	103	0.04	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAI5483163.1	773170fecfb6293b5b44714c40a8a94f	430	Pfam	PF00069	Protein kinase domain	116	365	9.2E-70	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAI5483163.1	773170fecfb6293b5b44714c40a8a94f	430	Pfam	PF00433	Protein kinase C terminal domain	386	410	1.3	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAI5487440.1	d3f579aff1ad22e563402d4d7e3072e0	452	Pfam	PF00069	Protein kinase domain	126	381	2.3E-69	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAI5487440.1	d3f579aff1ad22e563402d4d7e3072e0	452	Pfam	PF00433	Protein kinase C terminal domain	402	442	1.7E-4	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAI5487440.1	d3f579aff1ad22e563402d4d7e3072e0	452	Pfam	PF00169	PH domain	2	93	1.1E-13	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAI5488056.1	a43fb0120d5e7ec265ce298f34af0467	469	Pfam	PF00169	PH domain	40	132	2.0E-13	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAI5488056.1	a43fb0120d5e7ec265ce298f34af0467	469	Pfam	PF00433	Protein kinase C terminal domain	424	465	1.3E-7	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAI5488056.1	a43fb0120d5e7ec265ce298f34af0467	469	Pfam	PF00069	Protein kinase domain	147	403	2.8E-68	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAI5490755.1	a61a61e5a9b1980cbc82a6bb9e20ffa4	453	Pfam	PF00069	Protein kinase domain	128	382	3.6E-72	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAI5490755.1	a61a61e5a9b1980cbc82a6bb9e20ffa4	453	Pfam	PF00433	Protein kinase C terminal domain	403	443	3.5E-4	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAI5490755.1	a61a61e5a9b1980cbc82a6bb9e20ffa4	453	Pfam	PF00169	PH domain	3	95	4.1E-12	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAI5491939.1	14cacbbb3b2f00707db2e6d0799b8a80	445	Pfam	PF00169	PH domain	8	101	2.9E-14	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAI5491939.1	14cacbbb3b2f00707db2e6d0799b8a80	445	Pfam	PF00433	Protein kinase C terminal domain	395	435	8.2E-6	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAI5491939.1	14cacbbb3b2f00707db2e6d0799b8a80	445	Pfam	PF00069	Protein kinase domain	118	374	1.6E-67	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAI5492229.1	6ff65b35b765e06ef3d15f05cb7dc384	448	Pfam	PF00169	PH domain	10	100	0.0033	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAI5492229.1	6ff65b35b765e06ef3d15f05cb7dc384	448	Pfam	PF00069	Protein kinase domain	114	362	1.4E-66	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAI5492715.1	8564f2240faa712a08f32a3a347dcca4	441	Pfam	PF00069	Protein kinase domain	112	367	1.3E-67	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAI5492715.1	8564f2240faa712a08f32a3a347dcca4	441	Pfam	PF00433	Protein kinase C terminal domain	390	430	2.5E-7	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAI5492715.1	8564f2240faa712a08f32a3a347dcca4	441	Pfam	PF00169	PH domain	7	99	4.4E-14	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAI5496738.1	60799a9b2560045e10c1e22079616f25	423	Pfam	PF00169	PH domain	5	94	2.3E-4	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAI5496738.1	60799a9b2560045e10c1e22079616f25	423	Pfam	PF00069	Protein kinase domain	108	358	2.1E-72	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAI5500514.1	f51a4b0c335e7aaa428202a1d058f9e7	430	Pfam	PF00069	Protein kinase domain	108	359	7.1E-71	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAI5500595.1	910dc84e843013632d0483333d19e9e7	431	Pfam	PF00433	Protein kinase C terminal domain	387	411	0.63	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAI5500595.1	910dc84e843013632d0483333d19e9e7	431	Pfam	PF00169	PH domain	14	103	0.039	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAI5500595.1	910dc84e843013632d0483333d19e9e7	431	Pfam	PF00069	Protein kinase domain	117	366	3.2E-69	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAI5501782.1	3e0d6be7525029199caf6e1c41f58e00	453	Pfam	PF00069	Protein kinase domain	115	365	5.7E-70	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAI5502536.1	ba73927e62fff7ba05e301d70649595b	440	Pfam	PF00069	Protein kinase domain	118	374	2.5E-69	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAI5502536.1	ba73927e62fff7ba05e301d70649595b	440	Pfam	PF00169	PH domain	7	97	3.0E-12	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAI5502536.1	ba73927e62fff7ba05e301d70649595b	440	Pfam	PF00433	Protein kinase C terminal domain	395	436	9.3E-7	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAI5503860.1	a5007d24934c966bda03ddb2fef475ed	417	Pfam	PF00169	PH domain	4	87	6.8E-7	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAI5503860.1	a5007d24934c966bda03ddb2fef475ed	417	Pfam	PF00069	Protein kinase domain	108	356	1.6E-74	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAI5504611.1	d686f8920d90b88286574537aed857c7	461	Pfam	PF00069	Protein kinase domain	114	366	3.7E-67	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAI5507419.1	09e906fef9290792f193b6d5335fc24e	457	Pfam	PF00169	PH domain	14	104	9.5E-6	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAI5507419.1	09e906fef9290792f193b6d5335fc24e	457	Pfam	PF00069	Protein kinase domain	117	367	2.0E-69	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAI5508614.1	9dc33ff57d1c29e46577b5b0471d34dc	431	Pfam	PF00069	Protein kinase domain	116	366	2.9E-63	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAI5508614.1	9dc33ff57d1c29e46577b5b0471d34dc	431	Pfam	PF00169	PH domain	13	103	5.4E-5	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAI5508614.1	9dc33ff57d1c29e46577b5b0471d34dc	431	Pfam	PF00433	Protein kinase C terminal domain	387	424	0.26	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAI5511493.1	d85788cbd4669aa1ad6ad5b01e6693e5	437	Pfam	PF00169	PH domain	5	94	7.7E-6	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAI5511493.1	d85788cbd4669aa1ad6ad5b01e6693e5	437	Pfam	PF00433	Protein kinase C terminal domain	386	417	1.2	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAI5511493.1	d85788cbd4669aa1ad6ad5b01e6693e5	437	Pfam	PF00069	Protein kinase domain	109	356	1.6E-69	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAI5513786.1	66a31ab7e26f9df1c524e735d1d13e92	474	Pfam	PF00069	Protein kinase domain	110	360	5.7E-76	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAI5515111.1	2ca1deb658769473f4ef70fd43e5d206	417	Pfam	PF00169	PH domain	4	87	4.9E-7	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAI5515111.1	2ca1deb658769473f4ef70fd43e5d206	417	Pfam	PF00069	Protein kinase domain	108	356	1.6E-74	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAI5525482.1	9e469eaf4ae279f029145c52ee1b5e4e	442	Pfam	PF00169	PH domain	9	98	8.3E-4	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAI5525482.1	9e469eaf4ae279f029145c52ee1b5e4e	442	Pfam	PF00069	Protein kinase domain	111	360	3.5E-70	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAI5528748.1	e60f6304e18271f7b8e3da247d8558cb	457	Pfam	PF00069	Protein kinase domain	90	340	7.3E-70	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAI5529816.1	bd5e9c8d56476630dba4b8fd46538dac	405	Pfam	PF00069	Protein kinase domain	89	342	5.5E-69	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAI5529816.1	bd5e9c8d56476630dba4b8fd46538dac	405	Pfam	PF00433	Protein kinase C terminal domain	365	400	0.31	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAI5533216.1	a5703d65aacc19b85850bdd5d1e175f4	437	Pfam	PF00069	Protein kinase domain	111	361	3.5E-70	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAI5533216.1	a5703d65aacc19b85850bdd5d1e175f4	437	Pfam	PF00169	PH domain	10	98	0.0017	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAI5536090.1	67c99c66aa2af1a176e9a53264276b97	430	Pfam	PF00069	Protein kinase domain	116	365	3.9E-68	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAI5539313.1	4586381e9b37a1b47764bc7e17ea5000	435	Pfam	PF00069	Protein kinase domain	113	369	6.1E-70	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAI5539313.1	4586381e9b37a1b47764bc7e17ea5000	435	Pfam	PF00433	Protein kinase C terminal domain	390	431	1.2E-7	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAI5539313.1	4586381e9b37a1b47764bc7e17ea5000	435	Pfam	PF00169	PH domain	11	100	4.2E-17	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAI5546691.1	e2677ed340d295c3be96f4626c569c1e	431	Pfam	PF00433	Protein kinase C terminal domain	382	412	7.3E-4	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAI5546691.1	e2677ed340d295c3be96f4626c569c1e	431	Pfam	PF00169	PH domain	10	99	3.1E-5	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAI5546691.1	e2677ed340d295c3be96f4626c569c1e	431	Pfam	PF00069	Protein kinase domain	111	361	1.9E-67	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAI5549860.1	5545b68e265abb8a2ae2e346d19ee6a2	426	Pfam	PF00433	Protein kinase C terminal domain	385	420	1.9	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAI5549860.1	5545b68e265abb8a2ae2e346d19ee6a2	426	Pfam	PF00069	Protein kinase domain	112	362	2.1E-65	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAI5549860.1	5545b68e265abb8a2ae2e346d19ee6a2	426	Pfam	PF00169	PH domain	13	99	0.016	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAI5554057.1	be7020df092287b01110d93906e6fb80	434	Pfam	PF00069	Protein kinase domain	110	360	1.2E-67	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAI5554057.1	be7020df092287b01110d93906e6fb80	434	Pfam	PF00169	PH domain	10	93	3.6E-4	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAI5554057.1	be7020df092287b01110d93906e6fb80	434	Pfam	PF00433	Protein kinase C terminal domain	389	416	1.3	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAJ3428928.1	2d31f68c5ba979d817982ec544611c10	442	Pfam	PF00433	Protein kinase C terminal domain	389	430	3.3E-6	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAJ3428928.1	2d31f68c5ba979d817982ec544611c10	442	Pfam	PF00169	PH domain	5	97	6.1E-16	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAJ3428928.1	2d31f68c5ba979d817982ec544611c10	442	Pfam	PF00069	Protein kinase domain	112	368	1.6E-69	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAJ3432351.1	aa449e66fd468d56153ec433cfb7b0f7	442	Pfam	PF00169	PH domain	5	97	8.9E-15	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAJ3432351.1	aa449e66fd468d56153ec433cfb7b0f7	442	Pfam	PF00433	Protein kinase C terminal domain	389	430	5.3E-7	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAJ3432351.1	aa449e66fd468d56153ec433cfb7b0f7	442	Pfam	PF00069	Protein kinase domain	112	368	6.6E-69	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAJ3432777.1	1329d314e6e1ce5d1ae1ebce6d6ff512	442	Pfam	PF00433	Protein kinase C terminal domain	389	430	2.7E-7	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAJ3432777.1	1329d314e6e1ce5d1ae1ebce6d6ff512	442	Pfam	PF00169	PH domain	5	98	1.2E-15	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAJ3432777.1	1329d314e6e1ce5d1ae1ebce6d6ff512	442	Pfam	PF00069	Protein kinase domain	112	368	4.6E-71	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAJ3433105.1	d70bbd73dc693f6e57b8d5a929623ccc	452	Pfam	PF00169	PH domain	9	101	1.4E-19	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAJ3433105.1	d70bbd73dc693f6e57b8d5a929623ccc	452	Pfam	PF00433	Protein kinase C terminal domain	393	433	1.0E-4	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAJ3433105.1	d70bbd73dc693f6e57b8d5a929623ccc	452	Pfam	PF00069	Protein kinase domain	115	371	5.2E-67	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAJ3434370.1	64494f4f5f8286e60fce37bd1a677d27	448	Pfam	PF00069	Protein kinase domain	111	367	3.4E-68	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAJ3434370.1	64494f4f5f8286e60fce37bd1a677d27	448	Pfam	PF00433	Protein kinase C terminal domain	391	430	5.3E-4	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAJ3434370.1	64494f4f5f8286e60fce37bd1a677d27	448	Pfam	PF00169	PH domain	35	97	8.5E-6	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAJ3437418.1	a703581b6f1e5d86ef27dc71f2fef0c8	471	Pfam	PF00069	Protein kinase domain	116	372	2.0E-69	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAJ3437418.1	a703581b6f1e5d86ef27dc71f2fef0c8	471	Pfam	PF00433	Protein kinase C terminal domain	394	436	1.1E-4	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAJ3437418.1	a703581b6f1e5d86ef27dc71f2fef0c8	471	Pfam	PF00169	PH domain	8	102	1.3E-18	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAJ3438554.1	155cdb1c28ae37466880c8cc21575dd7	552	Pfam	PF00069	Protein kinase domain	222	478	2.6E-69	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAJ3438554.1	155cdb1c28ae37466880c8cc21575dd7	552	Pfam	PF00433	Protein kinase C terminal domain	499	540	3.9E-6	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAJ3438554.1	155cdb1c28ae37466880c8cc21575dd7	552	Pfam	PF00169	PH domain	153	207	0.052	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAJ3438944.1	17f3421db55e4d5aceb5e6b43af061c0	444	Pfam	PF00169	PH domain	7	100	1.4E-19	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAJ3438944.1	17f3421db55e4d5aceb5e6b43af061c0	444	Pfam	PF00433	Protein kinase C terminal domain	391	432	1.9E-8	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAJ3438944.1	17f3421db55e4d5aceb5e6b43af061c0	444	Pfam	PF00069	Protein kinase domain	114	370	1.1E-68	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAJ3439364.1	9dbcd3c0922b6fcca6c82f7f021ae4b5	442	Pfam	PF00433	Protein kinase C terminal domain	389	430	5.3E-7	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAJ3439364.1	9dbcd3c0922b6fcca6c82f7f021ae4b5	442	Pfam	PF00069	Protein kinase domain	112	368	1.2E-70	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAJ3439364.1	9dbcd3c0922b6fcca6c82f7f021ae4b5	442	Pfam	PF00169	PH domain	5	98	5.1E-15	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAJ3439699.1	f5d77580ed4413f55ac769f78e816f9b	451	Pfam	PF00069	Protein kinase domain	114	370	1.2E-65	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAJ3439699.1	f5d77580ed4413f55ac769f78e816f9b	451	Pfam	PF00433	Protein kinase C terminal domain	392	432	8.0E-5	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAJ3439699.1	f5d77580ed4413f55ac769f78e816f9b	451	Pfam	PF00169	PH domain	7	100	5.5E-20	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAJ3439722.1	dda4e2ed18994e287dc38c88cb9d3c9d	441	Pfam	PF00433	Protein kinase C terminal domain	388	429	3.4E-7	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAJ3439722.1	dda4e2ed18994e287dc38c88cb9d3c9d	441	Pfam	PF00169	PH domain	7	99	2.3E-17	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAJ3439722.1	dda4e2ed18994e287dc38c88cb9d3c9d	441	Pfam	PF00069	Protein kinase domain	114	367	8.6E-71	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAJ3441758.1	0257c8d88fd5a52dc13ff5d4e6161397	397	Pfam	PF00069	Protein kinase domain	67	323	4.2E-69	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAJ3441758.1	0257c8d88fd5a52dc13ff5d4e6161397	397	Pfam	PF00433	Protein kinase C terminal domain	344	385	4.6E-7	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAJ3442547.1	3a54587c6843d5f852e0fdfed83f0824	443	Pfam	PF00169	PH domain	6	99	4.3E-15	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAJ3442547.1	3a54587c6843d5f852e0fdfed83f0824	443	Pfam	PF00433	Protein kinase C terminal domain	390	431	6.6E-5	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAJ3442547.1	3a54587c6843d5f852e0fdfed83f0824	443	Pfam	PF00069	Protein kinase domain	113	369	1.1E-70	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAJ3444284.1	5f5f6affbbd6a4cd66a3b44091d5bdbd	441	Pfam	PF00069	Protein kinase domain	114	367	2.8E-70	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAJ3444284.1	5f5f6affbbd6a4cd66a3b44091d5bdbd	441	Pfam	PF00433	Protein kinase C terminal domain	388	429	5.9E-8	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAJ3444284.1	5f5f6affbbd6a4cd66a3b44091d5bdbd	441	Pfam	PF00169	PH domain	6	100	4.8E-21	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAJ3445631.1	fe8a91e436f5932db606d1b7d4e897f3	1119	Pfam	PF00433	Protein kinase C terminal domain	1064	1105	5.8E-8	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAJ3445631.1	fe8a91e436f5932db606d1b7d4e897f3	1119	Pfam	PF00069	Protein kinase domain	787	1043	1.2E-68	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAJ3445631.1	fe8a91e436f5932db606d1b7d4e897f3	1119	Pfam	PF00169	PH domain	714	772	5.4E-4	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAJ3445631.1	fe8a91e436f5932db606d1b7d4e897f3	1119	Pfam	PF03416	Peptidase C54 catalytic domain	584	714	6.5E-30	T	14-10-2025	IPR046792	Peptidase C54, catalytic domain	-	-
+KAJ3445631.1	fe8a91e436f5932db606d1b7d4e897f3	1119	Pfam	PF03416	Peptidase C54 catalytic domain	22	176	1.5E-39	T	14-10-2025	IPR046792	Peptidase C54, catalytic domain	-	-
+KAJ3446779.1	e4ff24dc42d4e63b0838bc548fe5d6f6	443	Pfam	PF00069	Protein kinase domain	113	369	3.5E-68	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAJ3446779.1	e4ff24dc42d4e63b0838bc548fe5d6f6	443	Pfam	PF00169	PH domain	6	98	6.3E-15	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAJ3446779.1	e4ff24dc42d4e63b0838bc548fe5d6f6	443	Pfam	PF00433	Protein kinase C terminal domain	390	431	1.9E-7	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAJ3448919.1	59c72e96fe117291f449ef949498fbe6	444	Pfam	PF00069	Protein kinase domain	114	370	4.2E-69	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAJ3448919.1	59c72e96fe117291f449ef949498fbe6	444	Pfam	PF00433	Protein kinase C terminal domain	391	432	1.9E-8	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAJ3448919.1	59c72e96fe117291f449ef949498fbe6	444	Pfam	PF00169	PH domain	7	100	3.0E-20	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAJ3449524.1	c71445973f20a10ad387ddc42d96e385	444	Pfam	PF00433	Protein kinase C terminal domain	391	432	1.9E-8	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAJ3449524.1	c71445973f20a10ad387ddc42d96e385	444	Pfam	PF00069	Protein kinase domain	114	370	4.1E-69	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAJ3449524.1	c71445973f20a10ad387ddc42d96e385	444	Pfam	PF00169	PH domain	7	100	1.0E-20	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAJ3452228.1	3bd39a32438f9402432de0373bb650be	444	Pfam	PF00433	Protein kinase C terminal domain	391	432	1.9E-8	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAJ3452228.1	3bd39a32438f9402432de0373bb650be	444	Pfam	PF00169	PH domain	7	97	5.7E-19	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAJ3452228.1	3bd39a32438f9402432de0373bb650be	444	Pfam	PF00069	Protein kinase domain	114	370	2.2E-69	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAJ5068875.1	fdc09e76bb28d6b1134816abd6a9f374	441	Pfam	PF00069	Protein kinase domain	116	368	5.0E-71	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAJ5068875.1	fdc09e76bb28d6b1134816abd6a9f374	441	Pfam	PF00169	PH domain	7	102	7.4E-17	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAJ5068875.1	fdc09e76bb28d6b1134816abd6a9f374	441	Pfam	PF00433	Protein kinase C terminal domain	392	430	7.2E-4	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAJ5071551.1	ba3a6657a82b4288dd6a3b762327da7d	450	Pfam	PF00169	PH domain	10	104	5.5E-17	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAJ5071551.1	ba3a6657a82b4288dd6a3b762327da7d	450	Pfam	PF00069	Protein kinase domain	118	373	5.5E-66	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAJ5071551.1	ba3a6657a82b4288dd6a3b762327da7d	450	Pfam	PF00433	Protein kinase C terminal domain	397	436	6.2E-8	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAJ5078432.1	41aa8da24dd1d1ede2c740daf5ba9750	446	Pfam	PF00069	Protein kinase domain	113	372	7.9E-69	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAJ5078432.1	41aa8da24dd1d1ede2c740daf5ba9750	446	Pfam	PF00433	Protein kinase C terminal domain	393	433	3.7E-6	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAJ5078432.1	41aa8da24dd1d1ede2c740daf5ba9750	446	Pfam	PF00169	PH domain	6	100	5.3E-16	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAJ5079900.1	7524cce3442cce0e7b787795b5bdaae0	445	Pfam	PF00169	PH domain	11	102	3.3E-17	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAJ5079900.1	7524cce3442cce0e7b787795b5bdaae0	445	Pfam	PF00433	Protein kinase C terminal domain	394	434	2.8E-5	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAJ5079900.1	7524cce3442cce0e7b787795b5bdaae0	445	Pfam	PF00069	Protein kinase domain	116	372	3.9E-68	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAJ5080786.1	09f41714ce2bac51f43c15037d43a8c4	446	Pfam	PF00069	Protein kinase domain	114	371	1.1E-65	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAJ5080786.1	09f41714ce2bac51f43c15037d43a8c4	446	Pfam	PF00169	PH domain	5	100	2.3E-20	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAJ5080786.1	09f41714ce2bac51f43c15037d43a8c4	446	Pfam	PF00433	Protein kinase C terminal domain	393	433	1.1E-4	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAJ6227709.1	9dbcd3c0922b6fcca6c82f7f021ae4b5	442	Pfam	PF00433	Protein kinase C terminal domain	389	430	5.3E-7	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAJ6227709.1	9dbcd3c0922b6fcca6c82f7f021ae4b5	442	Pfam	PF00069	Protein kinase domain	112	368	1.2E-70	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAJ6227709.1	9dbcd3c0922b6fcca6c82f7f021ae4b5	442	Pfam	PF00169	PH domain	5	98	5.1E-15	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAJ6227827.1	9ba5af81a6abc499acebc7885f9fed44	443	Pfam	PF00169	PH domain	6	99	4.3E-15	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAJ6227827.1	9ba5af81a6abc499acebc7885f9fed44	443	Pfam	PF00433	Protein kinase C terminal domain	390	431	6.6E-5	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAJ6227827.1	9ba5af81a6abc499acebc7885f9fed44	443	Pfam	PF00069	Protein kinase domain	113	369	1.4E-70	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAJ6229599.1	9603ac57665f4c5bade4aa164895a93a	444	Pfam	PF00433	Protein kinase C terminal domain	391	432	1.9E-8	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAJ6229599.1	9603ac57665f4c5bade4aa164895a93a	444	Pfam	PF00069	Protein kinase domain	114	370	1.4E-69	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAJ6229599.1	9603ac57665f4c5bade4aa164895a93a	444	Pfam	PF00169	PH domain	7	97	5.7E-19	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAJ6230059.1	30e60610c653eb77d1bb8293d356bfac	403	Pfam	PF00069	Protein kinase domain	67	323	4.8E-68	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAJ6230059.1	30e60610c653eb77d1bb8293d356bfac	403	Pfam	PF00433	Protein kinase C terminal domain	347	386	4.6E-4	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAJ6230059.1	30e60610c653eb77d1bb8293d356bfac	403	Pfam	PF00169	PH domain	2	53	0.002	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAJ6232798.1	56b30d8feac3698cd2299bc33a94c070	397	Pfam	PF00069	Protein kinase domain	67	323	4.2E-69	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAJ6232798.1	56b30d8feac3698cd2299bc33a94c070	397	Pfam	PF00433	Protein kinase C terminal domain	344	385	4.6E-7	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAJ6233201.1	9c37fdf80c2da159de462b546f2d2893	552	Pfam	PF00069	Protein kinase domain	222	478	3.4E-69	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAJ6233201.1	9c37fdf80c2da159de462b546f2d2893	552	Pfam	PF00169	PH domain	153	207	0.047	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAJ6233201.1	9c37fdf80c2da159de462b546f2d2893	552	Pfam	PF00433	Protein kinase C terminal domain	499	540	3.9E-6	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAJ6233718.1	247ba44812834b4275b123a239ba2e15	423	Pfam	PF00433	Protein kinase C terminal domain	346	388	9.6E-5	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAJ6233718.1	247ba44812834b4275b123a239ba2e15	423	Pfam	PF00169	PH domain	3	54	8.5E-4	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAJ6233718.1	247ba44812834b4275b123a239ba2e15	423	Pfam	PF00069	Protein kinase domain	68	324	1.5E-69	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAJ6236357.1	59c72e96fe117291f449ef949498fbe6	444	Pfam	PF00433	Protein kinase C terminal domain	391	432	1.9E-8	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAJ6236357.1	59c72e96fe117291f449ef949498fbe6	444	Pfam	PF00169	PH domain	7	100	3.0E-20	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAJ6236357.1	59c72e96fe117291f449ef949498fbe6	444	Pfam	PF00069	Protein kinase domain	114	370	4.2E-69	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAJ6240301.1	aa449e66fd468d56153ec433cfb7b0f7	442	Pfam	PF00169	PH domain	5	97	8.9E-15	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAJ6240301.1	aa449e66fd468d56153ec433cfb7b0f7	442	Pfam	PF00433	Protein kinase C terminal domain	389	430	5.3E-7	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAJ6240301.1	aa449e66fd468d56153ec433cfb7b0f7	442	Pfam	PF00069	Protein kinase domain	112	368	6.6E-69	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAJ6242869.1	89601c28deaa195e90ee69061d2df243	1151	Pfam	PF00433	Protein kinase C terminal domain	1096	1137	6.0E-8	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAJ6242869.1	89601c28deaa195e90ee69061d2df243	1151	Pfam	PF00069	Protein kinase domain	819	1075	5.4E-69	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAJ6242869.1	89601c28deaa195e90ee69061d2df243	1151	Pfam	PF03416	Peptidase C54 catalytic domain	584	731	3.3E-37	T	14-10-2025	IPR046792	Peptidase C54, catalytic domain	-	-
+KAJ6242869.1	89601c28deaa195e90ee69061d2df243	1151	Pfam	PF03416	Peptidase C54 catalytic domain	22	176	1.6E-39	T	14-10-2025	IPR046792	Peptidase C54, catalytic domain	-	-
+KAJ6242869.1	89601c28deaa195e90ee69061d2df243	1151	Pfam	PF00169	PH domain	765	804	0.0062	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAJ6244155.1	17f3421db55e4d5aceb5e6b43af061c0	444	Pfam	PF00169	PH domain	7	100	1.4E-19	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAJ6244155.1	17f3421db55e4d5aceb5e6b43af061c0	444	Pfam	PF00433	Protein kinase C terminal domain	391	432	1.9E-8	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAJ6244155.1	17f3421db55e4d5aceb5e6b43af061c0	444	Pfam	PF00069	Protein kinase domain	114	370	1.1E-68	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAJ6246661.1	d70bbd73dc693f6e57b8d5a929623ccc	452	Pfam	PF00069	Protein kinase domain	115	371	5.2E-67	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAJ6246661.1	d70bbd73dc693f6e57b8d5a929623ccc	452	Pfam	PF00169	PH domain	9	101	1.4E-19	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAJ6246661.1	d70bbd73dc693f6e57b8d5a929623ccc	452	Pfam	PF00433	Protein kinase C terminal domain	393	433	1.0E-4	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAJ6246982.1	1329d314e6e1ce5d1ae1ebce6d6ff512	442	Pfam	PF00169	PH domain	5	98	1.2E-15	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAJ6246982.1	1329d314e6e1ce5d1ae1ebce6d6ff512	442	Pfam	PF00433	Protein kinase C terminal domain	389	430	2.7E-7	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAJ6246982.1	1329d314e6e1ce5d1ae1ebce6d6ff512	442	Pfam	PF00069	Protein kinase domain	112	368	4.6E-71	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAJ6248887.1	2d31f68c5ba979d817982ec544611c10	442	Pfam	PF00169	PH domain	5	97	6.1E-16	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAJ6248887.1	2d31f68c5ba979d817982ec544611c10	442	Pfam	PF00433	Protein kinase C terminal domain	389	430	3.3E-6	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAJ6248887.1	2d31f68c5ba979d817982ec544611c10	442	Pfam	PF00069	Protein kinase domain	112	368	1.6E-69	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAJ6251906.1	7578a3a4f81269242fd0088c7b6f3fd3	441	Pfam	PF00069	Protein kinase domain	114	367	8.6E-71	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAJ6251906.1	7578a3a4f81269242fd0088c7b6f3fd3	441	Pfam	PF00169	PH domain	7	99	1.7E-17	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAJ6251906.1	7578a3a4f81269242fd0088c7b6f3fd3	441	Pfam	PF00433	Protein kinase C terminal domain	388	429	3.4E-7	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAJ6252314.1	5f5f6affbbd6a4cd66a3b44091d5bdbd	441	Pfam	PF00069	Protein kinase domain	114	367	2.8E-70	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAJ6252314.1	5f5f6affbbd6a4cd66a3b44091d5bdbd	441	Pfam	PF00433	Protein kinase C terminal domain	388	429	5.9E-8	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAJ6252314.1	5f5f6affbbd6a4cd66a3b44091d5bdbd	441	Pfam	PF00169	PH domain	6	100	4.8E-21	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAJ6253560.1	32165469c67a3c7763d193a92e5f64bb	444	Pfam	PF00069	Protein kinase domain	114	370	4.1E-69	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAJ6253560.1	32165469c67a3c7763d193a92e5f64bb	444	Pfam	PF00433	Protein kinase C terminal domain	391	432	1.9E-8	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAJ6253560.1	32165469c67a3c7763d193a92e5f64bb	444	Pfam	PF00169	PH domain	7	100	6.3E-21	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAJ6254877.1	e4ff24dc42d4e63b0838bc548fe5d6f6	443	Pfam	PF00069	Protein kinase domain	113	369	3.5E-68	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAJ6254877.1	e4ff24dc42d4e63b0838bc548fe5d6f6	443	Pfam	PF00169	PH domain	6	98	6.3E-15	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAJ6254877.1	e4ff24dc42d4e63b0838bc548fe5d6f6	443	Pfam	PF00433	Protein kinase C terminal domain	390	431	1.9E-7	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAJ6255356.1	5cbc61c947ef09958dadac7d9de8390a	451	Pfam	PF00069	Protein kinase domain	114	370	2.1E-65	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAJ6255356.1	5cbc61c947ef09958dadac7d9de8390a	451	Pfam	PF00433	Protein kinase C terminal domain	392	432	8.0E-5	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAJ6255356.1	5cbc61c947ef09958dadac7d9de8390a	451	Pfam	PF00169	PH domain	7	100	5.5E-20	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAK8834899.1	89b3f9de8b237ff4c71e0861a78de1ce	445	Pfam	PF00169	PH domain	1	87	8.9E-5	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAK8834899.1	89b3f9de8b237ff4c71e0861a78de1ce	445	Pfam	PF00069	Protein kinase domain	115	372	9.1E-68	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAK8834899.1	89b3f9de8b237ff4c71e0861a78de1ce	445	Pfam	PF00433	Protein kinase C terminal domain	393	433	4.0E-7	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAK8840355.1	acc09aeb6f5cc9af89a709b1e50a281f	502	Pfam	PF00169	PH domain	11	98	3.2E-15	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAK8840355.1	acc09aeb6f5cc9af89a709b1e50a281f	502	Pfam	PF00433	Protein kinase C terminal domain	451	492	0.0048	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAK8840355.1	acc09aeb6f5cc9af89a709b1e50a281f	502	Pfam	PF00069	Protein kinase domain	113	430	3.7E-53	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAK8840649.1	eecaa51165d15b3634f2c4c40d19a294	489	Pfam	PF00169	PH domain	10	99	1.7E-5	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAK8840649.1	eecaa51165d15b3634f2c4c40d19a294	489	Pfam	PF00433	Protein kinase C terminal domain	395	435	1.4E-8	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAK8840649.1	eecaa51165d15b3634f2c4c40d19a294	489	Pfam	PF00069	Protein kinase domain	118	374	9.6E-67	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAK8841192.1	95617de3b9b4c2c49e61772dddfca721	474	Pfam	PF00433	Protein kinase C terminal domain	425	465	1.9	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAK8841192.1	95617de3b9b4c2c49e61772dddfca721	474	Pfam	PF00169	PH domain	11	101	1.7E-12	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAK8841192.1	95617de3b9b4c2c49e61772dddfca721	474	Pfam	PF00069	Protein kinase domain	145	403	2.0E-68	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAK8842325.1	36505388067839e0b32b0b1ceec3f794	547	Pfam	PF00169	PH domain	17	105	6.9E-15	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAK8842325.1	36505388067839e0b32b0b1ceec3f794	547	Pfam	PF00069	Protein kinase domain	289	475	8.4E-43	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAK8842325.1	36505388067839e0b32b0b1ceec3f794	547	Pfam	PF00069	Protein kinase domain	120	228	4.3E-13	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAK8842325.1	36505388067839e0b32b0b1ceec3f794	547	Pfam	PF00433	Protein kinase C terminal domain	496	537	0.11	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAK8842667.1	05edfef0cd2aa648c6c90e37d991812d	462	Pfam	PF00433	Protein kinase C terminal domain	384	417	0.69	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAK8842667.1	05edfef0cd2aa648c6c90e37d991812d	462	Pfam	PF00069	Protein kinase domain	110	357	1.3E-63	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAK8842861.1	99e85ba0078750525d7d3bf60ce1b522	447	Pfam	PF00069	Protein kinase domain	124	379	1.1E-64	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAK8842861.1	99e85ba0078750525d7d3bf60ce1b522	447	Pfam	PF00169	PH domain	5	97	1.2E-20	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAK8842861.1	99e85ba0078750525d7d3bf60ce1b522	447	Pfam	PF00433	Protein kinase C terminal domain	401	440	0.0018	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAK8846329.1	51b5a71c9d267991faf88b6882f4198d	437	Pfam	PF00169	PH domain	15	106	5.9E-7	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAK8846329.1	51b5a71c9d267991faf88b6882f4198d	437	Pfam	PF00069	Protein kinase domain	118	370	5.9E-69	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAK8847019.1	620dc1a2f562aa7a1dbbd38c71230e73	509	Pfam	PF00169	PH domain	12	98	2.5E-15	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAK8847019.1	620dc1a2f562aa7a1dbbd38c71230e73	509	Pfam	PF00433	Protein kinase C terminal domain	463	501	0.8	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAK8847019.1	620dc1a2f562aa7a1dbbd38c71230e73	509	Pfam	PF00069	Protein kinase domain	113	204	1.6E-10	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAK8847019.1	620dc1a2f562aa7a1dbbd38c71230e73	509	Pfam	PF00069	Protein kinase domain	263	439	9.2E-41	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAK8848115.1	007b35766c47a62dcad4e052750504c6	464	Pfam	PF00433	Protein kinase C terminal domain	414	454	1.2E-6	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAK8848115.1	007b35766c47a62dcad4e052750504c6	464	Pfam	PF00169	PH domain	5	98	4.2E-21	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAK8848115.1	007b35766c47a62dcad4e052750504c6	464	Pfam	PF00069	Protein kinase domain	138	393	2.8E-66	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAK8854306.1	6c0f43a578606629052ae476e7198343	435	Pfam	PF00169	PH domain	11	103	2.6E-4	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAK8854306.1	6c0f43a578606629052ae476e7198343	435	Pfam	PF00433	Protein kinase C terminal domain	393	425	0.041	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAK8854306.1	6c0f43a578606629052ae476e7198343	435	Pfam	PF00069	Protein kinase domain	115	365	3.1E-71	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAK8866332.1	39d220c7403c612af8e6aae23883c5a2	419	Pfam	PF00169	PH domain	3	92	6.7E-4	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAK8866332.1	39d220c7403c612af8e6aae23883c5a2	419	Pfam	PF00069	Protein kinase domain	106	354	3.0E-64	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAK8866524.1	f0b28f508bed2ab8845f947b0c46d6f5	443	Pfam	PF00069	Protein kinase domain	109	374	1.4E-63	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAK8866524.1	f0b28f508bed2ab8845f947b0c46d6f5	443	Pfam	PF00169	PH domain	3	95	1.7E-5	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAK8866524.1	f0b28f508bed2ab8845f947b0c46d6f5	443	Pfam	PF00433	Protein kinase C terminal domain	395	435	0.38	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAK8878346.1	e42301a233c4032de478dbfadc38e78e	449	Pfam	PF00169	PH domain	9	100	3.2E-14	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAK8878346.1	e42301a233c4032de478dbfadc38e78e	449	Pfam	PF00433	Protein kinase C terminal domain	398	439	6.7E-4	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAK8878346.1	e42301a233c4032de478dbfadc38e78e	449	Pfam	PF00069	Protein kinase domain	115	377	3.4E-72	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAK8881614.1	df6673725585868e23305332a36acdb7	467	Pfam	PF00069	Protein kinase domain	119	368	6.0E-68	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAK8881614.1	df6673725585868e23305332a36acdb7	467	Pfam	PF00169	PH domain	16	106	4.7E-5	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAK8882546.1	e6064591c07087b4f5a3b252deea1220	441	Pfam	PF00069	Protein kinase domain	117	374	7.5E-63	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAK8882546.1	e6064591c07087b4f5a3b252deea1220	441	Pfam	PF00169	PH domain	8	100	2.9E-12	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAK8882701.1	b7956642025ce32725404b33cf011175	450	Pfam	PF00069	Protein kinase domain	119	369	9.0E-71	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAK8882701.1	b7956642025ce32725404b33cf011175	450	Pfam	PF00433	Protein kinase C terminal domain	391	428	0.39	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAK8883798.1	9781abc446a5ea28bcd9cad5c92162d7	450	Pfam	PF00069	Protein kinase domain	116	367	4.9E-68	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAK8883798.1	9781abc446a5ea28bcd9cad5c92162d7	450	Pfam	PF00433	Protein kinase C terminal domain	393	426	1.2	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAK8884012.1	89b3f9de8b237ff4c71e0861a78de1ce	445	Pfam	PF00169	PH domain	1	87	8.9E-5	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAK8884012.1	89b3f9de8b237ff4c71e0861a78de1ce	445	Pfam	PF00069	Protein kinase domain	115	372	9.1E-68	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAK8884012.1	89b3f9de8b237ff4c71e0861a78de1ce	445	Pfam	PF00433	Protein kinase C terminal domain	393	433	4.0E-7	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAK8884091.1	d5d43aab106fc73dea86d329878f8f4f	449	Pfam	PF00169	PH domain	17	103	1.2E-5	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAK8884091.1	d5d43aab106fc73dea86d329878f8f4f	449	Pfam	PF00069	Protein kinase domain	116	367	3.7E-73	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAK8886140.1	5407a5b3dd4f079235766a8003c51e1c	462	Pfam	PF00069	Protein kinase domain	115	366	1.2E-68	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAK8886140.1	5407a5b3dd4f079235766a8003c51e1c	462	Pfam	PF00433	Protein kinase C terminal domain	393	424	0.89	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAK8886140.1	5407a5b3dd4f079235766a8003c51e1c	462	Pfam	PF00169	PH domain	11	101	0.0057	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAK8887040.1	5247f328d72bfebf44e0c4a595ba5ce0	440	Pfam	PF00069	Protein kinase domain	115	361	2.4E-67	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAK8887040.1	5247f328d72bfebf44e0c4a595ba5ce0	440	Pfam	PF00169	PH domain	4	96	3.9E-4	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAK8887040.1	5247f328d72bfebf44e0c4a595ba5ce0	440	Pfam	PF00433	Protein kinase C terminal domain	383	417	0.035	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAK8888958.1	bd0505ab20663694c34c2e75364ef86d	435	Pfam	PF00169	PH domain	13	100	9.5E-7	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAK8888958.1	bd0505ab20663694c34c2e75364ef86d	435	Pfam	PF00069	Protein kinase domain	116	366	2.4E-71	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAK8890552.1	0b7d4bf7e95e64da86efe50ba807a3e5	445	Pfam	PF00433	Protein kinase C terminal domain	401	441	0.0012	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAK8890552.1	0b7d4bf7e95e64da86efe50ba807a3e5	445	Pfam	PF00069	Protein kinase domain	122	380	2.0E-65	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAK8893711.1	2fad6fe1adfabffea52340302f4a8b6f	455	Pfam	PF00069	Protein kinase domain	124	386	4.6E-66	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAK8893711.1	2fad6fe1adfabffea52340302f4a8b6f	455	Pfam	PF00433	Protein kinase C terminal domain	408	448	1.6	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAK8893711.1	2fad6fe1adfabffea52340302f4a8b6f	455	Pfam	PF00169	PH domain	2	97	8.3E-13	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAK8894814.1	6ff627508b17caf7a664e83c87820da1	480	Pfam	PF00069	Protein kinase domain	140	399	7.9E-67	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAK8894814.1	6ff627508b17caf7a664e83c87820da1	480	Pfam	PF00169	PH domain	11	125	1.0E-5	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAK8894997.1	d39166ef175f87129d360e8065c2b787	592	Pfam	PF00069	Protein kinase domain	241	476	5.2E-51	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAK8894997.1	d39166ef175f87129d360e8065c2b787	592	Pfam	PF00169	PH domain	7	113	8.9E-6	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAK8895137.1	ecf757a3248ba9b4a44d3ae792f52b27	485	Pfam	PF00069	Protein kinase domain	142	405	3.8E-67	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAK8895137.1	ecf757a3248ba9b4a44d3ae792f52b27	485	Pfam	PF00169	PH domain	11	127	5.8E-7	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAK8895938.1	0e0040e6d79d0a393a58afa0e613d540	486	Pfam	PF00433	Protein kinase C terminal domain	397	428	0.31	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAK8895938.1	0e0040e6d79d0a393a58afa0e613d540	486	Pfam	PF00069	Protein kinase domain	120	370	5.3E-67	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAK8896222.1	4273ec7358d6bc3171e949b6d1f21df8	466	Pfam	PF00069	Protein kinase domain	116	367	1.1E-68	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAK8896222.1	4273ec7358d6bc3171e949b6d1f21df8	466	Pfam	PF00169	PH domain	11	102	0.0052	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAK8896222.1	4273ec7358d6bc3171e949b6d1f21df8	466	Pfam	PF00433	Protein kinase C terminal domain	393	426	0.012	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+KAK8896752.1	b18ec6588c5062860e13278a60a18cc4	500	Pfam	PF00069	Protein kinase domain	115	209	7.4E-12	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAK8896752.1	b18ec6588c5062860e13278a60a18cc4	500	Pfam	PF00069	Protein kinase domain	243	428	3.8E-41	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAK8896752.1	b18ec6588c5062860e13278a60a18cc4	500	Pfam	PF00169	PH domain	12	98	5.0E-12	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAK8900393.1	97dce38eec838c932c459f6150631395	454	Pfam	PF00069	Protein kinase domain	130	386	4.3E-69	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+KAK8900393.1	97dce38eec838c932c459f6150631395	454	Pfam	PF00169	PH domain	2	93	1.7E-14	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+KAK8900393.1	97dce38eec838c932c459f6150631395	454	Pfam	PF00433	Protein kinase C terminal domain	407	447	1.1E-7	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+OHS92848.1	54a71e1c76403b4bbe83a5114ae05cc2	449	Pfam	PF00069	Protein kinase domain	112	363	3.5E-70	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+OHS92848.1	54a71e1c76403b4bbe83a5114ae05cc2	449	Pfam	PF00433	Protein kinase C terminal domain	390	421	0.026	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+OHS92848.1	54a71e1c76403b4bbe83a5114ae05cc2	449	Pfam	PF00169	PH domain	9	98	1.6E-6	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+OHS94999.1	bb63c2b9f26fbbaf38e54791abe137b8	487	Pfam	PF00069	Protein kinase domain	110	371	9.5E-68	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+OHS94999.1	bb63c2b9f26fbbaf38e54791abe137b8	487	Pfam	PF00169	PH domain	10	97	0.0016	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+OHS95069.1	b640adffd23c55c9f111f04ff90e83cf	438	Pfam	PF00169	PH domain	12	101	0.004	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+OHS95069.1	b640adffd23c55c9f111f04ff90e83cf	438	Pfam	PF00069	Protein kinase domain	115	367	9.0E-61	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+OHS95205.1	5eba35a69f3876729dab93a7015a6ec4	439	Pfam	PF00433	Protein kinase C terminal domain	392	433	2.1E-5	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+OHS95205.1	5eba35a69f3876729dab93a7015a6ec4	439	Pfam	PF00169	PH domain	11	100	1.2E-12	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+OHS95205.1	5eba35a69f3876729dab93a7015a6ec4	439	Pfam	PF00069	Protein kinase domain	116	371	5.2E-69	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+OHS95828.1	8973a02f2cae972217151dcc91615aad	449	Pfam	PF00069	Protein kinase domain	106	353	2.0E-67	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+OHS95875.1	d0756e2d307f01bcd3d0c7cbfc82e8ba	462	Pfam	PF00169	PH domain	14	99	0.038	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+OHS95875.1	d0756e2d307f01bcd3d0c7cbfc82e8ba	462	Pfam	PF00069	Protein kinase domain	112	363	1.6E-69	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+OHS95875.1	d0756e2d307f01bcd3d0c7cbfc82e8ba	462	Pfam	PF00433	Protein kinase C terminal domain	393	423	1.7	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+OHS96005.1	12db826c77d344e662a72afa8858fb77	450	Pfam	PF00069	Protein kinase domain	113	363	4.9E-70	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+OHS96005.1	12db826c77d344e662a72afa8858fb77	450	Pfam	PF00169	PH domain	8	98	0.019	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+OHS96005.1	12db826c77d344e662a72afa8858fb77	450	Pfam	PF00433	Protein kinase C terminal domain	388	420	2.1	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+OHS96565.1	695e0f75e94a5c65161d2469d72c1e8c	447	Pfam	PF00069	Protein kinase domain	116	374	2.8E-69	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+OHS96565.1	695e0f75e94a5c65161d2469d72c1e8c	447	Pfam	PF00169	PH domain	6	96	1.4E-5	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+OHS96565.1	695e0f75e94a5c65161d2469d72c1e8c	447	Pfam	PF00433	Protein kinase C terminal domain	395	435	6.9E-5	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+OHS97803.1	77509dda217d4d3a4dbaac47e5b6f2f3	546	Pfam	PF00069	Protein kinase domain	202	449	6.2E-65	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+OHS97803.1	77509dda217d4d3a4dbaac47e5b6f2f3	546	Pfam	PF00169	PH domain	99	188	1.7E-10	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+OHS98046.1	06cf23d9bbca688f9ce2ee03673c2228	473	Pfam	PF00069	Protein kinase domain	144	400	2.2E-69	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+OHS98046.1	06cf23d9bbca688f9ce2ee03673c2228	473	Pfam	PF00169	PH domain	5	97	8.7E-18	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+OHS98046.1	06cf23d9bbca688f9ce2ee03673c2228	473	Pfam	PF00433	Protein kinase C terminal domain	421	461	2.6E-7	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+OHS99021.1	cc0f91e7f50f41caf85d998a0de2d576	519	Pfam	PF00169	PH domain	20	108	4.3E-6	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+OHS99021.1	cc0f91e7f50f41caf85d998a0de2d576	519	Pfam	PF00069	Protein kinase domain	124	374	1.4E-64	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+OHS99266.1	2bc544ec8c243f4a9db8bd41d2830226	466	Pfam	PF00169	PH domain	30	120	4.1E-11	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+OHS99266.1	2bc544ec8c243f4a9db8bd41d2830226	466	Pfam	PF00069	Protein kinase domain	139	395	2.0E-67	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+OHS99266.1	2bc544ec8c243f4a9db8bd41d2830226	466	Pfam	PF00433	Protein kinase C terminal domain	416	456	7.4E-4	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+OHS99697.1	f029dd149ea3c7e94bddb1d987611045	465	Pfam	PF00069	Protein kinase domain	134	386	1.7E-63	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+OHS99697.1	f029dd149ea3c7e94bddb1d987611045	465	Pfam	PF00169	PH domain	31	119	5.0E-4	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+OHS99881.1	69d0cc1fe398a003a6e6a60f3c0c2277	433	Pfam	PF00169	PH domain	3	88	2.1E-4	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+OHS99881.1	69d0cc1fe398a003a6e6a60f3c0c2277	433	Pfam	PF00433	Protein kinase C terminal domain	389	429	7.8E-9	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+OHS99881.1	69d0cc1fe398a003a6e6a60f3c0c2277	433	Pfam	PF00069	Protein kinase domain	112	354	2.6E-65	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+OHT00169.1	f43ec609f2e5a0c8d51c758b14a364e7	500	Pfam	PF00169	PH domain	29	119	3.9E-16	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+OHT00169.1	f43ec609f2e5a0c8d51c758b14a364e7	500	Pfam	PF00433	Protein kinase C terminal domain	453	493	7.6E-7	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+OHT00169.1	f43ec609f2e5a0c8d51c758b14a364e7	500	Pfam	PF00069	Protein kinase domain	176	432	5.9E-70	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+OHT00535.1	7bb36eb2be4791407bbafac57c401633	446	Pfam	PF00069	Protein kinase domain	116	367	1.9E-66	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+OHT00535.1	7bb36eb2be4791407bbafac57c401633	446	Pfam	PF00169	PH domain	11	104	0.0055	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+OHT01178.1	a1dd83fa3cb7365cf18136fa30735e66	492	Pfam	PF00069	Protein kinase domain	169	424	2.6E-66	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+OHT01178.1	a1dd83fa3cb7365cf18136fa30735e66	492	Pfam	PF00169	PH domain	4	100	4.1E-18	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+OHT01178.1	a1dd83fa3cb7365cf18136fa30735e66	492	Pfam	PF00433	Protein kinase C terminal domain	445	485	4.5E-7	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+OHT01273.1	d9dfb6ec50147ba6b64f57bf55a8cde8	447	Pfam	PF00069	Protein kinase domain	116	379	3.8E-64	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+OHT01273.1	d9dfb6ec50147ba6b64f57bf55a8cde8	447	Pfam	PF00169	PH domain	13	102	3.0E-7	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+OHT01273.1	d9dfb6ec50147ba6b64f57bf55a8cde8	447	Pfam	PF00433	Protein kinase C terminal domain	402	442	1.6E-4	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+OHT01303.1	f97b4b78fe1e01fe14a6bfe41bbd0f53	452	Pfam	PF00069	Protein kinase domain	118	369	8.5E-71	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+OHT01303.1	f97b4b78fe1e01fe14a6bfe41bbd0f53	452	Pfam	PF00169	PH domain	17	106	3.1E-4	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+OHT01574.1	38b4ce48869ed1eb35f7e150345143bb	525	Pfam	PF00169	PH domain	9	98	7.5E-4	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+OHT01574.1	38b4ce48869ed1eb35f7e150345143bb	525	Pfam	PF00069	Protein kinase domain	111	361	1.4E-69	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+OHT02420.1	a68a5359b9e0fd9ae25f7065e25f3631	515	Pfam	PF00069	Protein kinase domain	167	419	7.5E-66	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+OHT05101.1	0fee970e205602db792142ff62f6d9c9	484	Pfam	PF00169	PH domain	10	129	9.1E-7	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+OHT05101.1	0fee970e205602db792142ff62f6d9c9	484	Pfam	PF00069	Protein kinase domain	142	390	5.3E-68	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+OHT05481.1	8e909579703fa6974b4ec230733cad6c	447	Pfam	PF00433	Protein kinase C terminal domain	393	420	2.9	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+OHT05481.1	8e909579703fa6974b4ec230733cad6c	447	Pfam	PF00069	Protein kinase domain	120	369	2.4E-70	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+OHT06549.1	40c4a3a42f4ab5998c74f6d1f2780696	477	Pfam	PF00069	Protein kinase domain	119	367	4.0E-65	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+OHT06549.1	40c4a3a42f4ab5998c74f6d1f2780696	477	Pfam	PF00169	PH domain	16	106	0.0087	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+OHT06549.1	40c4a3a42f4ab5998c74f6d1f2780696	477	Pfam	PF00433	Protein kinase C terminal domain	389	413	0.053	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+OHT06835.1	a4c7269a67214b9fa55428c174e2002f	436	Pfam	PF00069	Protein kinase domain	116	366	2.1E-69	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+OHT06835.1	a4c7269a67214b9fa55428c174e2002f	436	Pfam	PF00433	Protein kinase C terminal domain	394	426	0.041	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+OHT06835.1	a4c7269a67214b9fa55428c174e2002f	436	Pfam	PF00169	PH domain	11	104	5.1E-4	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+OHT07256.1	4ab0f421f7da06408850e5742cef7429	419	Pfam	PF00169	PH domain	4	91	0.0061	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+OHT07256.1	4ab0f421f7da06408850e5742cef7429	419	Pfam	PF00069	Protein kinase domain	106	354	1.4E-61	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+OHT07622.1	a7923d88d6bc915465eac8e03f8ba29b	427	Pfam	PF00069	Protein kinase domain	102	352	1.0E-69	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+OHT08265.1	5c489cd3853845c17595181e76999417	450	Pfam	PF00433	Protein kinase C terminal domain	391	428	0.0046	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+OHT08265.1	5c489cd3853845c17595181e76999417	450	Pfam	PF00069	Protein kinase domain	121	369	4.7E-73	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+OHT08753.1	be6c65ae43bfe845d1be124b33a7eefc	406	Pfam	PF00069	Protein kinase domain	86	336	1.6E-68	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+OHT08753.1	be6c65ae43bfe845d1be124b33a7eefc	406	Pfam	PF00433	Protein kinase C terminal domain	357	384	0.59	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+OHT10081.1	4d74e068ad479298fd6ceae038c3f6b0	535	Pfam	PF00069	Protein kinase domain	183	431	7.6E-49	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+OHT10081.1	4d74e068ad479298fd6ceae038c3f6b0	535	Pfam	PF00433	Protein kinase C terminal domain	453	500	0.26	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+OHT10081.1	4d74e068ad479298fd6ceae038c3f6b0	535	Pfam	PF00169	PH domain	12	101	1.0E-6	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+OHT10224.1	eec0e34eed43ad76d741befd32a22949	447	Pfam	PF00069	Protein kinase domain	117	368	4.4E-68	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+OHT10224.1	eec0e34eed43ad76d741befd32a22949	447	Pfam	PF00169	PH domain	11	104	3.6E-9	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+OHT11067.1	d76f47c6b779e107b7e964c39c1d054b	433	Pfam	PF00069	Protein kinase domain	114	366	1.0E-68	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+OHT11067.1	d76f47c6b779e107b7e964c39c1d054b	433	Pfam	PF00433	Protein kinase C terminal domain	395	412	2.7	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+OHT11067.1	d76f47c6b779e107b7e964c39c1d054b	433	Pfam	PF00169	PH domain	11	101	3.1E-7	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+OHT11416.1	fd21497421526fc7867259895a37cedf	447	Pfam	PF00433	Protein kinase C terminal domain	397	437	5.0E-8	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+OHT11416.1	fd21497421526fc7867259895a37cedf	447	Pfam	PF00169	PH domain	8	98	3.6E-13	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+OHT11416.1	fd21497421526fc7867259895a37cedf	447	Pfam	PF00069	Protein kinase domain	122	376	4.6E-66	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+OHT11482.1	3145599872d72a07fbc6634751043f6d	467	Pfam	PF00169	PH domain	13	100	3.2E-6	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+OHT11482.1	3145599872d72a07fbc6634751043f6d	467	Pfam	PF00069	Protein kinase domain	115	366	2.2E-70	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+OHT13324.1	3bce47c630a13d136eb6863eedbcc6eb	508	Pfam	PF00069	Protein kinase domain	118	367	2.0E-73	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+OHT13324.1	3bce47c630a13d136eb6863eedbcc6eb	508	Pfam	PF00169	PH domain	15	103	0.016	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+OHT14359.1	2694068bb8ef128822bef280fbc92f06	463	Pfam	PF00169	PH domain	6	98	2.2E-16	T	14-10-2025	IPR001849	Pleckstrin homology domain	-	-
+OHT14359.1	2694068bb8ef128822bef280fbc92f06	463	Pfam	PF00069	Protein kinase domain	138	394	1.6E-69	T	14-10-2025	IPR000719	Protein kinase domain	-	-
+OHT14359.1	2694068bb8ef128822bef280fbc92f06	463	Pfam	PF00433	Protein kinase C terminal domain	415	455	1.7E-9	T	14-10-2025	IPR017892	Protein kinase, C-terminal	-	-
+OHT16522.1	8e594b3119058009f16f1912aaa18020	422	Pfam	PF00069	Protein kinase domain	103	353	1.2E-67	T	14-10-2025	IPR000719	Protein kinase domain	-	-

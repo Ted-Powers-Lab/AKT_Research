@@ -24,9 +24,6 @@ Combining_CSV <- function(input_directory, protein){
 
 
 Combining_CSV(input_directory = "~/GitHub/AKT_Research/CSV_Files/AKT/Combined_CSVs", protein = "AKT")
-Combining_CSV(input_directory = "", protein = "AKT")
-Combining_CSV(input_directory = "", protein = "")
-Combining_CSV(input_directory = "", protein = "")
 
 
 

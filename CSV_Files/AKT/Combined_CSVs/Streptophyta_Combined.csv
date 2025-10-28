@@ -1,13 +1,7 @@
-tar,tar_acc,query,hmm_acc,full_e,full_score,full_bias,dom_e,dom_score,dom_bias,acc,Organism Name,Organism Taxonomic ID
-BFI13119.1,-,Pkinase,PF00069.31,8.3e-79,264.8,0.3,1e-78,264.5,0.3,GCA_037833805.1,Marchantia polymorpha subsp. ruderalis,1480154
-BFI12696.1,-,Pkinase,PF00069.31,8.4e-72,241.9,0.0,1.2e-71,241.3,0.0,GCA_037833805.1,Marchantia polymorpha subsp. ruderalis,1480154
-BFI05078.1,-,Pkinase,PF00069.31,5.4999999999999994e-68,229.4,0.1,8.300000000000001e-44,150.1,0.1,GCA_037833805.1,Marchantia polymorpha subsp. ruderalis,1480154
-BFI05079.1,-,Pkinase,PF00069.31,5.4999999999999994e-68,229.4,0.1,8.200000000000001e-44,150.1,0.1,GCA_037833805.1,Marchantia polymorpha subsp. ruderalis,1480154
-BFI04503.1,-,Pkinase,PF00069.31,1.4e-65,221.5,0.2,9.3e-43,146.6,0.1,GCA_037833805.1,Marchantia polymorpha subsp. ruderalis,1480154
-BFI04502.1,-,Pkinase,PF00069.31,1.5e-65,221.4,0.2,9.8e-43,146.6,0.1,GCA_037833805.1,Marchantia polymorpha subsp. ruderalis,1480154
-BFI13119.1,-,Pkinase,PF00069.31,8.4e-79,264.8,0.3,1e-78,264.5,0.3,GCA_039105155.1,Marchantia polymorpha subsp. ruderalis,1480154
-BFI12696.1,-,Pkinase,PF00069.31,8.5e-72,241.9,0.0,1.2e-71,241.3,0.0,GCA_039105155.1,Marchantia polymorpha subsp. ruderalis,1480154
-BFI05078.1,-,Pkinase,PF00069.31,5.5999999999999986e-68,229.4,0.1,8.400000000000001e-44,150.1,0.1,GCA_039105155.1,Marchantia polymorpha subsp. ruderalis,1480154
-BFI05079.1,-,Pkinase,PF00069.31,5.5999999999999986e-68,229.4,0.1,8.300000000000001e-44,150.1,0.1,GCA_039105155.1,Marchantia polymorpha subsp. ruderalis,1480154
-BFI04503.1,-,Pkinase,PF00069.31,1.4e-65,221.5,0.2,9.4e-43,146.6,0.1,GCA_039105155.1,Marchantia polymorpha subsp. ruderalis,1480154
-BFI04502.1,-,Pkinase,PF00069.31,1.5e-65,221.4,0.2,9.899999999999998e-43,146.6,0.1,GCA_039105155.1,Marchantia polymorpha subsp. ruderalis,1480154
+tar,tar_acc,query,hmm_acc,full_e,full_score,full_bias,dom_e,dom_score,dom_bias,acc
+BFI04503.1,-,Pkinase_C,PF00433.29,3.8e-09,37.3,0.2,3.8e-09,37.3,0.2,GCA_037833805.1
+BFI04502.1,-,Pkinase_C,PF00433.29,3.9e-09,37.3,0.2,3.9e-09,37.3,0.2,GCA_037833805.1
+BFI05079.1,-,Pkinase_C,PF00433.29,3.4e-08,34.3,0.0,1.1e-07,32.6,0.0,GCA_037833805.1
+BFI05078.1,-,Pkinase_C,PF00433.29,3.4e-08,34.3,0.0,1.1e-07,32.6,0.0,GCA_037833805.1
+BFI12696.1,-,Pkinase_C,PF00433.29,8.8e-07,29.7,0.1,1.9e-06,28.7,0.1,GCA_037833805.1
+BFI13119.1,-,Pkinase_C,PF00433.29,1.4e-06,29.1,0.0,2.8e-06,28.1,0.0,GCA_037833805.1
