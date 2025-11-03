@@ -37,6 +37,11 @@ write_csv(Combined_data, file = "~/GitHub/AKT_Research/CSV_Files/Combined_CSVs/C
 
 
 
+Reference_data <- Combine_Files(input_path = "~/GitHub/AKT_Research/CSV_Files/Reference_AKT/CSVs")
+write_csv(Reference_data, file = "~/GitHub/AKT_Research/CSV_Files/Reference_AKT/CSVs/Combined_Reference_Data.csv")
+
+
+
 
 
 
