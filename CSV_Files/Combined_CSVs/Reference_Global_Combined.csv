@@ -1,0 +1,1103 @@
+Unnamed: 0,query_id,hit_id,hit_eval,hit_bitscore,hit_description
+0,Mass_AKT_Aligned,NP_001287353.1,8.5e-231,779.2,"Akt kinase, isoform D [Drosophila mela"
+1,Mass_AKT_Aligned,NP_001287354.1,8.5e-231,779.2,"Akt kinase, isoform E [Drosophila mela"
+2,Mass_AKT_Aligned,NP_732113.3,8.5e-231,779.2,"Akt kinase, isoform C [Drosophila mela"
+3,Mass_AKT_Aligned,NP_732114.1,8.5e-231,779.2,"Akt kinase, isoform A [Drosophila mela"
+4,Mass_AKT_Aligned,NP_732115.1,8.5e-231,779.2,"Akt kinase, isoform B [Drosophila mela"
+5,Mass_AKT_Aligned,NP_001188895.1,2.7e-90,312.5,"protein kinase N, isoform J [Drosophil"
+6,Mass_AKT_Aligned,NP_001188896.1,2.7e-90,312.5,"protein kinase N, isoform K [Drosophil"
+7,Mass_AKT_Aligned,NP_001188897.3,2.7e-90,312.5,"protein kinase N, isoform S [Drosophil"
+8,Mass_AKT_Aligned,NP_001246221.1,2.7e-90,312.5,"protein kinase N, isoform L [Drosophil"
+9,Mass_AKT_Aligned,NP_001246220.1,2.7e-90,312.5,"protein kinase N, isoform M [Drosophil"
+10,Mass_AKT_Aligned,NP_001286241.1,2.7e-90,312.5,"protein kinase N, isoform N [Drosophil"
+11,Mass_AKT_Aligned,NP_788294.1,2.7e-90,312.5,"protein kinase N, isoform E [Drosophil"
+12,Mass_AKT_Aligned,NP_001163095.1,3.6e-89,308.7,"protein kinase N, isoform H [Drosophil"
+13,Mass_AKT_Aligned,NP_788290.1,3.6e-89,308.7,"protein kinase N, isoform B [Drosophil"
+14,Mass_AKT_Aligned,NP_788292.1,3.6e-89,308.7,"protein kinase N, isoform F [Drosophil"
+15,Mass_AKT_Aligned,NP_001097237.1,5.0000000000000004e-89,308.2,"protein kinase N, isoform G [Drosophil"
+16,Mass_AKT_Aligned,NP_001286243.1,5.0000000000000004e-89,308.2,"protein kinase N, isoform P [Drosophil"
+17,Mass_AKT_Aligned,NP_001286244.1,5.0000000000000004e-89,308.2,"protein kinase N, isoform Q [Drosophil"
+18,Mass_AKT_Aligned,NP_788291.1,5.0000000000000004e-89,308.2,"protein kinase N, isoform C [Drosophil"
+19,Mass_AKT_Aligned,NP_788293.2,5.0000000000000004e-89,308.2,"protein kinase N, isoform D [Drosophil"
+20,Mass_AKT_Aligned,NP_001286242.1,2.7e-88,305.8,"protein kinase N, isoform O [Drosophil"
+21,Mass_AKT_Aligned,NP_001163767.1,2.4e-86,299.4,"protein C kinase 98E, isoform B [Droso"
+22,Mass_AKT_Aligned,NP_001287576.1,2.4e-86,299.4,"protein C kinase 98E, isoform C [Droso"
+23,Mass_AKT_Aligned,NP_001287577.1,2.4e-86,299.4,"protein C kinase 98E, isoform D [Droso"
+24,Mass_AKT_Aligned,NP_524545.2,2.4e-86,299.4,"protein C kinase 98E, isoform A [Droso"
+25,Mass_AKT_Aligned,NP_001097350.1,1.0000000000000001e-81,283.9,"protein C kinase 53E, isoform C [Droso"
+26,Mass_AKT_Aligned,NP_001246377.1,1.0000000000000001e-81,283.9,"protein C kinase 53E, isoform D [Droso"
+27,Mass_AKT_Aligned,NP_001246378.1,1.0000000000000001e-81,283.9,"protein C kinase 53E, isoform E [Droso"
+28,Mass_AKT_Aligned,NP_001261035.1,1.0000000000000001e-81,283.9,"protein C kinase 53E, isoform F [Droso"
+29,Mass_AKT_Aligned,NP_476682.1,1.0000000000000001e-81,283.9,"protein C kinase 53E, isoform A [Droso"
+30,Mass_AKT_Aligned,NP_725626.1,1.0000000000000001e-81,283.9,"protein C kinase 53E, isoform B [Droso"
+31,Mass_AKT_Aligned,NP_001138191.1,1.7e-79,276.6,"protein kinase C delta, isoform D [Dro"
+32,Mass_AKT_Aligned,NP_511171.3,1.7e-79,276.6,"protein kinase C delta, isoform C [Dro"
+33,Mass_AKT_Aligned,NP_001260985.1,2.1e-79,276.3,"atypical protein kinase C, isoform K ["
+34,Mass_AKT_Aligned,NP_001188939.1,9.7e-79,274.1,"atypical protein kinase C, isoform G ["
+35,Mass_AKT_Aligned,NP_001260984.1,9.7e-79,274.1,"atypical protein kinase C, isoform J ["
+36,Mass_AKT_Aligned,NP_001036543.1,1.1e-78,273.8,"atypical protein kinase C, isoform E ["
+37,Mass_AKT_Aligned,NP_001036541.1,6.8e-78,271.3,"atypical protein kinase C, isoform C ["
+38,Mass_AKT_Aligned,NP_524892.2,6.8e-78,271.3,"atypical protein kinase C, isoform A ["
+39,Mass_AKT_Aligned,NP_001036542.1,1.2e-77,270.4,"atypical protein kinase C, isoform F ["
+40,Mass_AKT_Aligned,NP_001260987.1,1.2e-77,270.4,"atypical protein kinase C, isoform M ["
+41,Mass_AKT_Aligned,NP_001260986.1,1.2e-77,270.4,"atypical protein kinase C, isoform L ["
+42,Mass_AKT_Aligned,NP_572797.3,2.9e-77,269.2,"protein kinase C delta, isoform E [Dro"
+43,Mass_AKT_Aligned,NP_001036544.1,5.1e-71,248.4,"atypical protein kinase C, isoform B ["
+44,Mass_AKT_Aligned,NP_001036545.1,2.9999999999999995e-70,245.9,"atypical protein kinase C, isoform D ["
+45,Mass_AKT_Aligned,NP_001188941.1,7.9e-67,234.5,"atypical protein kinase C, isoform I ["
+46,Mass_AKT_Aligned,NP_476863.1,4.499999999999999e-62,218.7,inactivation no afterpotential C [Dros
+47,Mass_AKT_Aligned,NP_001261450.1,8.4e-59,207.8,"ribosomal protein S6 kinase, isoform B"
+48,Mass_AKT_Aligned,NP_523941.2,8.4e-59,207.8,"ribosomal protein S6 kinase, isoform A"
+49,Mass_AKT_Aligned,NP_524097.2,1.2e-57,203.9,"protein kinase, cAMP-dependent, cataly"
+50,Mass_AKT_Aligned,NP_730083.2,1.2e-57,203.9,"protein kinase, cAMP-dependent, cataly"
+51,Mass_AKT_Aligned,NP_001259779.1,4e-57,202.3,"ribosomal protein S6 kinase II, isofor"
+52,Mass_AKT_Aligned,NP_523437.2,4e-57,202.3,"ribosomal protein S6 kinase II, isofor"
+53,Mass_AKT_Aligned,NP_001261697.1,8.000000000000001e-45,161.4,"JIL-1 kinase, isoform C [Drosophila me"
+54,Mass_AKT_Aligned,NP_648432.1,8.000000000000001e-45,161.4,"JIL-1 kinase, isoform B [Drosophila me"
+55,Mass_AKT_Aligned,NP_729661.1,8.000000000000001e-45,161.4,"JIL-1 kinase, isoform A [Drosophila me"
+56,Mass_AKT_Aligned,NP_001261884.1,3.8e-34,125.9,"drop out, isoform B [Drosophila melano"
+57,Mass_AKT_Aligned,NP_648778.1,3.8e-34,125.9,"drop out, isoform A [Drosophila melano"
+58,Mass_AKT_Aligned,NP_001036438.1,3.1999999999999997e-29,109.6,"G protein-coupled receptor kinase 1, i"
+59,Mass_AKT_Aligned,NP_001163051.1,3.1999999999999997e-29,109.6,"G protein-coupled receptor kinase 1, i"
+60,Mass_AKT_Aligned,NP_001286135.1,3.1999999999999997e-29,109.6,"G protein-coupled receptor kinase 1, i"
+61,Mass_AKT_Aligned,NP_476977.1,4.6e-25,95.8,"protein kinase, cAMP-dependent, cataly"
+62,Mass_AKT_Aligned,NP_723479.1,4.6e-25,95.8,"protein kinase, cAMP-dependent, cataly"
+63,Mass_AKT_Aligned,NP_995672.1,4.6e-25,95.8,"protein kinase, cAMP-dependent, cataly"
+64,Mass_AKT_Aligned,NP_001014464.1,4.9e-25,95.7,"foraging, isoform J [Drosophila melano"
+65,Mass_AKT_Aligned,NP_001162858.1,4.9e-25,95.7,"foraging, isoform K [Drosophila melano"
+66,Mass_AKT_Aligned,NP_001334731.1,4.9e-25,95.7,"foraging, isoform L [Drosophila melano"
+67,Mass_AKT_Aligned,NP_001356892.1,4.9e-25,95.7,"foraging, isoform M [Drosophila melano"
+68,Mass_AKT_Aligned,NP_001356896.1,4.9e-25,95.7,"foraging, isoform N [Drosophila melano"
+69,Mass_AKT_Aligned,NP_001356955.1,4.9e-25,95.7,"foraging, isoform O [Drosophila melano"
+70,Mass_AKT_Aligned,NP_477487.1,4.9e-25,95.7,"foraging, isoform A [Drosophila melano"
+71,Mass_AKT_Aligned,NP_477489.1,4.9e-25,95.7,"foraging, isoform C [Drosophila melano"
+72,Mass_AKT_Aligned,NP_477490.1,4.9e-25,95.7,"foraging, isoform E [Drosophila melano"
+73,Mass_AKT_Aligned,NP_599146.1,4.9e-25,95.7,"foraging, isoform D [Drosophila melano"
+74,Mass_AKT_Aligned,NP_995628.1,4.9e-25,95.7,"foraging, isoform H [Drosophila melano"
+75,Mass_AKT_Aligned,NP_995626.1,4.9e-25,95.7,"foraging, isoform I [Drosophila melano"
+76,Mass_AKT_Aligned,NP_995629.1,4.9e-25,95.7,"foraging, isoform G [Drosophila melano"
+77,Mass_AKT_Aligned,NP_609349.1,2.8e-21,83.2,"uncharacterized protein Dmel_CG4839, i"
+78,Mass_AKT_Aligned,NP_723525.1,2.8e-21,83.2,"uncharacterized protein Dmel_CG4839, i"
+79,Mass_AKT_Aligned,NP_477213.1,9.7e-20,78.1,"protein kinase, cGMP-dependent at 21D"
+80,Mass_AKT_Aligned,NP_001263143.1,3.7e-17,69.5,"G protein-coupled receptor kinase 2, i"
+81,Mass_AKT_Aligned,NP_476867.1,3.7e-17,69.5,"G protein-coupled receptor kinase 2, i"
+82,Mass_AKT_Aligned,NP_733403.1,5.8e-14,58.9,warts [Drosophila melanogaster]
+83,Mass_AKT_Aligned,NP_995893.1,1.9e-10,47.2,"par-1, isoform H [Drosophila melanogas"
+84,Mass_AKT_Aligned,NP_523837.2,7e-10,45.3,genghis khan [Drosophila melanogaster]
+85,Mass_AKT_Aligned,NP_001163211.1,2.1e-09,43.8,"par-1, isoform T [Drosophila melanogas"
+86,Mass_AKT_Aligned,NP_001163208.1,5.8e-09,42.3,"par-1, isoform P [Drosophila melanogas"
+87,Mass_AKT_Aligned,NP_733397.2,1.4e-08,41.0,"protein kinase, cAMP-dependent, cataly"
+88,Mass_AKT_Aligned,NP_001163209.1,1.7e-08,40.7,"par-1, isoform R [Drosophila melanogas"
+89,Mass_AKT_Aligned,NP_995899.2,2.3e-08,40.3,"par-1, isoform V [Drosophila melanogas"
+90,Mass_AKT_Aligned,NP_001163210.1,1.6e-06,34.1,"par-1, isoform S [Drosophila melanogas"
+91,Mass_AKT_Aligned,NP_001014540.2,2.5e-06,33.5,"par-1, isoform W [Drosophila melanogas"
+92,Mass_AKT_Aligned,NP_001014542.1,3.5e-06,33.0,"par-1, isoform L [Drosophila melanogas"
+93,Mass_AKT_Aligned,NP_995900.1,3.6e-06,33.0,"par-1, isoform A [Drosophila melanogas"
+94,Mass_AKT_Aligned,NP_995894.2,3.6e-06,33.0,"par-1, isoform X [Drosophila melanogas"
+95,Mass_AKT_Aligned,NP_524595.2,2.1e-05,30.5,"protein kinase, cAMP-dependent, cataly"
+96,Mass_AKT_Aligned,NP_651819.1,0.096,18.3,"uncharacterized protein Dmel_CG12069,"
+97,Mass_AKT_Aligned,NP_733396.3,0.096,18.3,"uncharacterized protein Dmel_CG12069,"
+98,Mass_AKT_Aligned,NP_001261768.1,0.099,18.2,"sticky, isoform B [Drosophila melanoga"
+99,Mass_AKT_Aligned,NP_569972.1,0.19,17.3,Salt-inducible kinase 2 [Drosophila me
+100,Mass_AKT_Aligned,NP_001285335.1,0.24,17.0,"Rho kinase, isoform B [Drosophila mela"
+101,Mass_AKT_Aligned,NP_001285336.1,0.24,17.0,"Rho kinase, isoform C [Drosophila mela"
+102,Mass_AKT_Aligned,NP_536796.2,0.24,17.0,"Rho kinase, isoform A [Drosophila mela"
+103,Mass_AKT_Aligned,NP_648584.1,0.28,16.7,"sticky, isoform A [Drosophila melanoga"
+104,Mass_AKT_Aligned,NP_788574.3,1.0,14.9,"uncharacterized protein Dmel_CG32944,"
+105,Mass_AKT_Aligned,NP_524170.2,3.4,13.1,"tricornered, isoform A [Drosophila mel"
+0,Mass_AKT_Aligned,NP_001014431.1,0.0,1307.3,RAC-alpha serine/threonine-protein kin
+1,Mass_AKT_Aligned,NP_001014432.1,0.0,1307.3,RAC-alpha serine/threonine-protein kin
+2,Mass_AKT_Aligned,NP_001369360.1,0.0,1307.3,RAC-alpha serine/threonine-protein kin
+3,Mass_AKT_Aligned,NP_001369361.1,0.0,1307.3,RAC-alpha serine/threonine-protein kin
+4,Mass_AKT_Aligned,NP_001369362.1,0.0,1307.3,RAC-alpha serine/threonine-protein kin
+5,Mass_AKT_Aligned,NP_001369359.1,0.0,1307.3,RAC-alpha serine/threonine-protein kin
+6,Mass_AKT_Aligned,NP_005154.2,0.0,1307.3,RAC-alpha serine/threonine-protein kin
+7,Mass_AKT_Aligned,XP_047287025.1,0.0,1307.3,RAC-alpha serine/threonine-protein kin
+8,Mass_AKT_Aligned,XP_047287026.1,0.0,1307.3,RAC-alpha serine/threonine-protein kin
+9,Mass_AKT_Aligned,XP_047287027.1,0.0,1307.3,RAC-alpha serine/threonine-protein kin
+10,Mass_AKT_Aligned,XP_047287028.1,0.0,1307.3,RAC-alpha serine/threonine-protein kin
+11,Mass_AKT_Aligned,XP_047287030.1,0.0,1307.3,RAC-alpha serine/threonine-protein kin
+12,Mass_AKT_Aligned,XP_047287031.1,0.0,1307.3,RAC-alpha serine/threonine-protein kin
+13,Mass_AKT_Aligned,XP_047287029.1,0.0,1307.3,RAC-alpha serine/threonine-protein kin
+14,Mass_AKT_Aligned,NP_001357003.1,0.0,1117.5,RAC-gamma serine/threonine-protein kin
+15,Mass_AKT_Aligned,NP_005456.1,0.0,1117.5,RAC-gamma serine/threonine-protein kin
+16,Mass_AKT_Aligned,XP_054184598.1,0.0,1117.5,RAC-gamma serine/threonine-protein kin
+17,Mass_AKT_Aligned,NP_001617.1,0.0,1108.7,RAC-beta serine/threonine-protein kina
+18,Mass_AKT_Aligned,NP_001193658.1,0.0,1050.3,RAC-gamma serine/threonine-protein kin
+19,Mass_AKT_Aligned,NP_859029.1,0.0,1050.3,RAC-gamma serine/threonine-protein kin
+20,Mass_AKT_Aligned,XP_047273315.1,8.3e-280,944.2,RAC-gamma serine/threonine-protein kin
+21,Mass_AKT_Aligned,XP_047275142.1,8.3e-280,944.2,RAC-gamma serine/threonine-protein kin
+22,Mass_AKT_Aligned,XP_047276597.1,8.3e-280,944.2,RAC-gamma serine/threonine-protein kin
+23,Mass_AKT_Aligned,XP_047278347.1,8.3e-280,944.2,RAC-gamma serine/threonine-protein kin
+24,Mass_AKT_Aligned,XP_047280288.1,8.3e-280,944.2,RAC-gamma serine/threonine-protein kin
+25,Mass_AKT_Aligned,XP_054184600.1,8.3e-280,944.2,RAC-gamma serine/threonine-protein kin
+26,Mass_AKT_Aligned,XP_054184601.1,8.3e-280,944.2,RAC-gamma serine/threonine-protein kin
+27,Mass_AKT_Aligned,XP_054184602.1,8.3e-280,944.2,RAC-gamma serine/threonine-protein kin
+28,Mass_AKT_Aligned,NP_001229956.1,9.6e-277,934.0,RAC-beta serine/threonine-protein kina
+29,Mass_AKT_Aligned,NP_001229957.1,9.6e-277,934.0,RAC-beta serine/threonine-protein kina
+30,Mass_AKT_Aligned,XP_047271599.1,8.500000000000001e-274,924.2,RAC-gamma serine/threonine-protein kin
+31,Mass_AKT_Aligned,XP_054184599.1,8.500000000000001e-274,924.2,RAC-gamma serine/threonine-protein kin
+32,Mass_AKT_Aligned,NP_001317440.1,7.1e-268,904.5,RAC-beta serine/threonine-protein kina
+33,Mass_AKT_Aligned,NP_001137148.1,1.7e-94,328.5,serine/threonine-protein kinase Sgk1 i
+34,Mass_AKT_Aligned,NP_001137149.1,2.7e-93,324.6,serine/threonine-protein kinase Sgk1 i
+35,Mass_AKT_Aligned,NP_001137150.1,5e-91,317.0,serine/threonine-protein kinase Sgk1 i
+36,Mass_AKT_Aligned,NP_001307637.1,6.2e-91,316.7,serine/threonine-protein kinase N2 iso
+37,Mass_AKT_Aligned,NP_001307636.1,6.2e-91,316.7,serine/threonine-protein kinase N2 iso
+38,Mass_AKT_Aligned,NP_001307638.1,6.2e-91,316.7,serine/threonine-protein kinase N2 iso
+39,Mass_AKT_Aligned,NP_006247.1,6.2e-91,316.7,serine/threonine-protein kinase N2 iso
+40,Mass_AKT_Aligned,XP_011540074.1,6.2e-91,316.7,serine/threonine-protein kinase N2 iso
+41,Mass_AKT_Aligned,XP_016857271.1,6.2e-91,316.7,serine/threonine-protein kinase N2 iso
+42,Mass_AKT_Aligned,XP_047281180.1,6.2e-91,316.7,serine/threonine-protein kinase N2 iso
+43,Mass_AKT_Aligned,NP_006246.2,7e-91,316.6,protein kinase C eta type [Homo sapien
+44,Mass_AKT_Aligned,XP_011535256.1,7e-91,316.6,protein kinase C eta type isoform X2 [
+45,Mass_AKT_Aligned,XP_011535257.1,7e-91,316.6,protein kinase C eta type isoform X3 [
+46,Mass_AKT_Aligned,XP_024305429.1,7e-91,316.6,protein kinase C eta type isoform X4 [
+47,Mass_AKT_Aligned,XP_024305430.1,7e-91,316.6,protein kinase C eta type isoform X4 [
+48,Mass_AKT_Aligned,XP_047287541.1,7e-91,316.6,protein kinase C eta type isoform X1 [
+49,Mass_AKT_Aligned,NP_005391.1,1.4e-90,315.5,protein kinase C epsilon type [Homo sa
+50,Mass_AKT_Aligned,XP_005264485.1,1.4e-90,315.5,protein kinase C epsilon type isoform
+51,Mass_AKT_Aligned,XP_011531277.1,1.4e-90,315.5,protein kinase C epsilon type isoform
+52,Mass_AKT_Aligned,XP_011531280.1,1.4e-90,315.5,protein kinase C epsilon type isoform
+53,Mass_AKT_Aligned,XP_011531282.1,1.4e-90,315.5,protein kinase C epsilon type isoform
+54,Mass_AKT_Aligned,XP_011531283.1,1.4e-90,315.5,protein kinase C epsilon type isoform
+55,Mass_AKT_Aligned,XP_011531284.1,1.4e-90,315.5,protein kinase C epsilon type isoform
+56,Mass_AKT_Aligned,XP_011531273.1,1.4e-90,315.5,protein kinase C epsilon type isoform
+57,Mass_AKT_Aligned,XP_016859979.1,1.4e-90,315.5,protein kinase C epsilon type isoform
+58,Mass_AKT_Aligned,XP_016859977.1,1.4e-90,315.5,protein kinase C epsilon type isoform
+59,Mass_AKT_Aligned,XP_047301050.1,1.4e-90,315.5,protein kinase C epsilon type isoform
+60,Mass_AKT_Aligned,XP_047301051.1,1.4e-90,315.5,protein kinase C epsilon type isoform
+61,Mass_AKT_Aligned,XP_047301055.1,1.4e-90,315.5,protein kinase C epsilon type isoform
+62,Mass_AKT_Aligned,XP_047301053.1,1.4e-90,315.5,protein kinase C epsilon type isoform
+63,Mass_AKT_Aligned,XP_047301052.1,1.4e-90,315.5,protein kinase C epsilon type isoform
+64,Mass_AKT_Aligned,XP_047301054.1,1.4e-90,315.5,protein kinase C epsilon type isoform
+65,Mass_AKT_Aligned,XP_024302660.1,6.899999999999999e-90,313.3,RAC-gamma serine/threonine-protein kin
+66,Mass_AKT_Aligned,XP_054184603.1,6.899999999999999e-90,313.3,RAC-gamma serine/threonine-protein kin
+67,Mass_AKT_Aligned,NP_001028750.1,5.7e-89,310.2,serine/threonine-protein kinase Sgk3 i
+68,Mass_AKT_Aligned,NP_001191102.1,5.7e-89,310.2,serine/threonine-protein kinase Sgk3 [
+69,Mass_AKT_Aligned,NP_037389.4,5.7e-89,310.2,serine/threonine-protein kinase Sgk3 i
+70,Mass_AKT_Aligned,NP_997700.1,3.9e-88,307.4,protein kinase C beta type isoform 1 [
+71,Mass_AKT_Aligned,NP_002728.2,1.4e-86,302.3,protein kinase C alpha type [Homo sapi
+72,Mass_AKT_Aligned,XP_016880326.1,1.4e-86,302.3,protein kinase C alpha type isoform X2
+73,Mass_AKT_Aligned,XP_024306598.1,1.4e-86,302.3,protein kinase C alpha type isoform X3
+74,Mass_AKT_Aligned,XP_024306597.1,1.4e-86,302.3,protein kinase C alpha type isoform X3
+75,Mass_AKT_Aligned,XP_047292344.1,1.4e-86,302.3,protein kinase C alpha type isoform X4
+76,Mass_AKT_Aligned,XP_006712113.1,2.9000000000000003e-86,301.2,protein kinase C epsilon type isoform
+77,Mass_AKT_Aligned,NP_005618.2,1.4e-85,298.9,serine/threonine-protein kinase Sgk1 i
+78,Mass_AKT_Aligned,NP_002731.4,2.8999999999999997e-84,294.5,protein kinase C iota type [Homo sapie
+79,Mass_AKT_Aligned,NP_002729.2,2.3e-83,291.6,protein kinase C beta type isoform 2 [
+80,Mass_AKT_Aligned,XP_047290321.1,2.3e-83,291.6,protein kinase C beta type isoform X1
+81,Mass_AKT_Aligned,XP_047304531.1,7.5e-83,289.9,protein kinase C iota type isoform X2
+82,Mass_AKT_Aligned,XP_011531285.1,1.5e-82,288.9,protein kinase C epsilon type isoform
+83,Mass_AKT_Aligned,NP_002732.3,7.8e-82,286.5,serine/threonine-protein kinase N1 iso
+84,Mass_AKT_Aligned,NP_998725.1,7.8e-82,286.5,serine/threonine-protein kinase N1 iso
+85,Mass_AKT_Aligned,XP_047281239.1,6.700000000000001e-80,280.1,protein kinase C zeta type isoform X9
+86,Mass_AKT_Aligned,NP_001229803.1,3.3e-79,277.8,protein kinase C zeta type isoform 3 [
+87,Mass_AKT_Aligned,NP_002735.3,4.4e-79,277.4,protein kinase C zeta type isoform 1 [
+88,Mass_AKT_Aligned,XP_047281211.1,4.4e-79,277.4,protein kinase C zeta type isoform X4
+89,Mass_AKT_Aligned,XP_047281218.1,4.4e-79,277.4,protein kinase C zeta type isoform X6
+90,Mass_AKT_Aligned,NP_001269573.1,8.8e-76,266.4,protein kinase C theta type isoform 3
+91,Mass_AKT_Aligned,NP_001269574.1,8.8e-76,266.4,protein kinase C theta type isoform 4
+92,Mass_AKT_Aligned,NP_001310195.1,8.8e-76,266.4,protein kinase C theta type isoform 4
+93,Mass_AKT_Aligned,NP_001310194.1,8.8e-76,266.4,protein kinase C theta type isoform 1
+94,Mass_AKT_Aligned,NP_006248.1,8.8e-76,266.4,protein kinase C theta type isoform 1
+95,Mass_AKT_Aligned,XP_005252553.1,8.8e-76,266.4,protein kinase C theta type isoform X1
+96,Mass_AKT_Aligned,XP_016857279.1,6.7e-75,263.5,protein kinase C zeta type isoform X2
+97,Mass_AKT_Aligned,XP_016880325.1,4.6000000000000004e-74,260.7,protein kinase C alpha type isoform X1
+98,Mass_AKT_Aligned,NP_001303256.1,2.1e-72,255.1,protein kinase C delta type isoform c
+99,Mass_AKT_Aligned,NP_001341608.1,2.1e-72,255.1,protein kinase C delta type isoform c
+100,Mass_AKT_Aligned,NP_001341609.1,2.1e-72,255.1,protein kinase C delta type isoform c
+101,Mass_AKT_Aligned,NP_001341607.1,2.1e-72,255.1,protein kinase C delta type isoform b
+102,Mass_AKT_Aligned,NP_001341605.1,2.1e-72,255.1,protein kinase C delta type isoform a
+103,Mass_AKT_Aligned,NP_006245.2,2.1e-72,255.1,protein kinase C delta type isoform c
+104,Mass_AKT_Aligned,NP_997704.1,2.1e-72,255.1,protein kinase C delta type isoform c
+105,Mass_AKT_Aligned,XP_047304520.1,2.1e-72,255.1,protein kinase C delta type isoform X1
+106,Mass_AKT_Aligned,NP_001303258.1,2.8e-70,248.1,protein kinase C gamma type isoform 1
+107,Mass_AKT_Aligned,NP_002730.1,2.8e-70,248.1,protein kinase C gamma type isoform 2
+108,Mass_AKT_Aligned,XP_047295048.1,2.8e-70,248.1,protein kinase C gamma type isoform X1
+109,Mass_AKT_Aligned,NP_037487.2,4.299999999999999e-68,240.9,serine/threonine-protein kinase N3 iso
+110,Mass_AKT_Aligned,XP_005252003.1,4.299999999999999e-68,240.9,serine/threonine-protein kinase N3 iso
+111,Mass_AKT_Aligned,XP_006717143.1,4.299999999999999e-68,240.9,serine/threonine-protein kinase N3 iso
+112,Mass_AKT_Aligned,XP_016870139.1,4.299999999999999e-68,240.9,serine/threonine-protein kinase N3 iso
+113,Mass_AKT_Aligned,XP_047279234.1,4.299999999999999e-68,240.9,serine/threonine-protein kinase N3 iso
+114,Mass_AKT_Aligned,XP_047279235.1,4.299999999999999e-68,240.9,serine/threonine-protein kinase N3 iso
+115,Mass_AKT_Aligned,NP_001258972.1,3.9999999999999997e-63,224.3,ribosomal protein S6 kinase beta-1 iso
+116,Mass_AKT_Aligned,NP_003152.1,3.9999999999999997e-63,224.3,ribosomal protein S6 kinase beta-1 iso
+117,Mass_AKT_Aligned,XP_011540076.1,1.3e-62,222.6,protein kinase C zeta type isoform X8
+118,Mass_AKT_Aligned,XP_011540075.1,1.5999999999999999e-62,222.4,protein kinase C zeta type isoform X3
+119,Mass_AKT_Aligned,NP_001186193.1,9.2e-62,219.8,serine/threonine-protein kinase Sgk2 [
+120,Mass_AKT_Aligned,NP_057360.3,9.2e-62,219.8,serine/threonine-protein kinase Sgk2 [
+121,Mass_AKT_Aligned,NP_733794.1,9.2e-62,219.8,serine/threonine-protein kinase Sgk2 [
+122,Mass_AKT_Aligned,NP_733827.2,3.2000000000000003e-59,211.4,serine/threonine-protein kinase Sgk3 i
+123,Mass_AKT_Aligned,XP_016857278.1,2.4e-58,208.5,protein kinase C zeta type isoform X1
+124,Mass_AKT_Aligned,XP_047281216.1,2.4e-58,208.5,protein kinase C zeta type isoform X5
+125,Mass_AKT_Aligned,XP_006715612.1,7.8e-58,206.8,ribosomal protein S6 kinase alpha-2 is
+126,Mass_AKT_Aligned,XP_047281229.1,1.1e-57,206.2,protein kinase C zeta type isoform X7
+127,Mass_AKT_Aligned,XP_011542316.1,1.3000000000000002e-57,206.0,RAC-gamma serine/threonine-protein kin
+128,Mass_AKT_Aligned,XP_054184604.1,1.3000000000000002e-57,206.0,RAC-gamma serine/threonine-protein kin
+129,Mass_AKT_Aligned,NP_001310196.1,3.5000000000000005e-57,204.6,protein kinase C theta type isoform 5
+130,Mass_AKT_Aligned,XP_005252554.1,3.5000000000000005e-57,204.6,protein kinase C theta type isoform X2
+131,Mass_AKT_Aligned,NP_001028753.1,5.4e-57,204.0,protein kinase C zeta type isoform 2 [
+132,Mass_AKT_Aligned,NP_001028754.1,5.4e-57,204.0,protein kinase C zeta type isoform 2 [
+133,Mass_AKT_Aligned,XP_047281304.1,5.4e-57,204.0,protein kinase C zeta type isoform X15
+134,Mass_AKT_Aligned,NP_001258989.1,1.7999999999999997e-55,198.9,ribosomal protein S6 kinase beta-1 iso
+135,Mass_AKT_Aligned,NP_001305865.2,6.6e-55,197.0,ribosomal protein S6 kinase alpha-2 is
+136,Mass_AKT_Aligned,NP_003943.2,4.7e-54,194.2,ribosomal protein S6 kinase beta-2 [Ho
+137,Mass_AKT_Aligned,NP_001337732.1,7.9e-53,190.1,protein kinase C zeta type isoform 4 [
+138,Mass_AKT_Aligned,NP_001337733.1,7.9e-53,190.1,protein kinase C zeta type isoform 4 [
+139,Mass_AKT_Aligned,XP_047281279.1,7.9e-53,190.1,protein kinase C zeta type isoform X11
+140,Mass_AKT_Aligned,NP_001356598.1,1.8e-52,189.0,ribosomal protein S6 kinase beta-1 iso
+141,Mass_AKT_Aligned,XP_016884912.1,7.1e-50,180.3,ribosomal protein S6 kinase alpha-6 is
+142,Mass_AKT_Aligned,XP_016884913.1,7.1e-50,180.3,ribosomal protein S6 kinase alpha-6 is
+143,Mass_AKT_Aligned,XP_016884914.1,7.1e-50,180.3,ribosomal protein S6 kinase alpha-6 is
+144,Mass_AKT_Aligned,NP_001006933.3,9e-50,180.0,ribosomal protein S6 kinase alpha-2 is
+145,Mass_AKT_Aligned,NP_001258971.1,1.9e-49,178.9,ribosomal protein S6 kinase beta-1 iso
+146,Mass_AKT_Aligned,NP_004577.1,2.0000000000000003e-49,178.9,ribosomal protein S6 kinase alpha-3 is
+147,Mass_AKT_Aligned,XP_005274630.1,2.0000000000000003e-49,178.9,ribosomal protein S6 kinase alpha-3 is
+148,Mass_AKT_Aligned,XP_047298289.1,2.0000000000000003e-49,178.9,ribosomal protein S6 kinase alpha-3 is
+149,Mass_AKT_Aligned,XP_047298288.1,2.0000000000000003e-49,178.9,ribosomal protein S6 kinase alpha-3 is
+150,Mass_AKT_Aligned,NP_001006666.1,7.4e-49,176.9,ribosomal protein S6 kinase alpha-1 is
+151,Mass_AKT_Aligned,XP_047283214.1,7.4e-49,176.9,ribosomal protein S6 kinase alpha-1 is
+152,Mass_AKT_Aligned,XP_054187513.1,7.4e-49,176.9,ribosomal protein S6 kinase alpha-1 is
+153,Mass_AKT_Aligned,NP_001278924.1,2.6000000000000002e-48,175.1,serine/threonine-protein kinase Sgk1 i
+154,Mass_AKT_Aligned,NP_066958.2,5.5e-48,174.1,ribosomal protein S6 kinase alpha-2 is
+155,Mass_AKT_Aligned,NP_001291278.1,2.7e-46,168.4,cAMP-dependent protein kinase catalyti
+156,Mass_AKT_Aligned,XP_047275189.1,1.3e-45,166.1,ribosomal protein S6 kinase alpha-2 is
+157,Mass_AKT_Aligned,NP_002944.2,1.6e-45,165.9,ribosomal protein S6 kinase alpha-1 is
+158,Mass_AKT_Aligned,XP_011543858.1,2.2e-45,165.4,ribosomal protein S6 kinase alpha-3 is
+159,Mass_AKT_Aligned,XP_011543857.1,2.2e-45,165.4,ribosomal protein S6 kinase alpha-3 is
+160,Mass_AKT_Aligned,NP_001258973.1,4.4e-45,164.4,ribosomal protein S6 kinase beta-1 iso
+161,Mass_AKT_Aligned,NP_001317441.1,2.1000000000000003e-44,162.1,ribosomal protein S6 kinase alpha-6 is
+162,Mass_AKT_Aligned,XP_011529219.1,2.1000000000000003e-44,162.1,ribosomal protein S6 kinase alpha-6 is
+163,Mass_AKT_Aligned,NP_891993.1,6.5e-44,160.5,cAMP-dependent protein kinase catalyti
+164,Mass_AKT_Aligned,NP_055311.1,9.8e-44,159.9,ribosomal protein S6 kinase alpha-6 is
+165,Mass_AKT_Aligned,NP_001317370.1,3.9e-42,154.6,ribosomal protein S6 kinase alpha-1 is
+166,Mass_AKT_Aligned,XP_011539371.1,3.9999999999999995e-42,154.6,microtubule-associated serine/threonin
+167,Mass_AKT_Aligned,XP_047306097.1,3.9999999999999995e-42,154.6,microtubule-associated serine/threonin
+168,Mass_AKT_Aligned,XP_047306098.1,3.9999999999999995e-42,154.6,microtubule-associated serine/threonin
+169,Mass_AKT_Aligned,XP_047306101.1,3.9999999999999995e-42,154.6,microtubule-associated serine/threonin
+170,Mass_AKT_Aligned,XP_047306105.1,3.9999999999999995e-42,154.6,microtubule-associated serine/threonin
+171,Mass_AKT_Aligned,XP_047306109.1,3.9999999999999995e-42,154.6,microtubule-associated serine/threonin
+172,Mass_AKT_Aligned,XP_047306106.1,3.9999999999999995e-42,154.6,microtubule-associated serine/threonin
+173,Mass_AKT_Aligned,XP_011523404.1,1.1999999999999999e-41,153.0,ribosomal protein S6 kinase beta-1 iso
+174,Mass_AKT_Aligned,XP_047275190.1,2.7e-41,151.8,ribosomal protein S6 kinase alpha-2 is
+175,Mass_AKT_Aligned,XP_011540078.1,1.9e-40,149.0,protein kinase C zeta type isoform X14
+176,Mass_AKT_Aligned,XP_024304164.1,1.9e-40,149.0,protein kinase C zeta type isoform X14
+177,Mass_AKT_Aligned,XP_047281296.1,1.9e-40,149.0,protein kinase C zeta type isoform X14
+178,Mass_AKT_Aligned,NP_001380445.1,2.8e-40,148.5,microtubule-associated serine/threonin
+179,Mass_AKT_Aligned,NP_001380442.1,2.8e-40,148.5,microtubule-associated serine/threonin
+180,Mass_AKT_Aligned,NP_001380450.1,2.8e-40,148.5,microtubule-associated serine/threonin
+181,Mass_AKT_Aligned,NP_001380449.1,2.8e-40,148.5,microtubule-associated serine/threonin
+182,Mass_AKT_Aligned,NP_001380434.1,2.8e-40,148.5,microtubule-associated serine/threonin
+183,Mass_AKT_Aligned,NP_001380436.1,2.8e-40,148.5,microtubule-associated serine/threonin
+184,Mass_AKT_Aligned,NP_001380447.1,2.8e-40,148.5,microtubule-associated serine/threonin
+185,Mass_AKT_Aligned,NP_001380448.1,2.8e-40,148.5,microtubule-associated serine/threonin
+186,Mass_AKT_Aligned,NP_001380446.1,2.8e-40,148.5,microtubule-associated serine/threonin
+187,Mass_AKT_Aligned,NP_055831.1,2.8e-40,148.5,microtubule-associated serine/threonin
+188,Mass_AKT_Aligned,XP_016881999.1,2.8e-40,148.5,microtubule-associated serine/threonin
+189,Mass_AKT_Aligned,XP_016882005.1,2.8e-40,148.5,microtubule-associated serine/threonin
+190,Mass_AKT_Aligned,XP_016881998.1,2.8e-40,148.5,microtubule-associated serine/threonin
+191,Mass_AKT_Aligned,XP_047294436.1,2.8e-40,148.5,microtubule-associated serine/threonin
+192,Mass_AKT_Aligned,XP_047294437.1,2.8e-40,148.5,microtubule-associated serine/threonin
+193,Mass_AKT_Aligned,XP_047294429.1,2.8e-40,148.5,microtubule-associated serine/threonin
+194,Mass_AKT_Aligned,XP_047294432.1,2.8e-40,148.5,microtubule-associated serine/threonin
+195,Mass_AKT_Aligned,XP_047294438.1,2.8e-40,148.5,microtubule-associated serine/threonin
+196,Mass_AKT_Aligned,XP_047294433.1,2.8e-40,148.5,microtubule-associated serine/threonin
+197,Mass_AKT_Aligned,XP_047294440.1,2.8e-40,148.5,microtubule-associated serine/threonin
+198,Mass_AKT_Aligned,XP_047294441.1,2.8e-40,148.5,microtubule-associated serine/threonin
+199,Mass_AKT_Aligned,NP_001380441.1,5.4e-40,147.5,microtubule-associated serine/threonin
+200,Mass_AKT_Aligned,NP_001311250.1,5.7e-40,147.4,microtubule-associated serine/threonin
+201,Mass_AKT_Aligned,NP_001311249.1,5.7e-40,147.4,microtubule-associated serine/threonin
+202,Mass_AKT_Aligned,NP_055927.2,5.7e-40,147.4,microtubule-associated serine/threonin
+203,Mass_AKT_Aligned,XP_005270713.1,5.7e-40,147.4,microtubule-associated serine/threonin
+204,Mass_AKT_Aligned,XP_005270712.1,5.7e-40,147.4,microtubule-associated serine/threonin
+205,Mass_AKT_Aligned,XP_006710540.1,5.7e-40,147.4,microtubule-associated serine/threonin
+206,Mass_AKT_Aligned,XP_011539361.1,5.7e-40,147.4,microtubule-associated serine/threonin
+207,Mass_AKT_Aligned,XP_011539365.1,5.7e-40,147.4,microtubule-associated serine/threonin
+208,Mass_AKT_Aligned,XP_011539364.1,5.7e-40,147.4,microtubule-associated serine/threonin
+209,Mass_AKT_Aligned,XP_011539370.1,5.7e-40,147.4,microtubule-associated serine/threonin
+210,Mass_AKT_Aligned,XP_011539366.1,5.7e-40,147.4,microtubule-associated serine/threonin
+211,Mass_AKT_Aligned,XP_011539369.1,5.7e-40,147.4,microtubule-associated serine/threonin
+212,Mass_AKT_Aligned,XP_016856241.1,5.7e-40,147.4,microtubule-associated serine/threonin
+213,Mass_AKT_Aligned,XP_016856242.1,5.7e-40,147.4,microtubule-associated serine/threonin
+214,Mass_AKT_Aligned,XP_016856244.1,5.7e-40,147.4,microtubule-associated serine/threonin
+215,Mass_AKT_Aligned,XP_047306072.1,5.7e-40,147.4,microtubule-associated serine/threonin
+216,Mass_AKT_Aligned,XP_047306077.1,5.7e-40,147.4,microtubule-associated serine/threonin
+217,Mass_AKT_Aligned,XP_047306086.1,5.7e-40,147.4,microtubule-associated serine/threonin
+218,Mass_AKT_Aligned,XP_047306079.1,5.7e-40,147.4,microtubule-associated serine/threonin
+219,Mass_AKT_Aligned,XP_047306094.1,5.7e-40,147.4,microtubule-associated serine/threonin
+220,Mass_AKT_Aligned,XP_047306061.1,5.7e-40,147.4,microtubule-associated serine/threonin
+221,Mass_AKT_Aligned,NP_001380435.1,6.1e-40,147.3,microtubule-associated serine/threonin
+222,Mass_AKT_Aligned,NP_001380438.1,6.1e-40,147.3,microtubule-associated serine/threonin
+223,Mass_AKT_Aligned,NP_001380430.1,6.1e-40,147.3,microtubule-associated serine/threonin
+224,Mass_AKT_Aligned,NP_001380432.1,6.1e-40,147.3,microtubule-associated serine/threonin
+225,Mass_AKT_Aligned,NP_001380437.1,6.1e-40,147.3,microtubule-associated serine/threonin
+226,Mass_AKT_Aligned,NP_001380443.1,6.1e-40,147.3,microtubule-associated serine/threonin
+227,Mass_AKT_Aligned,NP_001380444.1,6.1e-40,147.3,microtubule-associated serine/threonin
+228,Mass_AKT_Aligned,NP_001380433.1,6.1e-40,147.3,microtubule-associated serine/threonin
+229,Mass_AKT_Aligned,NP_001380439.1,6.1e-40,147.3,microtubule-associated serine/threonin
+230,Mass_AKT_Aligned,NP_001380440.1,6.1e-40,147.3,microtubule-associated serine/threonin
+231,Mass_AKT_Aligned,NP_001380431.1,6.1e-40,147.3,microtubule-associated serine/threonin
+232,Mass_AKT_Aligned,XP_006722762.2,6.1e-40,147.3,microtubule-associated serine/threonin
+233,Mass_AKT_Aligned,XP_016881996.1,6.1e-40,147.3,microtubule-associated serine/threonin
+234,Mass_AKT_Aligned,XP_016881997.1,6.1e-40,147.3,microtubule-associated serine/threonin
+235,Mass_AKT_Aligned,XP_016881995.1,6.1e-40,147.3,microtubule-associated serine/threonin
+236,Mass_AKT_Aligned,XP_047294431.1,6.1e-40,147.3,microtubule-associated serine/threonin
+237,Mass_AKT_Aligned,XP_047294439.1,6.1e-40,147.3,microtubule-associated serine/threonin
+238,Mass_AKT_Aligned,XP_047294434.1,6.1e-40,147.3,microtubule-associated serine/threonin
+239,Mass_AKT_Aligned,XP_047294430.1,6.1e-40,147.3,microtubule-associated serine/threonin
+240,Mass_AKT_Aligned,XP_047294435.1,6.1e-40,147.3,microtubule-associated serine/threonin
+241,Mass_AKT_Aligned,NP_001306174.1,6.4e-40,147.3,microtubule-associated serine/threonin
+242,Mass_AKT_Aligned,XP_011539363.1,6.4e-40,147.3,microtubule-associated serine/threonin
+243,Mass_AKT_Aligned,XP_047306052.1,6.4e-40,147.3,microtubule-associated serine/threonin
+244,Mass_AKT_Aligned,XP_047306067.1,6.4e-40,147.3,microtubule-associated serine/threonin
+245,Mass_AKT_Aligned,XP_047306078.1,6.4e-40,147.3,microtubule-associated serine/threonin
+246,Mass_AKT_Aligned,XP_047306085.1,6.4e-40,147.3,microtubule-associated serine/threonin
+247,Mass_AKT_Aligned,XP_005274634.1,4.6e-39,144.4,ribosomal protein S6 kinase alpha-3 is
+248,Mass_AKT_Aligned,XP_016885207.1,4.6e-39,144.4,ribosomal protein S6 kinase alpha-3 is
+249,Mass_AKT_Aligned,NP_001425269.1,6.1e-39,144.0,ribosomal protein S6 kinase alpha-3 is
+250,Mass_AKT_Aligned,XP_016885208.1,6.1e-39,144.0,ribosomal protein S6 kinase alpha-3 is
+251,Mass_AKT_Aligned,XP_047298290.1,6.1e-39,144.0,ribosomal protein S6 kinase alpha-3 is
+252,Mass_AKT_Aligned,XP_047298291.1,6.1e-39,144.0,ribosomal protein S6 kinase alpha-3 is
+253,Mass_AKT_Aligned,XP_047298292.1,6.1e-39,144.0,ribosomal protein S6 kinase alpha-3 is
+254,Mass_AKT_Aligned,NP_001337734.1,1.3e-38,142.9,protein kinase C zeta type isoform 5 [
+255,Mass_AKT_Aligned,NP_001337735.1,1.3e-38,142.9,protein kinase C zeta type isoform 5 [
+256,Mass_AKT_Aligned,NP_055790.1,8.7e-37,136.8,microtubule-associated serine/threonin
+257,Mass_AKT_Aligned,XP_024303706.1,9e-37,136.8,RAC-gamma serine/threonine-protein kin
+258,Mass_AKT_Aligned,XP_054184605.1,9e-37,136.8,RAC-gamma serine/threonine-protein kin
+259,Mass_AKT_Aligned,NP_005151.2,9.9e-37,136.7,G protein-coupled receptor kinase 3 is
+260,Mass_AKT_Aligned,XP_016857281.1,2.7e-36,135.2,protein kinase C zeta type isoform X10
+261,Mass_AKT_Aligned,XP_016857282.1,2.7e-36,135.2,protein kinase C zeta type isoform X10
+262,Mass_AKT_Aligned,XP_024304159.1,2.7e-36,135.2,protein kinase C zeta type isoform X10
+263,Mass_AKT_Aligned,XP_047281260.1,2.7e-36,135.2,protein kinase C zeta type isoform X10
+264,Mass_AKT_Aligned,XP_047281263.1,2.7e-36,135.2,protein kinase C zeta type isoform X10
+265,Mass_AKT_Aligned,XP_011543864.1,4.2e-35,131.2,ribosomal protein S6 kinase alpha-3 is
+266,Mass_AKT_Aligned,XP_011543859.1,6.5e-35,130.6,ribosomal protein S6 kinase alpha-3 is
+267,Mass_AKT_Aligned,XP_011543862.1,6.5e-35,130.6,ribosomal protein S6 kinase alpha-3 is
+268,Mass_AKT_Aligned,XP_011543863.1,6.5e-35,130.6,ribosomal protein S6 kinase alpha-3 is
+269,Mass_AKT_Aligned,XP_016857286.1,8.4e-35,130.3,protein kinase C zeta type isoform X12
+270,Mass_AKT_Aligned,NP_001309158.1,1.6e-34,129.3,ribosomal protein S6 kinase alpha-5 is
+271,Mass_AKT_Aligned,NP_004746.2,1.6e-34,129.3,ribosomal protein S6 kinase alpha-5 is
+272,Mass_AKT_Aligned,NP_872198.1,1.6e-34,129.3,ribosomal protein S6 kinase alpha-5 is
+273,Mass_AKT_Aligned,XP_047297953.1,2.4e-34,128.7,ribosomal protein S6 kinase alpha-6 is
+274,Mass_AKT_Aligned,XP_047297952.1,2.4e-34,128.7,ribosomal protein S6 kinase alpha-6 is
+275,Mass_AKT_Aligned,NP_001356601.1,4.0000000000000006e-34,128.0,ribosomal protein S6 kinase beta-1 iso
+276,Mass_AKT_Aligned,XP_047297122.1,1e-33,126.7,G protein-coupled receptor kinase 3 is
+277,Mass_AKT_Aligned,NP_001277156.1,1.9999999999999998e-32,122.4,microtubule-associated serine/threonin
+278,Mass_AKT_Aligned,NP_001380457.1,1.9999999999999998e-32,122.4,microtubule-associated serine/threonin
+279,Mass_AKT_Aligned,NP_001380454.1,1.9999999999999998e-32,122.4,microtubule-associated serine/threonin
+280,Mass_AKT_Aligned,NP_001380456.1,1.9999999999999998e-32,122.4,microtubule-associated serine/threonin
+281,Mass_AKT_Aligned,NP_001380455.1,1.9999999999999998e-32,122.4,microtubule-associated serine/threonin
+282,Mass_AKT_Aligned,XP_047273117.1,1.9999999999999998e-32,122.4,microtubule-associated serine/threonin
+283,Mass_AKT_Aligned,XP_047273116.1,1.9999999999999998e-32,122.4,microtubule-associated serine/threonin
+284,Mass_AKT_Aligned,XP_047273114.1,1.9999999999999998e-32,122.4,microtubule-associated serine/threonin
+285,Mass_AKT_Aligned,XP_047273118.1,1.9999999999999998e-32,122.4,microtubule-associated serine/threonin
+286,Mass_AKT_Aligned,XP_047273119.1,1.9999999999999998e-32,122.4,microtubule-associated serine/threonin
+287,Mass_AKT_Aligned,NP_001304855.1,1.3e-31,119.7,serine/threonine-protein kinase N3 iso
+288,Mass_AKT_Aligned,XP_016870138.1,1.3e-31,119.7,serine/threonine-protein kinase N3 iso
+289,Mass_AKT_Aligned,NP_001158136.1,2.4e-31,118.8,microtubule-associated serine/threonin
+290,Mass_AKT_Aligned,NP_001277155.1,2.4e-31,118.8,microtubule-associated serine/threonin
+291,Mass_AKT_Aligned,NP_001284580.1,2.4e-31,118.8,microtubule-associated serine/threonin
+292,Mass_AKT_Aligned,NP_001380453.1,2.4e-31,118.8,microtubule-associated serine/threonin
+293,Mass_AKT_Aligned,NP_055998.1,2.4e-31,118.8,microtubule-associated serine/threonin
+294,Mass_AKT_Aligned,XP_006714669.1,2.4e-31,118.8,microtubule-associated serine/threonin
+295,Mass_AKT_Aligned,XP_011541687.1,2.4e-31,118.8,microtubule-associated serine/threonin
+296,Mass_AKT_Aligned,XP_011541688.1,2.4e-31,118.8,microtubule-associated serine/threonin
+297,Mass_AKT_Aligned,XP_011541686.1,2.4e-31,118.8,microtubule-associated serine/threonin
+298,Mass_AKT_Aligned,XP_016864941.1,2.4e-31,118.8,microtubule-associated serine/threonin
+299,Mass_AKT_Aligned,XP_016864938.1,2.4e-31,118.8,microtubule-associated serine/threonin
+300,Mass_AKT_Aligned,XP_016864942.1,2.4e-31,118.8,microtubule-associated serine/threonin
+301,Mass_AKT_Aligned,XP_016864939.1,2.4e-31,118.8,microtubule-associated serine/threonin
+302,Mass_AKT_Aligned,XP_024301812.1,2.4e-31,118.8,microtubule-associated serine/threonin
+303,Mass_AKT_Aligned,XP_047273121.1,2.4e-31,118.8,microtubule-associated serine/threonin
+304,Mass_AKT_Aligned,XP_047273115.1,2.4e-31,118.8,microtubule-associated serine/threonin
+305,Mass_AKT_Aligned,XP_047273113.1,2.4e-31,118.8,microtubule-associated serine/threonin
+306,Mass_AKT_Aligned,XP_047273120.1,2.4e-31,118.8,microtubule-associated serine/threonin
+307,Mass_AKT_Aligned,NP_005299.1,3.3e-31,118.3,G protein-coupled receptor kinase 5 [H
+308,Mass_AKT_Aligned,NP_001229786.1,6.0000000000000005e-31,117.5,cAMP-dependent protein kinase catalyti
+309,Mass_AKT_Aligned,NP_001004105.1,2.6000000000000002e-30,115.3,G protein-coupled receptor kinase 6 is
+310,Mass_AKT_Aligned,NP_001004106.1,2.6000000000000002e-30,115.3,G protein-coupled receptor kinase 6 is
+311,Mass_AKT_Aligned,NP_002073.2,2.6000000000000002e-30,115.3,G protein-coupled receptor kinase 6 is
+312,Mass_AKT_Aligned,NP_001091982.1,5.9000000000000005e-30,114.2,cGMP-dependent protein kinase 1 isofor
+313,Mass_AKT_Aligned,NP_006249.1,5.9000000000000005e-30,114.2,cGMP-dependent protein kinase 1 isofor
+314,Mass_AKT_Aligned,XP_016871902.1,5.9000000000000005e-30,114.2,cGMP-dependent protein kinase 1 isofor
+315,Mass_AKT_Aligned,NP_001229789.1,2.7e-29,112.0,cAMP-dependent protein kinase catalyti
+316,Mass_AKT_Aligned,NP_001229788.1,3.6e-29,111.6,cAMP-dependent protein kinase catalyti
+317,Mass_AKT_Aligned,XP_047273082.1,8.5e-29,110.3,G protein-coupled receptor kinase 6 is
+318,Mass_AKT_Aligned,XP_006714922.1,2.7000000000000003e-28,108.6,G protein-coupled receptor kinase 6 is
+319,Mass_AKT_Aligned,NP_001362489.1,4.0000000000000003e-28,108.1,cAMP-dependent protein kinase catalyti
+320,Mass_AKT_Aligned,XP_006714921.1,4.1e-28,108.0,G protein-coupled receptor kinase 6 is
+321,Mass_AKT_Aligned,NP_002721.1,5.500000000000001e-28,107.6,cAMP-dependent protein kinase catalyti
+322,Mass_AKT_Aligned,NP_001229342.1,9.400000000000001e-28,106.8,protein kinase C theta type isoform 2
+323,Mass_AKT_Aligned,NP_001610.2,1.4e-27,106.3,beta-adrenergic receptor kinase 1 [Hom
+324,Mass_AKT_Aligned,NP_002722.1,1.6000000000000001e-27,106.1,cAMP-dependent protein kinase catalyti
+325,Mass_AKT_Aligned,NP_001004056.1,1.8e-27,105.9,G protein-coupled receptor kinase 4 is
+326,Mass_AKT_Aligned,NP_001356599.1,6.1e-27,104.2,ribosomal protein S6 kinase beta-1 iso
+327,Mass_AKT_Aligned,NP_892027.2,6.6e-27,104.0,G protein-coupled receptor kinase 4 is
+328,Mass_AKT_Aligned,NP_001362491.1,1.2e-26,103.2,cAMP-dependent protein kinase catalyti
+329,Mass_AKT_Aligned,XP_011543075.1,1.5e-26,102.8,beta-adrenergic receptor kinase 1 isof
+330,Mass_AKT_Aligned,NP_001362490.1,6.2e-26,100.8,cAMP-dependent protein kinase catalyti
+331,Mass_AKT_Aligned,NP_997401.1,6.6e-26,100.7,cAMP-dependent protein kinase catalyti
+332,Mass_AKT_Aligned,NP_005298.2,1.4e-25,99.6,G protein-coupled receptor kinase 4 is
+333,Mass_AKT_Aligned,NP_001356600.1,2.6999999999999997e-25,98.7,ribosomal protein S6 kinase beta-1 iso
+334,Mass_AKT_Aligned,NP_001362493.1,3.1999999999999997e-25,98.5,cAMP-dependent protein kinase catalyti
+335,Mass_AKT_Aligned,NP_001362492.1,3.4e-25,98.3,cAMP-dependent protein kinase catalyti
+336,Mass_AKT_Aligned,NP_001004057.1,5.399999999999999e-25,97.7,G protein-coupled receptor kinase 4 is
+337,Mass_AKT_Aligned,NP_001350330.1,5.8e-25,97.6,cGMP-dependent protein kinase 2 isofor
+338,Mass_AKT_Aligned,NP_006250.1,5.8e-25,97.6,cGMP-dependent protein kinase 2 isofor
+339,Mass_AKT_Aligned,XP_016863904.2,5.8e-25,97.6,cGMP-dependent protein kinase 2 isofor
+340,Mass_AKT_Aligned,XP_016863905.2,5.8e-25,97.6,cGMP-dependent protein kinase 2 isofor
+341,Mass_AKT_Aligned,XP_047271919.1,5.8e-25,97.6,cGMP-dependent protein kinase 2 isofor
+342,Mass_AKT_Aligned,NP_002723.2,5.199999999999999e-24,94.4,cAMP-dependent protein kinase catalyti
+343,Mass_AKT_Aligned,NP_001229787.1,2.3000000000000003e-22,88.9,cAMP-dependent protein kinase catalyti
+344,Mass_AKT_Aligned,NP_001362494.1,3.8e-22,88.2,cAMP-dependent protein kinase catalyti
+345,Mass_AKT_Aligned,XP_016857291.1,4e-22,88.1,protein kinase C zeta type isoform X17
+346,Mass_AKT_Aligned,NP_001006945.1,4.4e-22,88.0,ribosomal protein S6 kinase alpha-4 is
+347,Mass_AKT_Aligned,NP_001287731.1,4.4e-22,88.0,ribosomal protein S6 kinase alpha-4 is
+348,Mass_AKT_Aligned,NP_003933.1,4.4e-22,88.0,ribosomal protein S6 kinase alpha-4 is
+349,Mass_AKT_Aligned,NP_001229791.1,1.2e-21,86.5,cAMP-dependent protein kinase catalyti
+350,Mass_AKT_Aligned,NP_001309162.1,4.9e-19,77.9,ribosomal protein S6 kinase alpha-5 is
+351,Mass_AKT_Aligned,NP_001309165.1,1.3e-18,76.5,ribosomal protein S6 kinase alpha-5 is
+352,Mass_AKT_Aligned,XP_011511751.1,3e-18,75.3,G protein-coupled receptor kinase 4 is
+353,Mass_AKT_Aligned,XP_011511750.1,3e-18,75.3,G protein-coupled receptor kinase 4 is
+354,Mass_AKT_Aligned,XP_011511749.1,3e-18,75.3,G protein-coupled receptor kinase 4 is
+355,Mass_AKT_Aligned,XP_024304165.1,5.6e-18,74.4,protein kinase C zeta type isoform X16
+356,Mass_AKT_Aligned,NP_002920.1,7.2e-18,74.0,rhodopsin kinase GRK1 [Homo sapiens]
+357,Mass_AKT_Aligned,XP_016863541.1,1.8e-17,72.7,G protein-coupled receptor kinase 4 is
+358,Mass_AKT_Aligned,XP_011511752.1,2.4e-16,68.9,G protein-coupled receptor kinase 4 is
+359,Mass_AKT_Aligned,NP_005035.1,4.6e-16,68.0,cAMP-dependent protein kinase catalyti
+360,Mass_AKT_Aligned,NP_001337269.1,6.2e-14,60.9,serine/threonine-protein kinase LATS1
+361,Mass_AKT_Aligned,NP_001337321.1,6.2e-14,60.9,serine/threonine-protein kinase LATS1
+362,Mass_AKT_Aligned,NP_004681.1,6.2e-14,60.9,serine/threonine-protein kinase LATS1
+363,Mass_AKT_Aligned,XP_047275474.1,6.2e-14,60.9,serine/threonine-protein kinase LATS1
+364,Mass_AKT_Aligned,NP_001269414.1,6.3e-14,60.9,cGMP-dependent protein kinase 2 isofor
+365,Mass_AKT_Aligned,NP_001349707.1,1.2e-13,60.0,G protein-coupled receptor kinase 3 is
+366,Mass_AKT_Aligned,XP_011520823.1,9.3e-13,57.0,3-phosphoinositide-dependent protein k
+367,Mass_AKT_Aligned,NP_055387.2,2.5e-12,55.6,serine/threonine-protein kinase LATS2
+368,Mass_AKT_Aligned,XP_005266399.1,2.5e-12,55.6,serine/threonine-protein kinase LATS2
+369,Mass_AKT_Aligned,XP_011533344.1,2.5e-12,55.6,serine/threonine-protein kinase LATS2
+370,Mass_AKT_Aligned,XP_016876030.1,2.5e-12,55.6,serine/threonine-protein kinase LATS2
+371,Mass_AKT_Aligned,XP_047286222.1,2.5e-12,55.6,serine/threonine-protein kinase LATS2
+372,Mass_AKT_Aligned,XP_016863544.1,3.8e-09,45.0,G protein-coupled receptor kinase 4 is
+373,Mass_AKT_Aligned,XP_016863543.1,1e-08,43.6,G protein-coupled receptor kinase 4 is
+374,Mass_AKT_Aligned,NP_001397983.1,1.3e-08,43.3,serine/threonine-protein kinase MRCK b
+375,Mass_AKT_Aligned,NP_006026.3,1.3e-08,43.3,serine/threonine-protein kinase MRCK b
+376,Mass_AKT_Aligned,XP_005268287.1,1.3e-08,43.3,serine/threonine-protein kinase MRCK b
+377,Mass_AKT_Aligned,XP_005268285.1,1.3e-08,43.3,serine/threonine-protein kinase MRCK b
+378,Mass_AKT_Aligned,XP_005268284.1,1.3e-08,43.3,serine/threonine-protein kinase MRCK b
+379,Mass_AKT_Aligned,XP_011535689.1,1.3e-08,43.3,serine/threonine-protein kinase MRCK b
+380,Mass_AKT_Aligned,XP_047287937.1,1.3e-08,43.3,serine/threonine-protein kinase MRCK b
+381,Mass_AKT_Aligned,XP_047287938.1,1.3e-08,43.3,serine/threonine-protein kinase MRCK b
+382,Mass_AKT_Aligned,XP_011511755.1,4.7e-08,41.4,G protein-coupled receptor kinase 4 is
+383,Mass_AKT_Aligned,NP_631948.1,8.4e-08,40.6,rhodopsin kinase GRK7 [Homo sapiens]
+384,Mass_AKT_Aligned,XP_047303405.1,8.4e-08,40.6,rhodopsin kinase GRK7 isoform X1 [Homo
+385,Mass_AKT_Aligned,NP_001275693.1,3.8e-07,38.4,myotonin-protein kinase isoform 5 [Hom
+386,Mass_AKT_Aligned,NP_001411092.1,3.8e-07,38.4,myotonin-protein kinase isoform 10 [Ho
+387,Mass_AKT_Aligned,NP_001352940.1,2e-06,36.0,serine/threonine-protein kinase MRCK a
+388,Mass_AKT_Aligned,NP_001352939.1,2e-06,36.0,serine/threonine-protein kinase MRCK a
+389,Mass_AKT_Aligned,NP_001352948.1,2e-06,36.0,serine/threonine-protein kinase MRCK a
+390,Mass_AKT_Aligned,NP_001374479.1,2e-06,36.0,serine/threonine-protein kinase MRCK a
+391,Mass_AKT_Aligned,NP_001380943.1,2e-06,36.0,serine/threonine-protein kinase MRCK a
+392,Mass_AKT_Aligned,NP_003598.2,2e-06,36.0,serine/threonine-protein kinase MRCK a
+393,Mass_AKT_Aligned,NP_055641.3,2e-06,36.0,serine/threonine-protein kinase MRCK a
+394,Mass_AKT_Aligned,XP_005273374.1,2e-06,36.0,serine/threonine-protein kinase MRCK a
+395,Mass_AKT_Aligned,XP_005273378.1,2e-06,36.0,serine/threonine-protein kinase MRCK a
+396,Mass_AKT_Aligned,XP_005273377.1,2e-06,36.0,serine/threonine-protein kinase MRCK a
+397,Mass_AKT_Aligned,XP_006711898.1,2e-06,36.0,serine/threonine-protein kinase MRCK a
+398,Mass_AKT_Aligned,XP_005273375.1,2e-06,36.0,serine/threonine-protein kinase MRCK a
+399,Mass_AKT_Aligned,XP_006711897.1,2e-06,36.0,serine/threonine-protein kinase MRCK a
+400,Mass_AKT_Aligned,XP_011542611.1,2e-06,36.0,serine/threonine-protein kinase MRCK a
+401,Mass_AKT_Aligned,XP_011542610.1,2e-06,36.0,serine/threonine-protein kinase MRCK a
+402,Mass_AKT_Aligned,XP_011542609.1,2e-06,36.0,serine/threonine-protein kinase MRCK a
+403,Mass_AKT_Aligned,XP_016858071.1,2e-06,36.0,serine/threonine-protein kinase MRCK a
+404,Mass_AKT_Aligned,XP_016858067.1,2e-06,36.0,serine/threonine-protein kinase MRCK a
+405,Mass_AKT_Aligned,XP_047288323.1,2e-06,36.0,serine/threonine-protein kinase MRCK a
+406,Mass_AKT_Aligned,XP_047288321.1,2e-06,36.0,serine/threonine-protein kinase MRCK a
+407,Mass_AKT_Aligned,XP_047288320.1,2e-06,36.0,serine/threonine-protein kinase MRCK a
+408,Mass_AKT_Aligned,XP_047288313.1,2e-06,36.0,serine/threonine-protein kinase MRCK a
+409,Mass_AKT_Aligned,XP_047288334.1,2e-06,36.0,serine/threonine-protein kinase MRCK a
+410,Mass_AKT_Aligned,NP_001193928.1,2.7e-06,35.6,citron Rho-interacting kinase isoform
+411,Mass_AKT_Aligned,NP_009105.1,2.7e-06,35.6,citron Rho-interacting kinase isoform
+412,Mass_AKT_Aligned,XP_006719269.1,2.7e-06,35.6,citron Rho-interacting kinase isoform
+413,Mass_AKT_Aligned,XP_011536085.1,2.7e-06,35.6,citron Rho-interacting kinase isoform
+414,Mass_AKT_Aligned,XP_011536086.1,2.7e-06,35.6,citron Rho-interacting kinase isoform
+415,Mass_AKT_Aligned,XP_011536089.1,2.7e-06,35.6,citron Rho-interacting kinase isoform
+416,Mass_AKT_Aligned,XP_011536090.1,2.7e-06,35.6,citron Rho-interacting kinase isoform
+417,Mass_AKT_Aligned,XP_011536087.1,2.7e-06,35.6,citron Rho-interacting kinase isoform
+418,Mass_AKT_Aligned,XP_016874225.1,2.7e-06,35.6,citron Rho-interacting kinase isoform
+419,Mass_AKT_Aligned,XP_016874226.1,2.7e-06,35.6,citron Rho-interacting kinase isoform
+420,Mass_AKT_Aligned,XP_016874224.1,2.7e-06,35.6,citron Rho-interacting kinase isoform
+421,Mass_AKT_Aligned,XP_047284090.1,2.7e-06,35.6,citron Rho-interacting kinase isoform
+422,Mass_AKT_Aligned,NP_005397.1,2.5e-05,32.3,rho-associated protein kinase 1 [Homo
+423,Mass_AKT_Aligned,XP_047283799.1,0.00022,29.2,ribosomal protein S6 kinase alpha-4 is
+424,Mass_AKT_Aligned,NP_001337268.1,0.00022,29.2,serine/threonine-protein kinase LATS1
+425,Mass_AKT_Aligned,XP_016866963.1,0.00022,29.2,serine/threonine-protein kinase LATS1
+426,Mass_AKT_Aligned,XP_024302351.1,0.00022,29.2,serine/threonine-protein kinase LATS1
+427,Mass_AKT_Aligned,XP_047275477.1,0.00022,29.2,serine/threonine-protein kinase LATS1
+428,Mass_AKT_Aligned,XP_047275473.1,0.00022,29.2,serine/threonine-protein kinase LATS1
+429,Mass_AKT_Aligned,NP_001309157.1,0.00023,29.1,ribosomal protein S6 kinase alpha-5 is
+430,Mass_AKT_Aligned,NP_001229790.1,0.00024,29.1,cAMP-dependent protein kinase catalyti
+431,Mass_AKT_Aligned,NP_001305867.1,0.00043,28.2,ribosomal protein S6 kinase alpha-2 is
+432,Mass_AKT_Aligned,XP_047275191.1,0.00043,28.2,ribosomal protein S6 kinase alpha-2 is
+433,Mass_AKT_Aligned,XP_005274437.1,0.00045,28.2,ribosomal protein S6 kinase alpha-4 is
+434,Mass_AKT_Aligned,XP_047283800.1,0.00046,28.2,ribosomal protein S6 kinase alpha-4 is
+435,Mass_AKT_Aligned,NP_001411093.1,0.0017,26.2,myotonin-protein kinase isoform 8 [Hom
+436,Mass_AKT_Aligned,NP_001411094.1,0.0017,26.2,myotonin-protein kinase isoform 11 [Ho
+437,Mass_AKT_Aligned,NP_001411091.1,0.0017,26.2,myotonin-protein kinase isoform 14 [Ho
+438,Mass_AKT_Aligned,NP_001411097.1,0.0017,26.2,myotonin-protein kinase isoform 15 [Ho
+439,Mass_AKT_Aligned,NP_004400.4,0.0017,26.2,myotonin-protein kinase isoform 2 [Hom
+440,Mass_AKT_Aligned,NP_001075029.1,0.0072,24.2,myotonin-protein kinase isoform 3 [Hom
+441,Mass_AKT_Aligned,NP_001075031.1,0.0072,24.2,myotonin-protein kinase isoform 4 [Hom
+442,Mass_AKT_Aligned,NP_001275695.1,0.0072,24.2,myotonin-protein kinase isoform 7 [Hom
+443,Mass_AKT_Aligned,NP_001411098.1,0.0072,24.2,myotonin-protein kinase isoform 13 [Ho
+444,Mass_AKT_Aligned,NP_001075032.1,0.0077,24.1,myotonin-protein kinase isoform 1 [Hom
+445,Mass_AKT_Aligned,NP_001339328.1,0.016,23.0,serine/threonine-protein kinase 33 iso
+446,Mass_AKT_Aligned,XP_047283426.1,0.016,23.0,serine/threonine-protein kinase 33 iso
+447,Mass_AKT_Aligned,XP_047283427.1,0.016,23.0,serine/threonine-protein kinase 33 iso
+448,Mass_AKT_Aligned,XP_047283431.1,0.016,23.0,serine/threonine-protein kinase 33 iso
+449,Mass_AKT_Aligned,XP_047283428.1,0.016,23.0,serine/threonine-protein kinase 33 iso
+450,Mass_AKT_Aligned,XP_047283430.1,0.016,23.0,serine/threonine-protein kinase 33 iso
+451,Mass_AKT_Aligned,XP_047283429.1,0.016,23.0,serine/threonine-protein kinase 33 iso
+452,Mass_AKT_Aligned,XP_024304639.1,0.019,22.8,ribosomal protein S6 kinase alpha-1 is
+453,Mass_AKT_Aligned,XP_054187514.1,0.019,22.8,ribosomal protein S6 kinase alpha-1 is
+454,Mass_AKT_Aligned,NP_001275990.1,0.032,22.0,serine/threonine-protein kinase 33 iso
+455,Mass_AKT_Aligned,NP_001339317.1,0.032,22.0,serine/threonine-protein kinase 33 iso
+456,Mass_AKT_Aligned,NP_001339318.1,0.032,22.0,serine/threonine-protein kinase 33 iso
+457,Mass_AKT_Aligned,NP_001339319.1,0.032,22.0,serine/threonine-protein kinase 33 iso
+458,Mass_AKT_Aligned,NP_001339320.1,0.032,22.0,serine/threonine-protein kinase 33 iso
+459,Mass_AKT_Aligned,NP_001339321.1,0.032,22.0,serine/threonine-protein kinase 33 iso
+460,Mass_AKT_Aligned,NP_001339322.1,0.032,22.0,serine/threonine-protein kinase 33 iso
+461,Mass_AKT_Aligned,NP_001339316.1,0.032,22.0,serine/threonine-protein kinase 33 iso
+462,Mass_AKT_Aligned,NP_112168.1,0.032,22.0,serine/threonine-protein kinase 33 iso
+463,Mass_AKT_Aligned,XP_011518592.1,0.032,22.0,serine/threonine-protein kinase 33 iso
+464,Mass_AKT_Aligned,XP_016873633.1,0.032,22.0,serine/threonine-protein kinase 33 iso
+465,Mass_AKT_Aligned,XP_016873635.1,0.032,22.0,serine/threonine-protein kinase 33 iso
+466,Mass_AKT_Aligned,XP_016873643.1,0.032,22.0,serine/threonine-protein kinase 33 iso
+467,Mass_AKT_Aligned,XP_016873644.1,0.032,22.0,serine/threonine-protein kinase 33 iso
+468,Mass_AKT_Aligned,XP_016873634.1,0.032,22.0,serine/threonine-protein kinase 33 iso
+469,Mass_AKT_Aligned,XP_047283405.1,0.032,22.0,serine/threonine-protein kinase 33 iso
+470,Mass_AKT_Aligned,XP_047283406.1,0.032,22.0,serine/threonine-protein kinase 33 iso
+471,Mass_AKT_Aligned,XP_047283408.1,0.032,22.0,serine/threonine-protein kinase 33 iso
+472,Mass_AKT_Aligned,XP_047283409.1,0.032,22.0,serine/threonine-protein kinase 33 iso
+473,Mass_AKT_Aligned,XP_047283410.1,0.032,22.0,serine/threonine-protein kinase 33 iso
+474,Mass_AKT_Aligned,XP_047283411.1,0.032,22.0,serine/threonine-protein kinase 33 iso
+475,Mass_AKT_Aligned,XP_047283412.1,0.032,22.0,serine/threonine-protein kinase 33 iso
+476,Mass_AKT_Aligned,XP_047283413.1,0.032,22.0,serine/threonine-protein kinase 33 iso
+477,Mass_AKT_Aligned,XP_047283415.1,0.032,22.0,serine/threonine-protein kinase 33 iso
+478,Mass_AKT_Aligned,XP_047283417.1,0.032,22.0,serine/threonine-protein kinase 33 iso
+479,Mass_AKT_Aligned,XP_047283418.1,0.032,22.0,serine/threonine-protein kinase 33 iso
+480,Mass_AKT_Aligned,XP_047283403.1,0.032,22.0,serine/threonine-protein kinase 33 iso
+481,Mass_AKT_Aligned,XP_047283416.1,0.032,22.0,serine/threonine-protein kinase 33 iso
+482,Mass_AKT_Aligned,XP_047283407.1,0.032,22.0,serine/threonine-protein kinase 33 iso
+483,Mass_AKT_Aligned,XP_047283404.1,0.032,22.0,serine/threonine-protein kinase 33 iso
+484,Mass_AKT_Aligned,XP_047283414.1,0.032,22.0,serine/threonine-protein kinase 33 iso
+485,Mass_AKT_Aligned,XP_047290154.1,0.034,21.9,3-phosphoinositide-dependent protein k
+486,Mass_AKT_Aligned,XP_011511753.1,0.12,20.1,G protein-coupled receptor kinase 4 is
+487,Mass_AKT_Aligned,XP_011511754.1,0.12,20.1,G protein-coupled receptor kinase 4 is
+488,Mass_AKT_Aligned,NP_004841.2,0.15,19.8,rho-associated protein kinase 2 isofor
+489,Mass_AKT_Aligned,XP_005246247.1,0.15,19.8,rho-associated protein kinase 2 isofor
+490,Mass_AKT_Aligned,XP_016860867.1,0.15,19.8,rho-associated protein kinase 2 isofor
+491,Mass_AKT_Aligned,NP_001248745.1,0.21,19.3,3-phosphoinositide-dependent protein k
+492,Mass_AKT_Aligned,NP_002604.1,0.21,19.3,3-phosphoinositide-dependent protein k
+493,Mass_AKT_Aligned,XP_011511756.1,5.6,14.6,G protein-coupled receptor kinase 4 is
+0,Mass_AKT_Aligned,NP_593737.2,1.4e-90,310.8,protein kinase C (PKC)-like Pck1 [Schi
+1,Mass_AKT_Aligned,NP_595950.1,2.1e-90,310.2,protein kinase C (PKC)-like Pck2 [Schi
+2,Mass_AKT_Aligned,NP_594840.1,1.9e-77,267.2,serine/threonine protein kinase S6K fa
+3,Mass_AKT_Aligned,NP_588010.1,3.1e-77,266.5,serine/threonine protein kinase (AGC f
+4,Mass_AKT_Aligned,NP_593754.1,4.1e-77,266.1,serine/threonine protein kinase S6K fa
+5,Mass_AKT_Aligned,NP_595159.1,2.2e-44,157.4,cAMP-dependent protein kinase catalyti
+6,Mass_AKT_Aligned,NP_587830.1,2.1e-39,140.8,serine/threonine protein kinase S6K fa
+7,Mass_AKT_Aligned,NP_593065.1,4.7e-24,89.8,serine/threonine protein kinase Ppk14
+8,Mass_AKT_Aligned,NP_596726.1,2.8000000000000003e-23,87.2,serine/threonine protein kinase Ppk22
+9,Mass_AKT_Aligned,NP_593165.1,9e-12,49.0,serine/threonine protein kinase Orb6 [
+10,Mass_AKT_Aligned,NP_588283.1,2.2e-08,37.7,protein kinase Mug27/Slk1 [Schizosacch
+11,Mass_AKT_Aligned,NP_592848.1,0.0047,20.0,serine/threonine protein kinase (NDR f
+12,Mass_AKT_Aligned,NP_001018270.2,7.7,9.4,serine/threonine protein kinase Ppk18
+0,Mass_AKT_Aligned,NP_009445.2,3.3000000000000003e-81,279.9,protein kinase C [Saccharomyces cerevi
+1,Mass_AKT_Aligned,NP_012075.1,3e-79,273.4,serine/threonine protein kinase SCH9 [
+2,Mass_AKT_Aligned,NP_012796.1,1.2e-78,271.5,serine/threonine protein kinase YPK1 [
+3,Mass_AKT_Aligned,NP_013822.1,5.7e-75,259.2,putative protein kinase YPK2 [Saccharo
+4,Mass_AKT_Aligned,NP_012755.1,3.7e-33,120.3,cAMP-dependent protein kinase catalyti
+5,Mass_AKT_Aligned,NP_010015.3,1.5e-31,115.0,putative serine/threonine protein kina
+6,Mass_AKT_Aligned,NP_012371.2,4.1e-31,113.5,cAMP-dependent protein kinase catalyti
+7,Mass_AKT_Aligned,NP_015121.1,4.1e-30,110.2,cAMP-dependent protein kinase catalyti
+8,Mass_AKT_Aligned,NP_014445.1,2.6e-29,107.5,serine/threonine protein kinase FPK1 [
+9,Mass_AKT_Aligned,NP_014238.3,1.2e-16,65.5,serine/threonine protein kinase CBK1 [
+10,Mass_AKT_Aligned,NP_009584.1,6.5e-11,46.4,putative protein kinase YPK3 [Saccharo
+11,Mass_AKT_Aligned,NP_014541.1,0.096,15.9,serine/threonine protein kinase PKH2 [
+0,Mass_AKT_Aligned,NP_001014431.1,0.0,1307.3,RAC-alpha serine/threonine-protein kin
+1,Mass_AKT_Aligned,NP_001014432.1,0.0,1307.3,RAC-alpha serine/threonine-protein kin
+2,Mass_AKT_Aligned,NP_001369359.1,0.0,1307.3,RAC-alpha serine/threonine-protein kin
+3,Mass_AKT_Aligned,NP_001369360.1,0.0,1307.3,RAC-alpha serine/threonine-protein kin
+4,Mass_AKT_Aligned,NP_001369361.1,0.0,1307.3,RAC-alpha serine/threonine-protein kin
+5,Mass_AKT_Aligned,NP_001369362.1,0.0,1307.3,RAC-alpha serine/threonine-protein kin
+6,Mass_AKT_Aligned,NP_005154.2,0.0,1307.3,RAC-alpha serine/threonine-protein kin
+7,Mass_AKT_Aligned,XP_054231528.1,0.0,1307.3,RAC-alpha serine/threonine-protein kin
+8,Mass_AKT_Aligned,XP_054231529.1,0.0,1307.3,RAC-alpha serine/threonine-protein kin
+9,Mass_AKT_Aligned,XP_054231531.1,0.0,1307.3,RAC-alpha serine/threonine-protein kin
+10,Mass_AKT_Aligned,XP_054231532.1,0.0,1307.3,RAC-alpha serine/threonine-protein kin
+11,Mass_AKT_Aligned,XP_054231533.1,0.0,1307.3,RAC-alpha serine/threonine-protein kin
+12,Mass_AKT_Aligned,XP_054231530.1,0.0,1307.3,RAC-alpha serine/threonine-protein kin
+13,Mass_AKT_Aligned,NP_001357003.1,0.0,1117.5,RAC-gamma serine/threonine-protein kin
+14,Mass_AKT_Aligned,NP_005456.1,0.0,1117.5,RAC-gamma serine/threonine-protein kin
+15,Mass_AKT_Aligned,XP_054189659.1,0.0,1117.5,RAC-gamma serine/threonine-protein kin
+16,Mass_AKT_Aligned,NP_001617.1,0.0,1108.7,RAC-beta serine/threonine-protein kina
+17,Mass_AKT_Aligned,NP_001193658.1,0.0,1050.3,RAC-gamma serine/threonine-protein kin
+18,Mass_AKT_Aligned,NP_859029.1,0.0,1050.3,RAC-gamma serine/threonine-protein kin
+19,Mass_AKT_Aligned,XP_054189661.1,7.899999999999999e-280,944.2,RAC-gamma serine/threonine-protein kin
+20,Mass_AKT_Aligned,XP_054189662.1,7.899999999999999e-280,944.2,RAC-gamma serine/threonine-protein kin
+21,Mass_AKT_Aligned,XP_054189663.1,7.899999999999999e-280,944.2,RAC-gamma serine/threonine-protein kin
+22,Mass_AKT_Aligned,NP_001229956.1,9.2e-277,934.0,RAC-beta serine/threonine-protein kina
+23,Mass_AKT_Aligned,NP_001229957.1,9.2e-277,934.0,RAC-beta serine/threonine-protein kina
+24,Mass_AKT_Aligned,XP_054189660.1,8.100000000000001e-274,924.2,RAC-gamma serine/threonine-protein kin
+25,Mass_AKT_Aligned,NP_001317440.1,6.8e-268,904.5,RAC-beta serine/threonine-protein kina
+26,Mass_AKT_Aligned,NP_001137148.1,1.6e-94,328.5,serine/threonine-protein kinase Sgk1 i
+27,Mass_AKT_Aligned,NP_001137149.1,2.6e-93,324.6,serine/threonine-protein kinase Sgk1 i
+28,Mass_AKT_Aligned,NP_001137150.1,4.7999999999999997e-91,317.0,serine/threonine-protein kinase Sgk1 i
+29,Mass_AKT_Aligned,NP_001307636.1,5.9e-91,316.7,serine/threonine-protein kinase N2 iso
+30,Mass_AKT_Aligned,NP_001307638.1,5.9e-91,316.7,serine/threonine-protein kinase N2 iso
+31,Mass_AKT_Aligned,NP_001307637.1,5.9e-91,316.7,serine/threonine-protein kinase N2 iso
+32,Mass_AKT_Aligned,NP_006247.1,5.9e-91,316.7,serine/threonine-protein kinase N2 iso
+33,Mass_AKT_Aligned,XP_054193640.1,5.9e-91,316.7,serine/threonine-protein kinase N2 iso
+34,Mass_AKT_Aligned,XP_054193639.1,5.9e-91,316.7,serine/threonine-protein kinase N2 iso
+35,Mass_AKT_Aligned,XP_054193638.1,5.9e-91,316.7,serine/threonine-protein kinase N2 iso
+36,Mass_AKT_Aligned,XP_054193637.1,5.9e-91,316.7,serine/threonine-protein kinase N2 iso
+37,Mass_AKT_Aligned,XP_054193636.1,5.9e-91,316.7,serine/threonine-protein kinase N2 iso
+38,Mass_AKT_Aligned,NP_006246.2,6.6e-91,316.6,protein kinase C eta type [Homo sapien
+39,Mass_AKT_Aligned,XP_054232364.1,6.6e-91,316.6,protein kinase C eta type isoform X4 [
+40,Mass_AKT_Aligned,XP_054232365.1,6.6e-91,316.6,protein kinase C eta type isoform X4 [
+41,Mass_AKT_Aligned,XP_054232361.1,6.6e-91,316.6,protein kinase C eta type isoform X1 [
+42,Mass_AKT_Aligned,XP_054232363.1,6.6e-91,316.6,protein kinase C eta type isoform X3 [
+43,Mass_AKT_Aligned,XP_054232362.1,6.6e-91,316.6,protein kinase C eta type isoform X2 [
+44,Mass_AKT_Aligned,NP_005391.1,1.4e-90,315.5,protein kinase C epsilon type [Homo sa
+45,Mass_AKT_Aligned,XP_054198948.1,1.4e-90,315.5,protein kinase C epsilon type isoform
+46,Mass_AKT_Aligned,XP_054198949.1,1.4e-90,315.5,protein kinase C epsilon type isoform
+47,Mass_AKT_Aligned,XP_054198950.1,1.4e-90,315.5,protein kinase C epsilon type isoform
+48,Mass_AKT_Aligned,XP_054198951.1,1.4e-90,315.5,protein kinase C epsilon type isoform
+49,Mass_AKT_Aligned,XP_054198952.1,1.4e-90,315.5,protein kinase C epsilon type isoform
+50,Mass_AKT_Aligned,XP_054198953.1,1.4e-90,315.5,protein kinase C epsilon type isoform
+51,Mass_AKT_Aligned,XP_054198954.1,1.4e-90,315.5,protein kinase C epsilon type isoform
+52,Mass_AKT_Aligned,XP_054198956.1,1.4e-90,315.5,protein kinase C epsilon type isoform
+53,Mass_AKT_Aligned,XP_054198957.1,1.4e-90,315.5,protein kinase C epsilon type isoform
+54,Mass_AKT_Aligned,XP_054198958.1,1.4e-90,315.5,protein kinase C epsilon type isoform
+55,Mass_AKT_Aligned,XP_054198959.1,1.4e-90,315.5,protein kinase C epsilon type isoform
+56,Mass_AKT_Aligned,XP_054198960.1,1.4e-90,315.5,protein kinase C epsilon type isoform
+57,Mass_AKT_Aligned,XP_054198961.1,1.4e-90,315.5,protein kinase C epsilon type isoform
+58,Mass_AKT_Aligned,XP_054198962.1,1.4e-90,315.5,protein kinase C epsilon type isoform
+59,Mass_AKT_Aligned,XP_054198947.1,1.4e-90,315.5,protein kinase C epsilon type isoform
+60,Mass_AKT_Aligned,XP_054198955.1,1.4e-90,315.5,protein kinase C epsilon type isoform
+61,Mass_AKT_Aligned,XP_054189664.1,6.599999999999999e-90,313.3,RAC-gamma serine/threonine-protein kin
+62,Mass_AKT_Aligned,NP_001028750.1,5.4000000000000005e-89,310.2,serine/threonine-protein kinase Sgk3 i
+63,Mass_AKT_Aligned,NP_001191102.1,5.4000000000000005e-89,310.2,serine/threonine-protein kinase Sgk3 [
+64,Mass_AKT_Aligned,NP_037389.4,5.4000000000000005e-89,310.2,serine/threonine-protein kinase Sgk3 i
+65,Mass_AKT_Aligned,NP_997700.1,3.7e-88,307.4,protein kinase C beta type isoform 1 [
+66,Mass_AKT_Aligned,XP_054172618.1,9.900000000000001e-87,302.7,protein kinase C alpha type isoform X3
+67,Mass_AKT_Aligned,XP_054172619.1,9.900000000000001e-87,302.7,protein kinase C alpha type isoform X3
+68,Mass_AKT_Aligned,XP_054172617.1,9.900000000000001e-87,302.7,protein kinase C alpha type isoform X2
+69,Mass_AKT_Aligned,XP_054172620.1,9.900000000000001e-87,302.7,protein kinase C alpha type isoform X4
+70,Mass_AKT_Aligned,NP_002728.2,1.3e-86,302.3,protein kinase C alpha type [Homo sapi
+71,Mass_AKT_Aligned,XP_054198965.1,2.8e-86,301.2,protein kinase C epsilon type isoform
+72,Mass_AKT_Aligned,NP_005618.2,1.4e-85,298.9,serine/threonine-protein kinase Sgk1 i
+73,Mass_AKT_Aligned,NP_002731.4,2.8e-84,294.5,protein kinase C iota type [Homo sapie
+74,Mass_AKT_Aligned,NP_002729.2,2.1999999999999997e-83,291.6,protein kinase C beta type isoform 2 [
+75,Mass_AKT_Aligned,XP_054169447.1,2.1999999999999997e-83,291.6,protein kinase C beta type isoform X1
+76,Mass_AKT_Aligned,XP_054203229.1,7.099999999999999e-83,289.9,protein kinase C iota type isoform X2
+77,Mass_AKT_Aligned,XP_054198966.1,1.3999999999999998e-82,288.9,protein kinase C epsilon type isoform
+78,Mass_AKT_Aligned,NP_002732.3,7.4e-82,286.5,serine/threonine-protein kinase N1 iso
+79,Mass_AKT_Aligned,NP_998725.1,7.4e-82,286.5,serine/threonine-protein kinase N1 iso
+80,Mass_AKT_Aligned,XP_054193663.1,6.4000000000000005e-80,280.1,protein kinase C zeta type isoform X9
+81,Mass_AKT_Aligned,NP_001229803.1,3.1e-79,277.8,protein kinase C zeta type isoform 3 [
+82,Mass_AKT_Aligned,NP_002735.3,4.2e-79,277.4,protein kinase C zeta type isoform 1 [
+83,Mass_AKT_Aligned,XP_054193660.1,4.2e-79,277.4,protein kinase C zeta type isoform X6
+84,Mass_AKT_Aligned,XP_054193658.1,4.2e-79,277.4,protein kinase C zeta type isoform X4
+85,Mass_AKT_Aligned,NP_001269573.1,8.4e-76,266.4,protein kinase C theta type isoform 3
+86,Mass_AKT_Aligned,NP_001269574.1,8.4e-76,266.4,protein kinase C theta type isoform 4
+87,Mass_AKT_Aligned,NP_001310195.1,8.4e-76,266.4,protein kinase C theta type isoform 4
+88,Mass_AKT_Aligned,NP_001310194.1,8.4e-76,266.4,protein kinase C theta type isoform 1
+89,Mass_AKT_Aligned,NP_006248.1,8.4e-76,266.4,protein kinase C theta type isoform 1
+90,Mass_AKT_Aligned,XP_054222269.1,8.4e-76,266.4,protein kinase C theta type isoform X1
+91,Mass_AKT_Aligned,XP_054193656.1,6.4e-75,263.5,protein kinase C zeta type isoform X2
+92,Mass_AKT_Aligned,XP_054172616.1,3.3000000000000004e-74,261.1,protein kinase C alpha type isoform X1
+93,Mass_AKT_Aligned,NP_001303256.1,2.0000000000000002e-72,255.1,protein kinase C delta type isoform c
+94,Mass_AKT_Aligned,NP_001341605.1,2.0000000000000002e-72,255.1,protein kinase C delta type isoform a
+95,Mass_AKT_Aligned,NP_001341608.1,2.0000000000000002e-72,255.1,protein kinase C delta type isoform c
+96,Mass_AKT_Aligned,NP_001341607.1,2.0000000000000002e-72,255.1,protein kinase C delta type isoform b
+97,Mass_AKT_Aligned,NP_001341609.1,2.0000000000000002e-72,255.1,protein kinase C delta type isoform c
+98,Mass_AKT_Aligned,NP_006245.2,2.0000000000000002e-72,255.1,protein kinase C delta type isoform c
+99,Mass_AKT_Aligned,NP_997704.1,2.0000000000000002e-72,255.1,protein kinase C delta type isoform c
+100,Mass_AKT_Aligned,NP_001303258.1,2.6999999999999998e-70,248.1,protein kinase C gamma type isoform 1
+101,Mass_AKT_Aligned,NP_002730.1,2.6999999999999998e-70,248.1,protein kinase C gamma type isoform 2
+102,Mass_AKT_Aligned,XP_054177413.1,2.6999999999999998e-70,248.1,protein kinase C gamma type isoform X1
+103,Mass_AKT_Aligned,NP_037487.2,4.099999999999999e-68,240.9,serine/threonine-protein kinase N3 iso
+104,Mass_AKT_Aligned,XP_054218798.1,4.099999999999999e-68,240.9,serine/threonine-protein kinase N3 iso
+105,Mass_AKT_Aligned,XP_054218799.1,4.099999999999999e-68,240.9,serine/threonine-protein kinase N3 iso
+106,Mass_AKT_Aligned,XP_054218801.1,4.099999999999999e-68,240.9,serine/threonine-protein kinase N3 iso
+107,Mass_AKT_Aligned,NP_001258972.1,3.8e-63,224.3,ribosomal protein S6 kinase beta-1 iso
+108,Mass_AKT_Aligned,NP_003152.1,3.8e-63,224.3,ribosomal protein S6 kinase beta-1 iso
+109,Mass_AKT_Aligned,XP_054193662.1,1.3e-62,222.6,protein kinase C zeta type isoform X8
+110,Mass_AKT_Aligned,XP_054193657.1,1.4999999999999998e-62,222.4,protein kinase C zeta type isoform X3
+111,Mass_AKT_Aligned,NP_001186193.1,8.799999999999999e-62,219.8,serine/threonine-protein kinase Sgk2 [
+112,Mass_AKT_Aligned,NP_057360.3,8.799999999999999e-62,219.8,serine/threonine-protein kinase Sgk2 [
+113,Mass_AKT_Aligned,NP_733794.1,8.799999999999999e-62,219.8,serine/threonine-protein kinase Sgk2 [
+114,Mass_AKT_Aligned,NP_733827.2,3.1e-59,211.4,serine/threonine-protein kinase Sgk3 i
+115,Mass_AKT_Aligned,XP_054193655.1,2.3000000000000002e-58,208.5,protein kinase C zeta type isoform X1
+116,Mass_AKT_Aligned,XP_054193659.1,2.3000000000000002e-58,208.5,protein kinase C zeta type isoform X5
+117,Mass_AKT_Aligned,XP_054212163.1,7.4e-58,206.8,ribosomal protein S6 kinase alpha-2 is
+118,Mass_AKT_Aligned,XP_054193661.1,1.1e-57,206.2,protein kinase C zeta type isoform X7
+119,Mass_AKT_Aligned,XP_054189665.1,1.2e-57,206.0,RAC-gamma serine/threonine-protein kin
+120,Mass_AKT_Aligned,NP_001310196.1,3.3000000000000004e-57,204.6,protein kinase C theta type isoform 5
+121,Mass_AKT_Aligned,XP_054222270.1,3.3000000000000004e-57,204.6,protein kinase C theta type isoform X2
+122,Mass_AKT_Aligned,NP_001028753.1,5.200000000000001e-57,204.0,protein kinase C zeta type isoform 2 [
+123,Mass_AKT_Aligned,NP_001028754.1,5.200000000000001e-57,204.0,protein kinase C zeta type isoform 2 [
+124,Mass_AKT_Aligned,XP_054193674.1,5.200000000000001e-57,204.0,protein kinase C zeta type isoform X15
+125,Mass_AKT_Aligned,NP_001258989.1,1.7e-55,198.9,ribosomal protein S6 kinase beta-1 iso
+126,Mass_AKT_Aligned,NP_001305865.2,6.3e-55,197.0,ribosomal protein S6 kinase alpha-2 is
+127,Mass_AKT_Aligned,NP_003943.2,4.5e-54,194.2,ribosomal protein S6 kinase beta-2 [Ho
+128,Mass_AKT_Aligned,NP_001337732.1,7.499999999999999e-53,190.1,protein kinase C zeta type isoform 4 [
+129,Mass_AKT_Aligned,NP_001337733.1,7.499999999999999e-53,190.1,protein kinase C zeta type isoform 4 [
+130,Mass_AKT_Aligned,XP_054193668.1,7.499999999999999e-53,190.1,protein kinase C zeta type isoform X11
+131,Mass_AKT_Aligned,NP_001356598.1,1.7e-52,189.0,ribosomal protein S6 kinase beta-1 iso
+132,Mass_AKT_Aligned,XP_054182821.1,6.8e-50,180.3,ribosomal protein S6 kinase alpha-6 is
+133,Mass_AKT_Aligned,XP_054182822.1,6.8e-50,180.3,ribosomal protein S6 kinase alpha-6 is
+134,Mass_AKT_Aligned,XP_054182823.1,6.8e-50,180.3,ribosomal protein S6 kinase alpha-6 is
+135,Mass_AKT_Aligned,NP_001006933.3,8.6e-50,180.0,ribosomal protein S6 kinase alpha-2 is
+136,Mass_AKT_Aligned,NP_001258971.1,1.9e-49,178.9,ribosomal protein S6 kinase beta-1 iso
+137,Mass_AKT_Aligned,NP_004577.1,1.9e-49,178.9,ribosomal protein S6 kinase alpha-3 is
+138,Mass_AKT_Aligned,XP_054183499.1,1.9e-49,178.9,ribosomal protein S6 kinase alpha-3 is
+139,Mass_AKT_Aligned,XP_054183500.1,1.9e-49,178.9,ribosomal protein S6 kinase alpha-3 is
+140,Mass_AKT_Aligned,XP_054183501.1,1.9e-49,178.9,ribosomal protein S6 kinase alpha-3 is
+141,Mass_AKT_Aligned,NP_001006666.1,7.1e-49,176.9,ribosomal protein S6 kinase alpha-1 is
+142,Mass_AKT_Aligned,XP_054194065.1,7.1e-49,176.9,ribosomal protein S6 kinase alpha-1 is
+143,Mass_AKT_Aligned,NP_001278924.1,2.5000000000000002e-48,175.1,serine/threonine-protein kinase Sgk1 i
+144,Mass_AKT_Aligned,NP_066958.2,5.3e-48,174.1,ribosomal protein S6 kinase alpha-2 is
+145,Mass_AKT_Aligned,NP_001291278.1,2.5999999999999998e-46,168.4,cAMP-dependent protein kinase catalyti
+146,Mass_AKT_Aligned,XP_054212164.1,1.3e-45,166.1,ribosomal protein S6 kinase alpha-2 is
+147,Mass_AKT_Aligned,NP_002944.2,1.5e-45,165.9,ribosomal protein S6 kinase alpha-1 is
+148,Mass_AKT_Aligned,XP_054183498.1,2.1e-45,165.4,ribosomal protein S6 kinase alpha-3 is
+149,Mass_AKT_Aligned,XP_054183497.1,2.1e-45,165.4,ribosomal protein S6 kinase alpha-3 is
+150,Mass_AKT_Aligned,NP_001258973.1,4.2e-45,164.4,ribosomal protein S6 kinase beta-1 iso
+151,Mass_AKT_Aligned,NP_001317441.1,2e-44,162.1,ribosomal protein S6 kinase alpha-6 is
+152,Mass_AKT_Aligned,XP_054182824.1,2e-44,162.1,ribosomal protein S6 kinase alpha-6 is
+153,Mass_AKT_Aligned,NP_891993.1,6.200000000000001e-44,160.5,cAMP-dependent protein kinase catalyti
+154,Mass_AKT_Aligned,NP_055311.1,9.300000000000001e-44,159.9,ribosomal protein S6 kinase alpha-6 is
+155,Mass_AKT_Aligned,NP_001317370.1,3.7e-42,154.6,ribosomal protein S6 kinase alpha-1 is
+156,Mass_AKT_Aligned,XP_054191329.1,3.8e-42,154.6,microtubule-associated serine/threonin
+157,Mass_AKT_Aligned,XP_054191330.1,3.8e-42,154.6,microtubule-associated serine/threonin
+158,Mass_AKT_Aligned,XP_054191332.1,3.8e-42,154.6,microtubule-associated serine/threonin
+159,Mass_AKT_Aligned,XP_054191328.1,3.8e-42,154.6,microtubule-associated serine/threonin
+160,Mass_AKT_Aligned,XP_054191327.1,3.8e-42,154.6,microtubule-associated serine/threonin
+161,Mass_AKT_Aligned,XP_054191331.1,3.8e-42,154.6,microtubule-associated serine/threonin
+162,Mass_AKT_Aligned,XP_054191333.1,3.8e-42,154.6,microtubule-associated serine/threonin
+163,Mass_AKT_Aligned,XP_054172845.1,1.1999999999999999e-41,153.0,ribosomal protein S6 kinase beta-1 iso
+164,Mass_AKT_Aligned,XP_054212165.1,2.6e-41,151.8,ribosomal protein S6 kinase alpha-2 is
+165,Mass_AKT_Aligned,XP_054193671.1,1.8e-40,149.0,protein kinase C zeta type isoform X14
+166,Mass_AKT_Aligned,XP_054193673.1,1.8e-40,149.0,protein kinase C zeta type isoform X14
+167,Mass_AKT_Aligned,XP_054193672.1,1.8e-40,149.0,protein kinase C zeta type isoform X14
+168,Mass_AKT_Aligned,NP_001380434.1,2.7e-40,148.5,microtubule-associated serine/threonin
+169,Mass_AKT_Aligned,NP_001380450.1,2.7e-40,148.5,microtubule-associated serine/threonin
+170,Mass_AKT_Aligned,NP_001380446.1,2.7e-40,148.5,microtubule-associated serine/threonin
+171,Mass_AKT_Aligned,NP_001380449.1,2.7e-40,148.5,microtubule-associated serine/threonin
+172,Mass_AKT_Aligned,NP_001380436.1,2.7e-40,148.5,microtubule-associated serine/threonin
+173,Mass_AKT_Aligned,NP_001380445.1,2.7e-40,148.5,microtubule-associated serine/threonin
+174,Mass_AKT_Aligned,NP_001380448.1,2.7e-40,148.5,microtubule-associated serine/threonin
+175,Mass_AKT_Aligned,NP_001380442.1,2.7e-40,148.5,microtubule-associated serine/threonin
+176,Mass_AKT_Aligned,NP_001380447.1,2.7e-40,148.5,microtubule-associated serine/threonin
+177,Mass_AKT_Aligned,NP_055831.1,2.7e-40,148.5,microtubule-associated serine/threonin
+178,Mass_AKT_Aligned,XP_054176278.1,2.7e-40,148.5,microtubule-associated serine/threonin
+179,Mass_AKT_Aligned,XP_054176276.1,2.7e-40,148.5,microtubule-associated serine/threonin
+180,Mass_AKT_Aligned,XP_054176282.1,2.7e-40,148.5,microtubule-associated serine/threonin
+181,Mass_AKT_Aligned,XP_054176271.1,2.7e-40,148.5,microtubule-associated serine/threonin
+182,Mass_AKT_Aligned,XP_054176281.1,2.7e-40,148.5,microtubule-associated serine/threonin
+183,Mass_AKT_Aligned,XP_054176275.1,2.7e-40,148.5,microtubule-associated serine/threonin
+184,Mass_AKT_Aligned,XP_054176270.1,2.7e-40,148.5,microtubule-associated serine/threonin
+185,Mass_AKT_Aligned,XP_054176279.1,2.7e-40,148.5,microtubule-associated serine/threonin
+186,Mass_AKT_Aligned,XP_054176277.1,2.7e-40,148.5,microtubule-associated serine/threonin
+187,Mass_AKT_Aligned,NP_001380441.1,5.2e-40,147.5,microtubule-associated serine/threonin
+188,Mass_AKT_Aligned,NP_001311249.1,5.5e-40,147.4,microtubule-associated serine/threonin
+189,Mass_AKT_Aligned,NP_001311250.1,5.5e-40,147.4,microtubule-associated serine/threonin
+190,Mass_AKT_Aligned,NP_055927.2,5.5e-40,147.4,microtubule-associated serine/threonin
+191,Mass_AKT_Aligned,XP_054191305.1,5.5e-40,147.4,microtubule-associated serine/threonin
+192,Mass_AKT_Aligned,XP_054191314.1,5.5e-40,147.4,microtubule-associated serine/threonin
+193,Mass_AKT_Aligned,XP_054191316.1,5.5e-40,147.4,microtubule-associated serine/threonin
+194,Mass_AKT_Aligned,XP_054191321.1,5.5e-40,147.4,microtubule-associated serine/threonin
+195,Mass_AKT_Aligned,XP_054191323.1,5.5e-40,147.4,microtubule-associated serine/threonin
+196,Mass_AKT_Aligned,XP_054191324.1,5.5e-40,147.4,microtubule-associated serine/threonin
+197,Mass_AKT_Aligned,XP_054191309.1,5.5e-40,147.4,microtubule-associated serine/threonin
+198,Mass_AKT_Aligned,XP_054191311.1,5.5e-40,147.4,microtubule-associated serine/threonin
+199,Mass_AKT_Aligned,XP_054191318.1,5.5e-40,147.4,microtubule-associated serine/threonin
+200,Mass_AKT_Aligned,XP_054191322.1,5.5e-40,147.4,microtubule-associated serine/threonin
+201,Mass_AKT_Aligned,XP_054191310.1,5.5e-40,147.4,microtubule-associated serine/threonin
+202,Mass_AKT_Aligned,XP_054191307.1,5.5e-40,147.4,microtubule-associated serine/threonin
+203,Mass_AKT_Aligned,XP_054191313.1,5.5e-40,147.4,microtubule-associated serine/threonin
+204,Mass_AKT_Aligned,XP_054191326.1,5.5e-40,147.4,microtubule-associated serine/threonin
+205,Mass_AKT_Aligned,XP_054191319.1,5.5e-40,147.4,microtubule-associated serine/threonin
+206,Mass_AKT_Aligned,XP_054191325.1,5.5e-40,147.4,microtubule-associated serine/threonin
+207,Mass_AKT_Aligned,XP_054191320.1,5.5e-40,147.4,microtubule-associated serine/threonin
+208,Mass_AKT_Aligned,NP_001380430.1,5.8e-40,147.3,microtubule-associated serine/threonin
+209,Mass_AKT_Aligned,NP_001380443.1,5.8e-40,147.3,microtubule-associated serine/threonin
+210,Mass_AKT_Aligned,NP_001380439.1,5.8e-40,147.3,microtubule-associated serine/threonin
+211,Mass_AKT_Aligned,NP_001380440.1,5.8e-40,147.3,microtubule-associated serine/threonin
+212,Mass_AKT_Aligned,NP_001380431.1,5.8e-40,147.3,microtubule-associated serine/threonin
+213,Mass_AKT_Aligned,NP_001380438.1,5.8e-40,147.3,microtubule-associated serine/threonin
+214,Mass_AKT_Aligned,NP_001380444.1,5.8e-40,147.3,microtubule-associated serine/threonin
+215,Mass_AKT_Aligned,NP_001380435.1,5.8e-40,147.3,microtubule-associated serine/threonin
+216,Mass_AKT_Aligned,NP_001380433.1,5.8e-40,147.3,microtubule-associated serine/threonin
+217,Mass_AKT_Aligned,NP_001380432.1,5.8e-40,147.3,microtubule-associated serine/threonin
+218,Mass_AKT_Aligned,NP_001380437.1,5.8e-40,147.3,microtubule-associated serine/threonin
+219,Mass_AKT_Aligned,XP_054176274.1,5.8e-40,147.3,microtubule-associated serine/threonin
+220,Mass_AKT_Aligned,XP_054176272.1,5.8e-40,147.3,microtubule-associated serine/threonin
+221,Mass_AKT_Aligned,XP_054176268.1,5.8e-40,147.3,microtubule-associated serine/threonin
+222,Mass_AKT_Aligned,XP_054176266.1,5.8e-40,147.3,microtubule-associated serine/threonin
+223,Mass_AKT_Aligned,XP_054176267.1,5.8e-40,147.3,microtubule-associated serine/threonin
+224,Mass_AKT_Aligned,XP_054176273.1,5.8e-40,147.3,microtubule-associated serine/threonin
+225,Mass_AKT_Aligned,XP_054176269.1,5.8e-40,147.3,microtubule-associated serine/threonin
+226,Mass_AKT_Aligned,XP_054176280.1,5.8e-40,147.3,microtubule-associated serine/threonin
+227,Mass_AKT_Aligned,NP_001306174.1,6.1e-40,147.3,microtubule-associated serine/threonin
+228,Mass_AKT_Aligned,XP_054191306.1,6.1e-40,147.3,microtubule-associated serine/threonin
+229,Mass_AKT_Aligned,XP_054191308.1,6.1e-40,147.3,microtubule-associated serine/threonin
+230,Mass_AKT_Aligned,XP_054191315.1,6.1e-40,147.3,microtubule-associated serine/threonin
+231,Mass_AKT_Aligned,XP_054191312.1,6.1e-40,147.3,microtubule-associated serine/threonin
+232,Mass_AKT_Aligned,XP_054191317.1,6.1e-40,147.3,microtubule-associated serine/threonin
+233,Mass_AKT_Aligned,XP_054183510.1,4.4e-39,144.4,ribosomal protein S6 kinase alpha-3 is
+234,Mass_AKT_Aligned,XP_054183513.1,4.4e-39,144.4,ribosomal protein S6 kinase alpha-3 is
+235,Mass_AKT_Aligned,NP_001425269.1,5.9e-39,144.0,ribosomal protein S6 kinase alpha-3 is
+236,Mass_AKT_Aligned,XP_054183511.1,5.9e-39,144.0,ribosomal protein S6 kinase alpha-3 is
+237,Mass_AKT_Aligned,XP_054183512.1,5.9e-39,144.0,ribosomal protein S6 kinase alpha-3 is
+238,Mass_AKT_Aligned,XP_054183509.1,5.9e-39,144.0,ribosomal protein S6 kinase alpha-3 is
+239,Mass_AKT_Aligned,XP_054183508.1,5.9e-39,144.0,ribosomal protein S6 kinase alpha-3 is
+240,Mass_AKT_Aligned,XP_054183507.1,5.9e-39,144.0,ribosomal protein S6 kinase alpha-3 is
+241,Mass_AKT_Aligned,NP_001337734.1,1.2e-38,142.9,protein kinase C zeta type isoform 5 [
+242,Mass_AKT_Aligned,NP_001337735.1,1.2e-38,142.9,protein kinase C zeta type isoform 5 [
+243,Mass_AKT_Aligned,NP_055790.1,8.3e-37,136.8,microtubule-associated serine/threonin
+244,Mass_AKT_Aligned,XP_054189666.1,8.6e-37,136.8,RAC-gamma serine/threonine-protein kin
+245,Mass_AKT_Aligned,NP_005151.2,9.500000000000001e-37,136.7,G protein-coupled receptor kinase 3 is
+246,Mass_AKT_Aligned,XP_054193664.1,2.6e-36,135.2,protein kinase C zeta type isoform X10
+247,Mass_AKT_Aligned,XP_054193665.1,2.6e-36,135.2,protein kinase C zeta type isoform X10
+248,Mass_AKT_Aligned,XP_054193666.1,2.6e-36,135.2,protein kinase C zeta type isoform X10
+249,Mass_AKT_Aligned,XP_054193667.1,2.6e-36,135.2,protein kinase C zeta type isoform X10
+250,Mass_AKT_Aligned,XP_054183505.1,4e-35,131.2,ribosomal protein S6 kinase alpha-3 is
+251,Mass_AKT_Aligned,XP_054183502.1,6.2e-35,130.6,ribosomal protein S6 kinase alpha-3 is
+252,Mass_AKT_Aligned,XP_054183504.1,6.2e-35,130.6,ribosomal protein S6 kinase alpha-3 is
+253,Mass_AKT_Aligned,XP_054183503.1,6.2e-35,130.6,ribosomal protein S6 kinase alpha-3 is
+254,Mass_AKT_Aligned,XP_054193669.1,8e-35,130.3,protein kinase C zeta type isoform X12
+255,Mass_AKT_Aligned,NP_001309158.1,1.5e-34,129.3,ribosomal protein S6 kinase alpha-5 is
+256,Mass_AKT_Aligned,NP_004746.2,1.5e-34,129.3,ribosomal protein S6 kinase alpha-5 is
+257,Mass_AKT_Aligned,NP_872198.1,1.5e-34,129.3,ribosomal protein S6 kinase alpha-5 is
+258,Mass_AKT_Aligned,XP_054182825.1,2.3e-34,128.7,ribosomal protein S6 kinase alpha-6 is
+259,Mass_AKT_Aligned,NP_001356601.1,3.8e-34,128.0,ribosomal protein S6 kinase beta-1 iso
+260,Mass_AKT_Aligned,XP_054181163.1,9.800000000000001e-34,126.7,G protein-coupled receptor kinase 3 is
+261,Mass_AKT_Aligned,XP_054208517.1,1.5e-32,122.7,microtubule-associated serine/threonin
+262,Mass_AKT_Aligned,XP_054208526.1,1.5e-32,122.7,microtubule-associated serine/threonin
+263,Mass_AKT_Aligned,XP_054208527.1,1.5e-32,122.7,microtubule-associated serine/threonin
+264,Mass_AKT_Aligned,XP_054208529.1,1.5e-32,122.7,microtubule-associated serine/threonin
+265,Mass_AKT_Aligned,XP_054208528.1,1.5e-32,122.7,microtubule-associated serine/threonin
+266,Mass_AKT_Aligned,XP_054208525.1,1.5e-32,122.7,microtubule-associated serine/threonin
+267,Mass_AKT_Aligned,XP_054208530.1,1.5e-32,122.7,microtubule-associated serine/threonin
+268,Mass_AKT_Aligned,XP_054208515.1,1.5e-32,122.7,microtubule-associated serine/threonin
+269,Mass_AKT_Aligned,XP_054208531.1,1.5e-32,122.7,microtubule-associated serine/threonin
+270,Mass_AKT_Aligned,NP_001277156.1,1.9e-32,122.4,microtubule-associated serine/threonin
+271,Mass_AKT_Aligned,NP_001380456.1,1.9e-32,122.4,microtubule-associated serine/threonin
+272,Mass_AKT_Aligned,NP_001380455.1,1.9e-32,122.4,microtubule-associated serine/threonin
+273,Mass_AKT_Aligned,NP_001380454.1,1.9e-32,122.4,microtubule-associated serine/threonin
+274,Mass_AKT_Aligned,NP_001380457.1,1.9e-32,122.4,microtubule-associated serine/threonin
+275,Mass_AKT_Aligned,NP_001304855.1,1.2e-31,119.7,serine/threonine-protein kinase N3 iso
+276,Mass_AKT_Aligned,XP_054218800.1,1.2e-31,119.7,serine/threonine-protein kinase N3 iso
+277,Mass_AKT_Aligned,XP_054208516.1,1.9e-31,119.1,microtubule-associated serine/threonin
+278,Mass_AKT_Aligned,XP_054208523.1,1.9e-31,119.1,microtubule-associated serine/threonin
+279,Mass_AKT_Aligned,XP_054208521.1,1.9e-31,119.1,microtubule-associated serine/threonin
+280,Mass_AKT_Aligned,XP_054208513.1,1.9e-31,119.1,microtubule-associated serine/threonin
+281,Mass_AKT_Aligned,XP_054208519.1,1.9e-31,119.1,microtubule-associated serine/threonin
+282,Mass_AKT_Aligned,XP_054208524.1,1.9e-31,119.1,microtubule-associated serine/threonin
+283,Mass_AKT_Aligned,XP_054208518.1,1.9e-31,119.1,microtubule-associated serine/threonin
+284,Mass_AKT_Aligned,XP_054208522.1,1.9e-31,119.1,microtubule-associated serine/threonin
+285,Mass_AKT_Aligned,XP_054208532.1,1.9e-31,119.1,microtubule-associated serine/threonin
+286,Mass_AKT_Aligned,XP_054208533.1,1.9e-31,119.1,microtubule-associated serine/threonin
+287,Mass_AKT_Aligned,XP_054208520.1,1.9e-31,119.1,microtubule-associated serine/threonin
+288,Mass_AKT_Aligned,XP_054208514.1,1.9e-31,119.1,microtubule-associated serine/threonin
+289,Mass_AKT_Aligned,NP_001158136.1,2.3e-31,118.8,microtubule-associated serine/threonin
+290,Mass_AKT_Aligned,NP_001277155.1,2.3e-31,118.8,microtubule-associated serine/threonin
+291,Mass_AKT_Aligned,NP_001284580.1,2.3e-31,118.8,microtubule-associated serine/threonin
+292,Mass_AKT_Aligned,NP_001380453.1,2.3e-31,118.8,microtubule-associated serine/threonin
+293,Mass_AKT_Aligned,NP_055998.1,2.3e-31,118.8,microtubule-associated serine/threonin
+294,Mass_AKT_Aligned,NP_005299.1,3.1e-31,118.3,G protein-coupled receptor kinase 5 [H
+295,Mass_AKT_Aligned,NP_001229786.1,5.7e-31,117.5,cAMP-dependent protein kinase catalyti
+296,Mass_AKT_Aligned,NP_001004105.1,2.5000000000000002e-30,115.3,G protein-coupled receptor kinase 6 is
+297,Mass_AKT_Aligned,NP_001004106.1,2.5000000000000002e-30,115.3,G protein-coupled receptor kinase 6 is
+298,Mass_AKT_Aligned,NP_002073.2,2.5000000000000002e-30,115.3,G protein-coupled receptor kinase 6 is
+299,Mass_AKT_Aligned,NP_001091982.1,5.6000000000000005e-30,114.2,cGMP-dependent protein kinase 1 isofor
+300,Mass_AKT_Aligned,NP_006249.1,5.6000000000000005e-30,114.2,cGMP-dependent protein kinase 1 isofor
+301,Mass_AKT_Aligned,XP_054222272.1,7.3e-30,113.8,cGMP-dependent protein kinase 1 isofor
+302,Mass_AKT_Aligned,XP_054222271.1,7.3e-30,113.8,cGMP-dependent protein kinase 1 isofor
+303,Mass_AKT_Aligned,NP_001229789.1,2.5e-29,112.0,cAMP-dependent protein kinase catalyti
+304,Mass_AKT_Aligned,NP_001229788.1,3.4e-29,111.6,cAMP-dependent protein kinase catalyti
+305,Mass_AKT_Aligned,XP_054208436.1,8.1e-29,110.3,G protein-coupled receptor kinase 6 is
+306,Mass_AKT_Aligned,XP_054208435.1,2.6000000000000004e-28,108.6,G protein-coupled receptor kinase 6 is
+307,Mass_AKT_Aligned,NP_001362489.1,3.8000000000000005e-28,108.1,cAMP-dependent protein kinase catalyti
+308,Mass_AKT_Aligned,XP_054208434.1,3.9000000000000004e-28,108.0,G protein-coupled receptor kinase 6 is
+309,Mass_AKT_Aligned,NP_002721.1,5.200000000000001e-28,107.6,cAMP-dependent protein kinase catalyti
+310,Mass_AKT_Aligned,NP_001229342.1,8.9e-28,106.8,protein kinase C theta type isoform 2
+311,Mass_AKT_Aligned,NP_001610.2,1.3e-27,106.3,beta-adrenergic receptor kinase 1 [Hom
+312,Mass_AKT_Aligned,NP_002722.1,1.5e-27,106.1,cAMP-dependent protein kinase catalyti
+313,Mass_AKT_Aligned,NP_001004056.1,1.7000000000000002e-27,105.9,G protein-coupled receptor kinase 4 is
+314,Mass_AKT_Aligned,NP_001356599.1,5.8e-27,104.2,ribosomal protein S6 kinase beta-1 iso
+315,Mass_AKT_Aligned,NP_892027.2,6.3e-27,104.0,G protein-coupled receptor kinase 4 is
+316,Mass_AKT_Aligned,NP_001362491.1,1.2e-26,103.2,cAMP-dependent protein kinase catalyti
+317,Mass_AKT_Aligned,XP_054223794.1,1.4e-26,102.8,beta-adrenergic receptor kinase 1 isof
+318,Mass_AKT_Aligned,NP_001362490.1,5.899999999999999e-26,100.8,cAMP-dependent protein kinase catalyti
+319,Mass_AKT_Aligned,NP_997401.1,6.299999999999999e-26,100.7,cAMP-dependent protein kinase catalyti
+320,Mass_AKT_Aligned,NP_005298.2,1.4e-25,99.6,G protein-coupled receptor kinase 4 is
+321,Mass_AKT_Aligned,NP_001356600.1,2.6e-25,98.7,ribosomal protein S6 kinase beta-1 iso
+322,Mass_AKT_Aligned,NP_001362493.1,3e-25,98.5,cAMP-dependent protein kinase catalyti
+323,Mass_AKT_Aligned,NP_001362492.1,3.1999999999999997e-25,98.3,cAMP-dependent protein kinase catalyti
+324,Mass_AKT_Aligned,NP_001004057.1,5.2e-25,97.7,G protein-coupled receptor kinase 4 is
+325,Mass_AKT_Aligned,NP_001350330.1,5.5e-25,97.6,cGMP-dependent protein kinase 2 isofor
+326,Mass_AKT_Aligned,NP_006250.1,5.5e-25,97.6,cGMP-dependent protein kinase 2 isofor
+327,Mass_AKT_Aligned,XP_054206480.1,5.5e-25,97.6,cGMP-dependent protein kinase 2 isofor
+328,Mass_AKT_Aligned,XP_054206479.1,5.5e-25,97.6,cGMP-dependent protein kinase 2 isofor
+329,Mass_AKT_Aligned,NP_002723.2,5e-24,94.4,cAMP-dependent protein kinase catalyti
+330,Mass_AKT_Aligned,NP_001229787.1,2.2e-22,88.9,cAMP-dependent protein kinase catalyti
+331,Mass_AKT_Aligned,NP_001362494.1,3.6000000000000003e-22,88.2,cAMP-dependent protein kinase catalyti
+332,Mass_AKT_Aligned,XP_054193676.1,3.8e-22,88.1,protein kinase C zeta type isoform X17
+333,Mass_AKT_Aligned,NP_001006945.1,4.2e-22,88.0,ribosomal protein S6 kinase alpha-4 is
+334,Mass_AKT_Aligned,NP_001287731.1,4.2e-22,88.0,ribosomal protein S6 kinase alpha-4 is
+335,Mass_AKT_Aligned,NP_003933.1,4.2e-22,88.0,ribosomal protein S6 kinase alpha-4 is
+336,Mass_AKT_Aligned,NP_001229791.1,1.2e-21,86.5,cAMP-dependent protein kinase catalyti
+337,Mass_AKT_Aligned,NP_001309162.1,4.6e-19,77.9,ribosomal protein S6 kinase alpha-5 is
+338,Mass_AKT_Aligned,NP_001309165.1,1.2e-18,76.5,ribosomal protein S6 kinase alpha-5 is
+339,Mass_AKT_Aligned,XP_054205768.1,1.8e-18,76.0,G protein-coupled receptor kinase 4 is
+340,Mass_AKT_Aligned,XP_054205769.1,1.8e-18,76.0,G protein-coupled receptor kinase 4 is
+341,Mass_AKT_Aligned,XP_054205772.1,1.8e-18,76.0,G protein-coupled receptor kinase 4 is
+342,Mass_AKT_Aligned,XP_054193675.1,5.4e-18,74.4,protein kinase C zeta type isoform X16
+343,Mass_AKT_Aligned,NP_002920.1,6.8e-18,74.0,rhodopsin kinase GRK1 [Homo sapiens]
+344,Mass_AKT_Aligned,XP_054205770.1,1.1e-17,73.4,G protein-coupled receptor kinase 4 is
+345,Mass_AKT_Aligned,XP_054205773.1,1.4e-16,69.6,G protein-coupled receptor kinase 4 is
+346,Mass_AKT_Aligned,NP_005035.1,4.4e-16,68.0,cAMP-dependent protein kinase catalyti
+347,Mass_AKT_Aligned,NP_001337269.1,5.9e-14,60.9,serine/threonine-protein kinase LATS1
+348,Mass_AKT_Aligned,NP_001337321.1,5.9e-14,60.9,serine/threonine-protein kinase LATS1
+349,Mass_AKT_Aligned,NP_004681.1,5.9e-14,60.9,serine/threonine-protein kinase LATS1
+350,Mass_AKT_Aligned,XP_054212722.1,5.9e-14,60.9,serine/threonine-protein kinase LATS1
+351,Mass_AKT_Aligned,NP_001269414.1,6e-14,60.9,cGMP-dependent protein kinase 2 isofor
+352,Mass_AKT_Aligned,NP_001349707.1,1.1e-13,60.0,G protein-coupled receptor kinase 3 is
+353,Mass_AKT_Aligned,XP_054236418.1,8.9e-13,57.0,3-phosphoinositide-dependent protein k
+354,Mass_AKT_Aligned,NP_055387.2,2.4e-12,55.6,serine/threonine-protein kinase LATS2
+355,Mass_AKT_Aligned,XP_054230417.1,2.4e-12,55.6,serine/threonine-protein kinase LATS2
+356,Mass_AKT_Aligned,XP_054230418.1,2.4e-12,55.6,serine/threonine-protein kinase LATS2
+357,Mass_AKT_Aligned,XP_054230419.1,2.4e-12,55.6,serine/threonine-protein kinase LATS2
+358,Mass_AKT_Aligned,XP_054230421.1,2.4e-12,55.6,serine/threonine-protein kinase LATS2
+359,Mass_AKT_Aligned,XP_054230420.1,2.4e-12,55.6,serine/threonine-protein kinase LATS2
+360,Mass_AKT_Aligned,XP_054205780.1,2e-09,45.9,G protein-coupled receptor kinase 4 is
+361,Mass_AKT_Aligned,XP_054205778.1,5.4e-09,44.5,G protein-coupled receptor kinase 4 is
+362,Mass_AKT_Aligned,NP_001397983.1,1.2e-08,43.3,serine/threonine-protein kinase MRCK b
+363,Mass_AKT_Aligned,NP_006026.3,1.2e-08,43.3,serine/threonine-protein kinase MRCK b
+364,Mass_AKT_Aligned,XP_054233068.1,1.2e-08,43.3,serine/threonine-protein kinase MRCK b
+365,Mass_AKT_Aligned,XP_054233067.1,1.2e-08,43.3,serine/threonine-protein kinase MRCK b
+366,Mass_AKT_Aligned,XP_054233065.1,1.2e-08,43.3,serine/threonine-protein kinase MRCK b
+367,Mass_AKT_Aligned,XP_054233066.1,1.2e-08,43.3,serine/threonine-protein kinase MRCK b
+368,Mass_AKT_Aligned,XP_054233069.1,1.2e-08,43.3,serine/threonine-protein kinase MRCK b
+369,Mass_AKT_Aligned,XP_054233064.1,1.2e-08,43.3,serine/threonine-protein kinase MRCK b
+370,Mass_AKT_Aligned,XP_054205777.1,4.5e-08,41.4,G protein-coupled receptor kinase 4 is
+371,Mass_AKT_Aligned,NP_631948.1,8e-08,40.6,rhodopsin kinase GRK7 [Homo sapiens]
+372,Mass_AKT_Aligned,NP_001275693.1,3.6e-07,38.4,myotonin-protein kinase isoform 5 [Hom
+373,Mass_AKT_Aligned,NP_001411092.1,3.6e-07,38.4,myotonin-protein kinase isoform 10 [Ho
+374,Mass_AKT_Aligned,NP_001352948.1,1.9e-06,36.0,serine/threonine-protein kinase MRCK a
+375,Mass_AKT_Aligned,NP_001352939.1,1.9e-06,36.0,serine/threonine-protein kinase MRCK a
+376,Mass_AKT_Aligned,NP_001352940.1,1.9e-06,36.0,serine/threonine-protein kinase MRCK a
+377,Mass_AKT_Aligned,NP_001374479.1,1.9e-06,36.0,serine/threonine-protein kinase MRCK a
+378,Mass_AKT_Aligned,NP_001380943.1,1.9e-06,36.0,serine/threonine-protein kinase MRCK a
+379,Mass_AKT_Aligned,NP_003598.2,1.9e-06,36.0,serine/threonine-protein kinase MRCK a
+380,Mass_AKT_Aligned,NP_055641.3,1.9e-06,36.0,serine/threonine-protein kinase MRCK a
+381,Mass_AKT_Aligned,XP_054195215.1,1.9e-06,36.0,serine/threonine-protein kinase MRCK a
+382,Mass_AKT_Aligned,XP_054195217.1,1.9e-06,36.0,serine/threonine-protein kinase MRCK a
+383,Mass_AKT_Aligned,XP_054195220.1,1.9e-06,36.0,serine/threonine-protein kinase MRCK a
+384,Mass_AKT_Aligned,XP_054195227.1,1.9e-06,36.0,serine/threonine-protein kinase MRCK a
+385,Mass_AKT_Aligned,XP_054195230.1,1.9e-06,36.0,serine/threonine-protein kinase MRCK a
+386,Mass_AKT_Aligned,XP_054195228.1,1.9e-06,36.0,serine/threonine-protein kinase MRCK a
+387,Mass_AKT_Aligned,XP_054195224.1,1.9e-06,36.0,serine/threonine-protein kinase MRCK a
+388,Mass_AKT_Aligned,XP_054195229.1,1.9e-06,36.0,serine/threonine-protein kinase MRCK a
+389,Mass_AKT_Aligned,XP_054195232.1,1.9e-06,36.0,serine/threonine-protein kinase MRCK a
+390,Mass_AKT_Aligned,XP_054195218.1,1.9e-06,36.0,serine/threonine-protein kinase MRCK a
+391,Mass_AKT_Aligned,XP_054195221.1,1.9e-06,36.0,serine/threonine-protein kinase MRCK a
+392,Mass_AKT_Aligned,XP_054195219.1,1.9e-06,36.0,serine/threonine-protein kinase MRCK a
+393,Mass_AKT_Aligned,XP_054195231.1,1.9e-06,36.0,serine/threonine-protein kinase MRCK a
+394,Mass_AKT_Aligned,XP_054195223.1,1.9e-06,36.0,serine/threonine-protein kinase MRCK a
+395,Mass_AKT_Aligned,XP_054195222.1,1.9e-06,36.0,serine/threonine-protein kinase MRCK a
+396,Mass_AKT_Aligned,XP_054195216.1,1.9e-06,36.0,serine/threonine-protein kinase MRCK a
+397,Mass_AKT_Aligned,NP_001193928.1,2.5e-06,35.6,citron Rho-interacting kinase isoform
+398,Mass_AKT_Aligned,NP_009105.1,2.5e-06,35.6,citron Rho-interacting kinase isoform
+399,Mass_AKT_Aligned,XP_054226823.1,2.5e-06,35.6,citron Rho-interacting kinase isoform
+400,Mass_AKT_Aligned,XP_054226824.1,2.5e-06,35.6,citron Rho-interacting kinase isoform
+401,Mass_AKT_Aligned,XP_054226825.1,2.5e-06,35.6,citron Rho-interacting kinase isoform
+402,Mass_AKT_Aligned,XP_054226831.1,2.5e-06,35.6,citron Rho-interacting kinase isoform
+403,Mass_AKT_Aligned,XP_054226832.1,2.5e-06,35.6,citron Rho-interacting kinase isoform
+404,Mass_AKT_Aligned,XP_054226826.1,2.5e-06,35.6,citron Rho-interacting kinase isoform
+405,Mass_AKT_Aligned,XP_054226830.1,2.5e-06,35.6,citron Rho-interacting kinase isoform
+406,Mass_AKT_Aligned,XP_054226829.1,2.5e-06,35.6,citron Rho-interacting kinase isoform
+407,Mass_AKT_Aligned,XP_054226827.1,2.5e-06,35.6,citron Rho-interacting kinase isoform
+408,Mass_AKT_Aligned,XP_054226828.1,2.5e-06,35.6,citron Rho-interacting kinase isoform
+409,Mass_AKT_Aligned,NP_005397.1,2.4e-05,32.3,rho-associated protein kinase 1 [Homo
+410,Mass_AKT_Aligned,XP_054226402.1,0.00021,29.2,ribosomal protein S6 kinase alpha-4 is
+411,Mass_AKT_Aligned,NP_001337268.1,0.00021,29.2,serine/threonine-protein kinase LATS1
+412,Mass_AKT_Aligned,XP_054212728.1,0.00021,29.2,serine/threonine-protein kinase LATS1
+413,Mass_AKT_Aligned,XP_054212720.1,0.00021,29.2,serine/threonine-protein kinase LATS1
+414,Mass_AKT_Aligned,XP_054212719.1,0.00021,29.2,serine/threonine-protein kinase LATS1
+415,Mass_AKT_Aligned,XP_054212721.1,0.00021,29.2,serine/threonine-protein kinase LATS1
+416,Mass_AKT_Aligned,NP_001309157.1,0.00022,29.1,ribosomal protein S6 kinase alpha-5 is
+417,Mass_AKT_Aligned,NP_001229790.1,0.00023,29.1,cAMP-dependent protein kinase catalyti
+418,Mass_AKT_Aligned,NP_001305867.1,0.00041,28.2,ribosomal protein S6 kinase alpha-2 is
+419,Mass_AKT_Aligned,XP_054212166.1,0.00041,28.2,ribosomal protein S6 kinase alpha-2 is
+420,Mass_AKT_Aligned,XP_054226401.1,0.00043,28.2,ribosomal protein S6 kinase alpha-4 is
+421,Mass_AKT_Aligned,XP_054226403.1,0.00044,28.2,ribosomal protein S6 kinase alpha-4 is
+422,Mass_AKT_Aligned,NP_001411091.1,0.0017,26.2,myotonin-protein kinase isoform 14 [Ho
+423,Mass_AKT_Aligned,NP_001411094.1,0.0017,26.2,myotonin-protein kinase isoform 11 [Ho
+424,Mass_AKT_Aligned,NP_001411097.1,0.0017,26.2,myotonin-protein kinase isoform 15 [Ho
+425,Mass_AKT_Aligned,NP_001075029.1,0.0069,24.2,myotonin-protein kinase isoform 3 [Hom
+426,Mass_AKT_Aligned,NP_001075031.1,0.0069,24.2,myotonin-protein kinase isoform 4 [Hom
+427,Mass_AKT_Aligned,NP_001411098.1,0.0069,24.2,myotonin-protein kinase isoform 13 [Ho
+428,Mass_AKT_Aligned,NP_001075032.1,0.0074,24.1,myotonin-protein kinase isoform 1 [Hom
+429,Mass_AKT_Aligned,NP_001339328.1,0.015,23.0,serine/threonine-protein kinase 33 iso
+430,Mass_AKT_Aligned,XP_054225690.1,0.015,23.0,serine/threonine-protein kinase 33 iso
+431,Mass_AKT_Aligned,XP_054225692.1,0.015,23.0,serine/threonine-protein kinase 33 iso
+432,Mass_AKT_Aligned,XP_054225693.1,0.015,23.0,serine/threonine-protein kinase 33 iso
+433,Mass_AKT_Aligned,XP_054225691.1,0.015,23.0,serine/threonine-protein kinase 33 iso
+434,Mass_AKT_Aligned,XP_054225694.1,0.015,23.0,serine/threonine-protein kinase 33 iso
+435,Mass_AKT_Aligned,XP_054194066.1,0.018,22.8,ribosomal protein S6 kinase alpha-1 is
+436,Mass_AKT_Aligned,NP_001275990.1,0.03,22.0,serine/threonine-protein kinase 33 iso
+437,Mass_AKT_Aligned,NP_001339316.1,0.03,22.0,serine/threonine-protein kinase 33 iso
+438,Mass_AKT_Aligned,NP_001339319.1,0.03,22.0,serine/threonine-protein kinase 33 iso
+439,Mass_AKT_Aligned,NP_001339320.1,0.03,22.0,serine/threonine-protein kinase 33 iso
+440,Mass_AKT_Aligned,NP_001339321.1,0.03,22.0,serine/threonine-protein kinase 33 iso
+441,Mass_AKT_Aligned,NP_001339322.1,0.03,22.0,serine/threonine-protein kinase 33 iso
+442,Mass_AKT_Aligned,NP_001339318.1,0.03,22.0,serine/threonine-protein kinase 33 iso
+443,Mass_AKT_Aligned,NP_001339317.1,0.03,22.0,serine/threonine-protein kinase 33 iso
+444,Mass_AKT_Aligned,NP_112168.1,0.03,22.0,serine/threonine-protein kinase 33 iso
+445,Mass_AKT_Aligned,XP_054225658.1,0.03,22.0,serine/threonine-protein kinase 33 iso
+446,Mass_AKT_Aligned,XP_054225659.1,0.03,22.0,serine/threonine-protein kinase 33 iso
+447,Mass_AKT_Aligned,XP_054225661.1,0.03,22.0,serine/threonine-protein kinase 33 iso
+448,Mass_AKT_Aligned,XP_054225662.1,0.03,22.0,serine/threonine-protein kinase 33 iso
+449,Mass_AKT_Aligned,XP_054225663.1,0.03,22.0,serine/threonine-protein kinase 33 iso
+450,Mass_AKT_Aligned,XP_054225665.1,0.03,22.0,serine/threonine-protein kinase 33 iso
+451,Mass_AKT_Aligned,XP_054225666.1,0.03,22.0,serine/threonine-protein kinase 33 iso
+452,Mass_AKT_Aligned,XP_054225667.1,0.03,22.0,serine/threonine-protein kinase 33 iso
+453,Mass_AKT_Aligned,XP_054225669.1,0.03,22.0,serine/threonine-protein kinase 33 iso
+454,Mass_AKT_Aligned,XP_054225671.1,0.03,22.0,serine/threonine-protein kinase 33 iso
+455,Mass_AKT_Aligned,XP_054225674.1,0.03,22.0,serine/threonine-protein kinase 33 iso
+456,Mass_AKT_Aligned,XP_054225675.1,0.03,22.0,serine/threonine-protein kinase 33 iso
+457,Mass_AKT_Aligned,XP_054225676.1,0.03,22.0,serine/threonine-protein kinase 33 iso
+458,Mass_AKT_Aligned,XP_054225677.1,0.03,22.0,serine/threonine-protein kinase 33 iso
+459,Mass_AKT_Aligned,XP_054225678.1,0.03,22.0,serine/threonine-protein kinase 33 iso
+460,Mass_AKT_Aligned,XP_054225679.1,0.03,22.0,serine/threonine-protein kinase 33 iso
+461,Mass_AKT_Aligned,XP_054225680.1,0.03,22.0,serine/threonine-protein kinase 33 iso
+462,Mass_AKT_Aligned,XP_054225668.1,0.03,22.0,serine/threonine-protein kinase 33 iso
+463,Mass_AKT_Aligned,XP_054225664.1,0.03,22.0,serine/threonine-protein kinase 33 iso
+464,Mass_AKT_Aligned,XP_054225672.1,0.03,22.0,serine/threonine-protein kinase 33 iso
+465,Mass_AKT_Aligned,XP_054225660.1,0.03,22.0,serine/threonine-protein kinase 33 iso
+466,Mass_AKT_Aligned,XP_054225670.1,0.03,22.0,serine/threonine-protein kinase 33 iso
+467,Mass_AKT_Aligned,XP_054225673.1,0.03,22.0,serine/threonine-protein kinase 33 iso
+468,Mass_AKT_Aligned,XP_054236419.1,0.032,21.9,3-phosphoinositide-dependent protein k
+469,Mass_AKT_Aligned,XP_054205775.1,0.062,21.0,G protein-coupled receptor kinase 4 is
+470,Mass_AKT_Aligned,XP_054205774.1,0.062,21.0,G protein-coupled receptor kinase 4 is
+471,Mass_AKT_Aligned,NP_004841.2,0.14,19.8,rho-associated protein kinase 2 isofor
+472,Mass_AKT_Aligned,XP_054200614.1,0.14,19.8,rho-associated protein kinase 2 isofor
+473,Mass_AKT_Aligned,XP_054200615.1,0.14,19.8,rho-associated protein kinase 2 isofor
+474,Mass_AKT_Aligned,NP_001248745.1,0.2,19.3,3-phosphoinositide-dependent protein k
+475,Mass_AKT_Aligned,NP_002604.1,0.2,19.3,3-phosphoinositide-dependent protein k
+476,Mass_AKT_Aligned,XP_054205776.1,2.9,15.5,G protein-coupled receptor kinase 4 is
