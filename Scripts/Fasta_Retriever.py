@@ -62,10 +62,10 @@ def main():
         if os.path.isfile(path_to_check):
             root, extension = os.path.splitext(path_to_check)
             if extension == ".csv":
-                dataframe = pd.read_csv(f'{homeDirectory}/{path_to_check}')
+                dataframe = pd.read_csv(f'{path_to_check}')
                 tarList = dataframe['hit_id'].tolist()
                 for target in tarList:
-                    run(f"wget 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=protein&id={target}&rettype=fastaff' -O {output_directory}/{target}.fa")
+                    run(f"wget 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=protein&id={target}&rettype=fasta' -O {output_directory}/{target}.fa")
                 else:
                     print("This file is not a csv file", file=sys.stderr)
                     sys.exit(1)
@@ -78,7 +78,7 @@ def main():
                 dataframe = pd.read_csv(csv)
                 tarList = dataframe['hit_id'].tolist()
             for target in tarList:
-                run(f"wget 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=protein&id={target}&rettype=fastaff' -O {output_directory}/{target}.fa")
+                run(f"wget 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=protein&id={target}&rettype=fasta' -O {output_directory}/{target}.fa")
         else:
             print("No file or directory has been inputted", file=sys.stderr)
             sys.exit(1)
