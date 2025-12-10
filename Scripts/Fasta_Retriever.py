@@ -15,6 +15,9 @@ Goal of this program is to take in a csv file(s), read in the targets and store 
 Once a list has been generated, use the list and run it through a wget command to retrieve the fasta files from ncbi
 Store the ncbi files within a default directory or user inputted directory
 
+Uses HMMER2 based csv files. HMMER3 version will be next version of this code
+
+
 Written By: Kyle Johnson, 2025
 
 '''
@@ -43,10 +46,19 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("-i", help= "Input directory location or specific csv file")
     parser.add_argument("-o", help= "Output directory location. Optional")
+    parser.add_argument("-filter", help="specific filter for bitvalues, optional")
     arg = parser.parse_args()
 
     path_to_check = arg.i
     homeDirectory = pathlib.Path(os.getcwd())
+
+    filtercheck = False
+
+    if arg.filter is None:
+        filternum = None
+    else:
+        filtercheck = True
+        filternum = float(arg.filter)
 
     #Establishes a default directory or user generated directory
     if arg.o is None:
@@ -63,9 +75,12 @@ def main():
             root, extension = os.path.splitext(path_to_check)
             if extension == ".csv":
                 dataframe = pd.read_csv(f'{path_to_check}')
+                if filtercheck == True:
+                    dataframe = dataframe.query(f'hit_bitscore > {filternum}')
+
                 tarList = dataframe['hit_id'].tolist()
                 for target in tarList:
-                    run(f"wget 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=protein&id={target}&rettype=fasta' -O {output_directory}/{target}.fa")
+                    run(f"wget --random-wait 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=protein&id={target}&rettype=fasta' -O {output_directory}/{target}.fa")
                 else:
                     print("This file is not a csv file", file=sys.stderr)
                     sys.exit(1)
@@ -75,13 +90,27 @@ def main():
         if os.path.isdir(path_to_check):
             dirpath = pathlib.Path(path_to_check)
             for csv in dirpath.rglob("*.csv"):
+                print(csv)
                 dataframe = pd.read_csv(csv)
+                if dataframe.empty:
+                    print(f'Found Empty: {csv}')
+                    continue
+                #Here we are going to do a check for the filter
+                if filtercheck == True:
+                    dataframe = dataframe.query(f'hit_bitscore > {filternum}')
+
+                print(dataframe['hit_id'])
+                testlist = dataframe['hit_id'].tolist()
+                for element in testlist:
+                    print(element)
                 tarList = dataframe['hit_id'].tolist()
-            for target in tarList:
-                run(f"wget 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=protein&id={target}&rettype=fasta' -O {output_directory}/{target}.fa")
-        else:
-            print("No file or directory has been inputted", file=sys.stderr)
-            sys.exit(1)
+
+                for target in tarList: print(target)
+                for target in tarList:
+                    run(f"wget --random-wait 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=protein&id={target}&rettype=fasta' -O {output_directory}/{target}.fa")
+            else:
+                print("No file or directory has been inputted", file=sys.stderr)
+                sys.exit(1)
 
 
 if __name__ == "__main__":
