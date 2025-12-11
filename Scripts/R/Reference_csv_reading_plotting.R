@@ -7,13 +7,8 @@ reference_global <- read_csv(file = "C:/Users/kajoh/Documents/GitHub/AKT_Researc
 reference_global <- reference_global %>% select(-1)
 reference_global <- reference_global %>% rename('bitscore_global' = 'hit_bitscore')
 
-#main_global
 main_global <- read_csv(file = "C:/Users/kajoh/Documents/GitHub/AKT_Research/CSV_Files/Combined_CSVs/Main_Global.csv")
 main_global <- main_global %>% select(-1) %>% rename('bitscore_global' = 'hit_bitscore')
-
-
-
-
 
 
 
@@ -23,8 +18,6 @@ reference_local <- reference_local %>% rename('bitscore_local' = 'hit_bitscore')
 
 main_local <- read_csv(file = "C:/Users/kajoh/Documents/GitHub/AKT_Research/CSV_Files/Combined_CSVs/Main_Local.csv")
 main_local <- main_local %>% select(-1) %>% rename('bitscore_local' = 'hit_bitscore')
-
-
 
 
 
@@ -43,6 +36,8 @@ resultPlot <- total %>% ggplot(aes(x = bitscore_global, y = bitscore_local, colo
   theme_bw()
 
 resultPlot
+
+
 ggsave("C:/Users/kajoh/Documents/GitHub/AKT_Research/Global_Local_Graph.png", plot = resultPlot, device = "png", width = 3840/200, height = 2160/200, units = "in", dpi = 200)
 
 
