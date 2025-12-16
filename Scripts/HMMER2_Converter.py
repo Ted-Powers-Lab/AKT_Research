@@ -115,7 +115,11 @@ def main():
                     "hit_description": hit.description
                 }
                 data.append(hit_data)
+                
+
+        # We want to add the accession data here as well
         df = pd.DataFrame(data)
+        df['accn'] = string(acc)
         directory_make(f"{output_directory}/{cladeName}/")
         df.to_csv(f"{output_directory}/{cladeName}/{acc}.csv")
         directory_remove(f"{homeDirectory}/Temp")
