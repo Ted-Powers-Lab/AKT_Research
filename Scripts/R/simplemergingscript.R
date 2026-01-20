@@ -16,7 +16,7 @@ finaldata <- left_join(finaldata, taxondata[c("Taxid","Species name", "Phylum na
 finaldata <- finaldata %>% select(-X)%>% relocate("hit_id")
 
 
-finaldata <- left_join(finaldata, metabolicdata[c("Taxid", "M.Strategy", "SIN1", "RICTOR", "RAPTOR", "TOR", "LST8")], by = "Taxid")
+finaldata <- left_join(finaldata, metabolicdata[c("Taxid", "M.Strategy","SIN1", "RICTOR", "RAPTOR", "TOR", "LST8")], by = "Taxid")
 #Need to make some modifications to add in values for H.sapiens, D.melanogaster, S.cerevisiae, S.pombe (Give them M.strategy etc etc)
 
 
