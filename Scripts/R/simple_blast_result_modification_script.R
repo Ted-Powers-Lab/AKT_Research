@@ -8,7 +8,10 @@
 
 library(tidyverse)
 
-ssn_annotation_data <- read_tsv(file = "C:/Users/kajoh/OneDrive/Desktop/200filter_blast_results_additional.tsv", col_names = FALSE)
+hmmer2info <- read_csv(file = "C:/Users/kajoh/OneDrive/Documents/GitHub/AKT_Research/CSV_Files/FinalHmmer2Data.csv")
+hmmer2info <- hmmer2info %>% rename(sseqid = hit_id)
+
+ssn_annotation_data <- read_tsv(file = "C:/Users/kajoh/OneDrive/Desktop/allvall.tsv", col_names = FALSE)
 ssn_annotation_data <- ssn_annotation_data %>% rename(qseqid =X1,
                                                       sseqid=X2,
                                                       pident=X3,
@@ -20,15 +23,16 @@ ssn_annotation_data <- ssn_annotation_data %>% rename(qseqid =X1,
                                                       sstart=X9,
                                                       send=X10,
                                                       evalue=X11,
-                                                      bitscore=X12,
-                                                      staxid=X14)%>%select(-X15,-X13)
+                                                      bitscore=X12)
+
+ssn_annotation_data_final <- left_join(ssn_annotation_data, hmmer2info[c("sseqid", "accn", "Taxid","Species name", "hit_description")], by = "sseqid")
 
 
 
 
 
 
-write_csv(ssn_annotation_data, file ="C:/Users/kajoh/OneDrive/Desktop/annotation_data_200reference.csv")
+write_csv(ssn_annotation_data_final, file ="C:/Users/kajoh/OneDrive/Desktop/annotation_data_50_filter.csv")
 
 
 
