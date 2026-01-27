@@ -24,7 +24,7 @@ alveolata_tree_data <- read.tree(file = "~/GitHub/AKT_Research/Trees/aligned_clu
 
   
 #Alveolata tree data here, similar process to the previous
-alv_ggtree <- ggtree(alveolata_tree_data, layout = "daylight", branch.length = "none")
+alv_ggtree <- ggtree(alveolata_tree_data, layout = "daylight", branch.length = 'none')
 alv_ggtree <- alv_ggtree %<+% mapping_data
 alv_ggtree
 
