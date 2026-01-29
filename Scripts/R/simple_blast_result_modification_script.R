@@ -8,10 +8,10 @@
 
 library(tidyverse)
 
-hmmer2info <- read_csv(file = "C:/Users/kajoh/OneDrive/Documents/GitHub/AKT_Research/CSV_Files/FinalHmmer2Data.csv")
+hmmer2info <- read_csv(file = "~/GitHub/AKT_Research/CSV_Files/finalmappingdata.csv")
 hmmer2info <- hmmer2info %>% rename(sseqid = hit_id)
 
-ssn_annotation_data <- read_tsv(file = "C:/Users/kajoh/OneDrive/Desktop/allvall.tsv", col_names = FALSE)
+ssn_annotation_data <- read_tsv(file = "~/GitHub/AKT_Research/CSV_Files/ssn/allvall.tsv", col_names = FALSE)
 ssn_annotation_data <- ssn_annotation_data %>% rename(qseqid =X1,
                                                       sseqid=X2,
                                                       pident=X3,
@@ -25,7 +25,7 @@ ssn_annotation_data <- ssn_annotation_data %>% rename(qseqid =X1,
                                                       evalue=X11,
                                                       bitscore=X12)
 
-ssn_annotation_data_final <- left_join(ssn_annotation_data, hmmer2info[c("sseqid", "accn", "Taxid","Species name", "hit_description")], by = "sseqid")
+ssn_annotation_data_final <- left_join(ssn_annotation_data, hmmer2info[c("sseqid", "accn", "Taxid","Species name", "hit_description", "Super.Group","TORC2_Presence")], by = "sseqid")
 
 
 

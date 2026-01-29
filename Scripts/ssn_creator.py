@@ -11,7 +11,7 @@ import networkx as nx
 # Global Variables
 SCORE_COLUMN = "bitscore"
 # Modify this to generate different ssns
-THRESHOLD = 350
+THRESHOLD = 325
 
 # Load the BLAST report
 def load_blast_tsv(path):
@@ -66,7 +66,7 @@ def save_network(G, out_file):
 
 # Main
 if __name__ == "__main__":
-    df = load_blast_tsv("C:/Users/kajoh/OneDrive/Desktop/200filter_blast_results.tsv")
+    df = load_blast_tsv("C:/Users/kajoh/OneDrive/Desktop/subsetagc_results.tsv")
     print("Finished loading in the dataframe object")
     print("About to build the ssn")
     G = build_ssn(remove_reciprocal(df), SCORE_COLUMN, THRESHOLD)
@@ -74,7 +74,7 @@ if __name__ == "__main__":
     print(f"Nodes: {G.number_of_edges()}")
     print(f"Edges: {G.number_of_edges()}")
     
-    save_network(G, "C:/Users/kajoh/OneDrive/Desktop/200filterssn.graphml")
+    save_network(G, "C:/Users/kajoh/OneDrive/Desktop/sgksubsetpotentials.graphml")
         
     
 
