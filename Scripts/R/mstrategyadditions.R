@@ -8,9 +8,15 @@ tortable <- tortable %>% mutate(TORC2_Presence = case_when(
   RICTOR == "M" ~ "TORC2 Expected",
   RICTOR == "L" ~ "TORC2 Expected",
   TRUE ~ "No TORC2"
+)) %>% mutate(TORC1_Presence = case_when(
+  RAPTOR == "H" ~ "TORC1 Expected",
+  RAPTOR == "M" ~ "TORC1 Expected",
+  RAPTOR == "L" ~ "TORC1 Expected",
+  TRUE ~ "No TORC1"
 ))
 
-finaltable <- left_join(hmmerdata, tortable[c("Taxid","Super.Group","M.Strategy","TORC2_Presence")])
+
+finaltable <- left_join(hmmerdata, tortable[c("Taxid","Super.Group","M.Strategy","TORC2_Presence", "TORC1_Presence")])
 
 
 # If the taxid number is for s.cerevisiae, s.pombe, h.sapiens, and d.melanogaster, change the Super Group to opisthokonta and M.strategy to Heterotroph
@@ -34,6 +40,13 @@ finaltable <- finaltable %>% mutate(M.Strategy = case_when(
   `Group name` == "ciliates" & Super.Group == NA ~ "TORC2 Expected",
   `Kingdom name` == "Viridiplantae" & Super.Group == NA ~ "No TORC2",
   TRUE ~ TORC2_Presence
+)) %>% mutate(TORC1_Presence = case_when(
+  Taxid == 9606 | Taxid == 7227 | Taxid == 559292 | Taxid == 4896 ~ "TORC1 Expected",
+  `Group name` == "Ciliophora" & Super.Group == NA ~ "No TORC1",
+  `Group name` == "ciliates" & Super.Group == NA ~ "No TORC1",
+  `Kingdom name` == "Viridiplantae" & Super.Group == NA ~ "TORC1 Expected",
+  `Phylum name` == "Streptophyta" & Super.Group == NA ~ "TORC1 Expected",
+  TRUE ~ TORC1_Presence
 ))
 
 
