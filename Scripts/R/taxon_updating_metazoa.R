@@ -31,4 +31,4 @@ taxon_update <- left_join(taxon_update, accn_information_ncbi, by = "Taxid")
 
 
 
-write_csv(taxon_update, file = "C:/Users/kajoh/OneDrive/Documents/GitHub/AKT_Research/updated_taxon_accession_information.tsv")
+write_csv(taxon_update, file = "C:/Users/kajoh/OneDrive/Documents/GitHub/AKT_Research/updated_taxon_accession_information.csv")
