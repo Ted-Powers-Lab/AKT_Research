@@ -2,7 +2,7 @@ library(tidyverse)
 
 
 
-blast_data <- read_tsv(file = "C:/Users/kajoh/OneDrive/Documents/GitHub/AKT_Research/CSV_Files/ssn/dblast_results_update_reference.tsv", col_names = FALSE)
+blast_data <- read_tsv(file = "C:/Users/kajoh/OneDrive/Documents/GitHub/AKT_Research/CSV_Files/ssn/updated_reference_all.tsv", col_names = FALSE)
 blast_data <- blast_data %>% rename(qseqid =X1,
                                   sseqid=X2,
                                   pident=X3,
@@ -70,7 +70,9 @@ updatedinfo <- left_join(updatedinfo, tordata, by = "Taxid")
 # Now to do some manual changes regarding the metazoans:
 
 updatedinfo <- updatedinfo %>% mutate(Super.Group = case_when(
-  Kingdom.name == "Metazoa" ~ "Opisthokonta",
+  `Kingdom.name` == "Metazoa" ~ "Opisthokonta",
+  `Kingdom.name` == "Fungi" ~ "Opisthokonta",
+  `Phylum.name` == "Evosea" ~ "Amoebozoa",
   .default = Super.Group
 )) %>% mutate(M.Strategy = case_when(
   `Kingdom.name` == "Viridiplantae" & is.na(M.Strategy) ~ "Autotrophic",
@@ -78,15 +80,21 @@ updatedinfo <- updatedinfo %>% mutate(Super.Group = case_when(
   `Phylum.name` == "Streptophyta" & is.na(M.Strategy) ~ "Autotrophic",
   `Group.name` == "Ciliophora" & is.na(M.Strategy) ~ "Heterotroph",
   `Group.name` == "ciliates" & is.na(M.Strategy) ~ "Heterotroph",
+  `Kingdom.name` == "Fungi" & is.na(M.Strategy) ~ "Heterotroph",
+  `Phylum.name` == "Evosea" & is.na(M.Strategy) ~ "Heterotroph",
   .default = M.Strategy)) %>%
   mutate(TORC2_Presence = case_when(
     `Kingdom.name` == "Metazoa" & is.na(TORC2_Presence) ~ "TORC2 Expected",
+    `Kingdom.name` == "Fungi" & is.na(TORC2_Presence) ~ "TORC2 Expected",
     `Group.name` == "Ciliophora" & is.na(TORC2_Presence) ~ "TORC2 Expected",
     `Group.name` == "ciliates" & is.na(TORC2_Presence) ~ "TORC2 Expected",
+    `Phylum.name` == "Evosea" & is.na(TORC2_Presence) ~ "TORC2 Expected",
     .default = TORC2_Presence
   )) %>%
   mutate(TORC1_Presence = case_when(
     `Kingdom.name` == "Metazoa" & is.na(TORC1_Presence) ~ "TORC1 Expected",
+    `Kingdom.name` == "Fungi" & is.na(TORC1_Presence) ~ "TORC1 Expected",
+    `Phylum.name` == "Evosea" & is.na(TORC1_Presence) ~ "TORC1 Expected",
     .default = TORC1_Presence
   ))
 
@@ -95,7 +103,7 @@ updatedinfo <- updatedinfo %>% mutate(Super.Group = case_when(
 
 
 
-write_csv(updatedinfo, file = "C:/Users/kajoh/OneDrive/Documents/GitHub/AKT_Research/CSV_Files/ssn/updated_reference_annotation.csv")
+write_csv(updatedinfo, file = "C:/Users/kajoh/OneDrive/Documents/GitHub/AKT_Research/CSV_Files/ssn/updated_reference_annotation_v2.csv")
 
 
 
